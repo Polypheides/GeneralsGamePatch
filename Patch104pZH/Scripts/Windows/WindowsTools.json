@@ -27,11 +27,11 @@
                 "enabled": true,
                 "files": [
                     {
-                        "url": "https://github.com/TheSuperHackers/GeneralsTools/raw/main/Tools/gametextcompiler/v1.1/gametextcompiler.exe",
                         "target": "{TOOLS_DIR}/gametextcompiler.exe",
-                        "sha256": "9c4c50f9c4829caff9b913bdd1a398a3a323ae9a1599723ff71ac675f6087467",
-                        "size": 948736,
+                        "sha256": "326956d2ef19fbdcdf2a67e3de929a396459891e83009385d91eff8ec6aab453",
+                        "size": 835072,
                         "runnable": true
+
                     }
                 ]
             },
