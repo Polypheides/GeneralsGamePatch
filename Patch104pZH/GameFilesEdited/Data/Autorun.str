@@ -10,6 +10,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:Cancel
@@ -24,6 +26,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:Uninstall
@@ -38,6 +42,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:Website
@@ -52,6 +58,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:ExploreCD
@@ -66,6 +74,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:Install
@@ -80,6 +90,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:CheckForUpdates
@@ -94,6 +106,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:Worldbuilder
@@ -108,6 +122,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:Play
@@ -122,6 +138,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:Title
@@ -136,6 +154,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:WestwoodComMsg
@@ -150,6 +170,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:InsertCDROMWithVolume1
@@ -164,6 +186,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:InsertCDROMWithVolume2
@@ -178,6 +202,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:ExitMessage2
@@ -192,6 +218,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:CantFindExplorer
@@ -206,6 +234,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:AutorunTitle
@@ -220,6 +250,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:CantFind
@@ -234,6 +266,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:Command&ConquerGenerals
@@ -248,6 +282,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:Generals
@@ -262,6 +298,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:Previews
@@ -276,6 +314,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:CantRunAVIs
@@ -290,6 +330,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 Autorun:Help
@@ -304,6 +346,8 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
 HELP:FILENAME
@@ -318,5 +362,7 @@ BP: ""
 PL: ""
 RU: ""
 AR: ""
+UK: ""
+SE: ""
 END
 
