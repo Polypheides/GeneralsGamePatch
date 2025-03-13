@@ -16,7 +16,7 @@ def run():
     #generals_str_upgrade = build_abs_path("data/ukrainian_zh_by_yarpik/generals.str")
     #generals_str_upgrade = build_abs_path("data/ukrainian_zh_by_yarpik_windstalker_edit_1/generals.str")
     generals_str_upgrade = build_abs_path("data/ukrainian_zh_by_yarpik_windstalker_edit_2/generals.str")
-    generals_str_upgrade = build_abs_path("data/Swedish/Swedish.str")
+    #generals_str_upgrade = build_abs_path("data/Swedish/Swedish.str")
     generals_str_new = build_abs_path("../../../GameFilesEdited/Data/generals.str")
 
     assert generals_str_statusquo.is_file()
@@ -33,6 +33,7 @@ def run():
         upgrade_lines = file.readlines()
 
     upgrade_language = "UK:"
+    #upgrade_language = "SE:"
     is_in_label_block = False
     label_name = ""
 
@@ -84,6 +85,7 @@ def run():
                 #elif line.startswith("UK: \"<AutoFerry Capt. speaking>"):
                 #    skip = True
                 elif line.startswith("UK: \"*") and line[6] != '*':
+                #elif line.startswith("SE: \"*") and line[6] != '*':
                     skip = True
 
                 if not skip:
