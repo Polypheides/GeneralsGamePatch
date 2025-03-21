@@ -406,9 +406,6 @@
                         "sourceParent": "GameFilesEdited",
                         "sourceList": [
                             "Data/Swedish/*.ini"
-                        ],
-                        "registryList": [
-                            "Resources/FileHashRegistry/Generals-108-GeneralsZH-104.csv"
                         ]
                     },
                     {
