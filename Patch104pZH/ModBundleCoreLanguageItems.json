@@ -399,6 +399,7 @@
             },
             {
                 "name": "CoreLangSwedish",
+                "_comment": "This Swedish localization is community-made",
                 "big": true,
                 "setGameLanguageOnInstall": "Swedish",
                 "files": [
