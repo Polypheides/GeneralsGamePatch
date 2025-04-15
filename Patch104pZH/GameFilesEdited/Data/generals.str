@@ -80,7 +80,7 @@
 // Patch104p @fix xezon 12/08/2023 Fixes inconsistent wording and style in "HINT" strings for all languages. (#2228) (#2336) (#2518)
 // Patch104p @fix xezon 21/08/2023 Renames "Spiral" to "Helis" in Polish strings. (#2265) (#2635)
 // Patch104p @fix xezon 01/09/2023 Fixes punctuation inconsistencies in CONTROLBAR for all languages. (#2316) (#2519)
-// Patch104p @fix xezon 01/09/2023 Fixes punctuation inconsistencies in ACADEMY, buddy, DIALOGEVENT, GENERIC, GUI, HELP, LOSE, MAP, MDGLA02, MDGLA03, MD_GLA05, QM, SCRIPT, TOOLTIP, WOL strings for all languages. (#2317) (#2333) (#2519)
+// Patch104p @fix xezon 01/09/2023 Fixes punctuation inconsistencies in ACADEMY, buddy, DIALOGEVENT, GENERIC, GUI, HELP, LOSE, MAP, MDGLA02, MDGLA03, MD_GLA05, QM, SCRIPT, TOOLTIP, WOL, CREDITS strings for all languages. (#2317) (#2333) (#2519)
 // Patch104p @fix xezon 01/09/2023 Fixes punctuation inconsistencies in LAN, NETWORK strings for all languages. (#2341)
 // Patch104p @fix xezon 01/09/2023 Fixes punctuation inconsistencies in RADAR strings for all languages. (#2359)
 // Patch104p @fix xezon 07/09/2023 Fixes quote symbol errors in Chinese language strings. (#2330)
@@ -487,7 +487,7 @@ BP: "Personalizar Teclado"
 PL: "Konfiguracja klawiatury"
 RU: "Назначение клавиш"
 AR: "ﺢﯿﺗﺎﻔﻤﻟا ﺔﺣﻮﻟ ﺺﯿﺼﺨﺗ"
-UK: "Налаштувати клавіатуру"
+UK: "Налаштувати клавіші"
 SV: "Anpassa tangentbord"
 END
 
@@ -555,7 +555,7 @@ BP: "OPÇÕES DE VÍDEO"
 PL: "Opcje grafiki"
 RU: "НАСТРОЙКИ ГРАФИКИ"
 AR: "ضﺮﻌﻟا تاداﺪﻋإ"
-UK: "ПАРАМЕТРИ ВІДОБРАЖЕННЯ"
+UK: "ПАРАМЕТРИ ГРАФІКИ"
 SV: "Bildskärmsinställningar"
 END
 
@@ -656,7 +656,7 @@ BP: "Visão do Mapa"
 PL: "Podgląd mapy"
 RU: "Просмотр карты"
 AR: "ﺔﻄﻳﺮﺨﻟا ﺔﻨﻳﺎﻌﻣ"
-UK: "Попередній перегляд карти"
+UK: "Перегляд мапи"
 SV: "Kartförhandsvisning"
 END
 
@@ -917,7 +917,7 @@ BP: "Ping Permitido:"
 PL: "Dopuszczalny ping:"
 RU: "Макс. допустимый пинг:"
 AR: ": حﻮﻤﺴﻤﻟا ﻦﯿﻨﻄﻟا"
-UK: "Макс. дозволена затримка:"
+UK: "Макс. дозволений пінг:"
 SV: "Max Ping"
 END
 
@@ -2429,7 +2429,7 @@ BP: "Assinatura de calor atrás de estruturas ATIVADA"
 PL: "Podgląd termiczny za budynkami WŁĄCZONY"
 RU: "Видимость войск за преградами ВКЛ"
 AR: "ﻞﻴﻐﺸﺗ | ﺕﺎﺀﺎﺸﻧﺈﻟا ﻒﻠﺧ ﺓﺭاﺮﺤﻟا ﻊﻴﻗﻮﺗ"
-UK: "Виділення об'єктів за будівлями УВІМКНЕНО"
+UK: "Видимість об'єктів за будівлями УВІМКНЕНО"
 SV: "Värmesignaturer bakom byggnader PÅ"
 END
 
@@ -2446,7 +2446,7 @@ BP: "Assinatura de calor atrás de estruturas DESATIVADA"
 PL: "Podgląd termiczny za budynkami WYŁĄCZONY"
 RU: "Видимость войск за преградами ВЫКЛ"
 AR: "ﺔﻔﻗﻮﺘﻣ تاءﺎﺸﻧﻹا ﻒﻠﺧ ةراﺮﺤﻟا ﻊﯿﻗﻮﺗ"
-UK: "Виділення об'єктів за будівлями ВИМКНЕНО"
+UK: "Видимість об'єктів за будівлями ВИМКНЕНО"
 SV: "Värmesignaturer bakom byggnader AV"
 END
 
@@ -2654,7 +2654,7 @@ BP: "MULTIJOGADOR"
 PL: "Gra wieloosobowa"
 RU: "СЕТЕВАЯ ИГРА"
 AR: "دﺪﻌﺘﻤﻟا ﺐﻌﻠﻟا"
-UK: "БАГАТОКОРИСТУВАЦЬКА ГРА"
+UK: "МЕРЕЖОВА ГРА"
 SV: "Flerspelarläge"
 END
 
@@ -4097,7 +4097,7 @@ BP: "Derrotado"
 PL: "Pokonany/a"
 RU: "Потерпел(а) поражение"
 AR: "موﺰﮫﻣ"
-UK: "Переможений"
+UK: "Зазнав поразки"
 SV: "Besegrad"
 END
 
@@ -4832,7 +4832,7 @@ BP: "Percentual Min. de Vitórias Necessário:"
 PL: "Wymagany min. % zwycięstw:"
 RU: "Требуемый мин. процент побед:"
 AR: ": ﺔﺋﺎﻤﻟﺎﺑ بﻮﻠﻄﻤﻟا ﻰﻧدﻹا رﺎﺼﺘﻧﻹا"
-UK: "Необхідний мінімальний відсоток виграшу:"
+UK: "Необхідний мінімальний відсоток перемог:"
 SV: "Minimum vinstprocent krävs:"
 END
 
@@ -4849,7 +4849,7 @@ BP: "Vitórias Permitidas:"
 PL: "Maks. dopuszczalny % zwycięstw:"
 RU: "Разрешенный макс. процент побед:"
 AR: ": حﻮﻤﺴﻤﻟا ﻰﺼﻗﻷا رﺎﺼﺘﻧﻹا"
-UK: "Максимально допустимий відсоток виграшу:"
+UK: "Максимально допустимий відсоток перемог:"
 SV: "Maximalt tillåten vinstprocent:"
 END
 
@@ -5367,9 +5367,11 @@ UK: "Скопіюйте вибраний файл повтору на робоч
 SV: "Kopiera vald repris till skrivbordet"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "Select your Audio Provider" (#2727)
+
 // context: Help text for the audio source selection box
 TOOLTIP:ProviderType
-US: "Select your Audio Provider"
+US: "Select your Audio Device"
 DE: "Wähle ein Audio-Gerät."
 FR: "Sélectionnez votre périphérique audio."
 ES: "Selecciona tu Proveedor de audio."
@@ -5711,7 +5713,7 @@ BP: "Atribui seu Atalho escolhido ao comando."
 PL: "Przypisuje polecenie do podanego klawisza."
 RU: "Привязать выбранную вами команду к горячей клавише"
 AR: "ﺔﻌﻳﺮﺴﻟا ﻞﯿﻐﺸﺘﻟا ﺢﯿﺗﺎﻔﻤﺑ كﺮﻣاوأ ﺺﯿﺼﺨﺗ"
-UK: "Призначає вибрану команду гарячої клавіші"
+UK: "Призначає обрану команду гарячій клавіші"
 SV: "Tilldelar ditt valda snabbkommando"
 END
 
@@ -5729,7 +5731,7 @@ BP: "Reconfigura todos os seus Atalhos do teclado para o padrão."
 PL: "Przywraca domyślną konfigurację klawiatury."
 RU: "Восстановить все горячие клавиши по умолчанию"
 AR: "Resets all of your keyboard Hotkeys to default"
-UK: "Скидає всі гарячі клавіші клавіатури до стандартних"
+UK: "Скидає всі гарячі клавіші до стандартних"
 SV: "Återställer alla snabbkommandon till standard"
 END
 
@@ -5956,9 +5958,11 @@ UK: "Повернення до попереднього екрана"
 SV: "Återgå till föregående meny"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "The Battle Honors a player has received\nBattle Honors are won by achieving certain goals in solo or multiplay" (#2727)
+
 // context: Tooltip over the battle honors listbox on the player stat screen
 TOOLTIP:BattleHonors
-US: "The Battle Honors a player has received\nBattle Honors are won by achieving certain goals in solo or multiplay"
+US: "The Battle Honors a player has received\nBattle Honors are won by achieving certain goals in solo or multiplayer"
 DE: "Die Auszeichnungen eines Spielers. Wenn du im Einzelspieler- oder Multiplayer-Modus bestimmte Ziele erreichst, bekommst du Auszeichnungen."
 FR: "Les distinctions qu'un joueur a reçues en accomplissant certains objectifs en mode Solo ou Multijoueur."
 ES: "Las condecoraciones del jugador\nSe consiguen al alcanzar objetivos en modo de un jugador o multijugador."
@@ -6177,9 +6181,11 @@ UK: "Відзнака виклику\nГравець переміг важког
 SV: "Utmaningsmärke\nSpelaren har besegrat en svår datormotståndare"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "Progress until the next rank is acheived" (#2727)
+
 // context: Used on the Stat screen to indicate the progress until the next rank
 TOOLTIP:ProgressToNextRank
-US: "Progress until the next rank is acheived"
+US: "Progress until the next rank is achieved"
 DE: "Erforderliche Punkte bis zur Beförderung."
 FR: "Progressez jusqu'à atteindre le rang suivant."
 ES: "Progreso hasta que se consigue el rango siguiente."
@@ -9323,10 +9329,11 @@ UK: "Матчмейкер не знайдено"
 SV: "Matchskaparen hittades inte"
 END
 
-// Polypheides: suggestion for US QuickMatch could not find your opponent's game
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "QuickMatch could not find your opponent's game not found" (#2727)
+
 // context: Player's computer couldn't find the opponent's game
 QM:GameNotFound
-US: "QuickMatch could not find your opponent's game not found"
+US: "QuickMatch could not find your opponent's game"
 DE: "Spiel des Gegners nicht gefunden."
 FR: "QuickMatch n'a pu trouver la partie de votre adversaire."
 ES: "QuickMatch no ha encontrado la partida de tu rival."
@@ -10695,8 +10702,10 @@ UK: "Ваш серійний номер заборонено. Ознайомте
 SV: "Ditt serienummer är bannlyst. Vänligen läs igenom servicevillkoren"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "Your serial is already in use" (#2727)
+
 WOL:ChatErrorSerialDup
-US: "Your serial is already in use"
+US: "Your serial number is already in use"
 DE: "Deine Seriennummer wird bereits verwendet."
 FR: "Votre numéro de série est déjà utilisé."
 ES: "Tu núm de serie ya está en uso."
@@ -10711,8 +10720,10 @@ UK: "Ваш серійний номер вже використовується"
 SV: "Det serienummret du angav används redan"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "Your serial is invalid" (#2727)
+
 WOL:ChatErrorSerialUnknown
-US: "Your serial is invalid"
+US: "Your serial number is invalid"
 DE: "Deine Seriennummer ist ungültig."
 FR: "Votre numéro de série est invalide."
 ES: "Tu núm de serie no es válido."
@@ -11369,8 +11380,10 @@ UK: "Швидкий матч"
 SV: "Snabbmatch"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "unknown server" (#2727)
+
 WOL:UnknownServer
-US: "unknown server"
+US: "Unknown server"
 DE: "Unbekannter Server"
 FR: "serveur inconnu"
 ES: "Servidor desconocido"
@@ -11385,8 +11398,10 @@ UK: "невідомий сервер"
 SV: "Ökänd server"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "unknown channel" (#2727)
+
 WOL:UnknownChannel
-US: "unknown channel"
+US: "Unknown channel"
 DE: "Unbekannter Channel"
 FR: "canal inconnu"
 ES: "Canal desconocido"
@@ -11895,9 +11910,11 @@ UK: "Гра з такою ж назвою вже існує"
 SV: "Ett spel i samma namn existerar redan"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "Game has dissappeared" (#2727)
+
 // context: Error. The game the player was trying to connect has disappeared from the lobby
 LAN:ErrorGameGone
-US: "Game has dissappeared"
+US: "Game has disappeared"
 DE: "Kein Spiel vorhanden."
 FR: "La partie a disparu."
 ES: "La partida ha desaparecido."
@@ -12383,9 +12400,11 @@ UK: "Будь ласка, введіть пароль"
 SV: "Ange ett lösenord"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "Click to begin QuickMatch. QuickMatch will attempt to automatically match you with your closest skill level and preferences" (#2727)
+
 // context: Joins quickmatch.
 TOOLTIP:Quickmatch
-US: "Click to begin QuickMatch. QuickMatch will attempt to automatically match you with your closest skill level and preferences"
+US: "Click to begin QuickMatch. QuickMatch will attempt to automatically match you with a player who has the closest skill level and preferences"
 DE: "Starte QuickMatch. Quickmatch sucht nun einem Spieler mit deinen Fähigkeiten und deinen Voreinstellungen."
 FR: "Cliquez ici pour lancer un QuickMatch qui tentera de vous associer avec les joueurs dotés d'un niveau et de préférences proches des vôtres."
 ES: "Haz clic para iniciar QuickMatch, que te buscará automáticamente a quien más se aproxime a tu nivel y preferencias."
@@ -15935,7 +15954,7 @@ KO: "TNT 공격"
 ZH: "TNT攻擊"
 BP: "Ataque c/ TNT"
 PL: "Atak dynamitem"
-RU: "Установить ТНТ заряд"
+RU: "Заряд взрывчатки"
 AR: "ﻲﺗ نإ ﻲﺗ مﻮﺠھ"
 UK: "Встановити ТНТ заряд"
 SV: "TNT-attack"
@@ -16055,7 +16074,7 @@ KO: "포로 태우기"
 ZH: "抓到囚犯"
 BP: "Capturar Prisioneiro"
 PL: "Zabierz więźnia"
-RU: "Забрать заключенного"
+RU: "Забрать Заключенного"
 AR: "ﻦﯿﺠﺴﻟا طﺎﻘﺘﻟإ"
 UK: "Підібрати ув'язненого"
 SV: "Plocka up fånge"
@@ -16605,7 +16624,7 @@ KO: "스커드 발사기"
 ZH: "生化飛彈發射車"
 BP: "Lançador SCUD"
 PL: "Wyrzutnia SCUD-ów"
-RU: "Самоходная установка СКАД"
+RU: "Пусковая установка СКАД"
 AR: "ﺔﻳوﺎﻤﯿﻜﻟا ﺦﻳراﻮﺼﻟا ﺔﻠﻗﺎﻧ"
 UK: "Пускова установка СКАД"
 SV: "SCUD-missilbatteri"
@@ -18446,7 +18465,7 @@ KO: "토마호크: &T"
 ZH: "戰斧飛彈：&T"
 BP: "Tomahawk: &T"
 PL: "Tomahawk: &T"
-RU: "Томагавк: &T"
+RU: "Установка Томагавк: &T"
 AR: "كﻮھﺎﻣﻮﺗ"
 UK: "Томагавк: &T"
 SV: "Tomahawkraketbandvagn: &T"
@@ -18464,7 +18483,7 @@ KO: "토마호크: &T"
 ZH: "戰斧飛彈：&T"
 BP: "Tomahawk: &T"
 PL: "Tomahawk: &T"
-RU: "Томагавк: &T"
+RU: "Установка Томагавк: &T"
 AR: "كﻮھﺎﻣﻮﺗ"
 UK: "Томагавк: &T"
 SV: "Tomahawkraketbandvagn: &T"
@@ -19429,7 +19448,7 @@ KO: "스커드 발사기: &L"
 ZH: "生化飛彈發射車：&L"
 BP: "Lançador SCUD: &L"
 PL: "Wyrzutnia SCUD-ów: &W"
-RU: "Самоходная установка СКАД: &L"
+RU: "Пусковая установка СКАД: &L"
 AR: "ﺩﻮﻜﺳ ﺦﻳﺭاﻮﺻ ﺔﻓﺫﺎﻗ"
 UK: "Пускова установка СКАД: &L"
 SV: "SCUD-missilbatteri: &L"
@@ -19978,7 +19997,7 @@ KO: "체인건: &C"
 ZH: "鍊砲：&C"
 BP: "Correia de Balas: &C"
 PL: "CKM-y: &C"
-RU: "Цепные Пулемёты: &C"
+RU: "Цепные пулеметы: &C"
 AR: "ةﺪﯿﻘﻤﻟا ﺔﺤﻠﺳﻷا"
 UK: "Ланцюгові гармати: &C"
 SV: "Kedjekulspruta: &C"
@@ -19996,7 +20015,7 @@ KO: "체인건: &C"
 ZH: "鍊砲：&C"
 BP: "Correia de Balas: &C"
 PL: "CKM-y: &C"
-RU: "Цепные Пулемёты: &C"
+RU: "Цепные пулеметы: &C"
 AR: "ةﺪﯿﻘﻤﻟا ﺔﺤﻠﺳﻷا"
 UK: "Ланцюгові гармати: &C"
 SV: "Kedjekulspruta: &C"
@@ -20569,7 +20588,7 @@ KO: "포로 픽업: &P"
 ZH: "抓起囚犯：&P"
 BP: "Capturar Prisioneiro: &P"
 PL: "Odebranie więźnia: &O"
-RU: "Забрать заключенного: &P"
+RU: "Забрать Заключенного: &P"
 AR: "ﻊﻓر\nﻦﯿﺠﺴﻟا"
 UK: "Підібрати ув'язненого: &P"
 SV: "Plocka upp fånge: &P"
@@ -20617,7 +20636,7 @@ KO: "탄저병 탄두: &N"
 ZH: "炭疽菌彈頭：&N"
 BP: "Ogiva de Antraz: &N"
 PL: "Głowica wąglikowa: &W"
-RU: "Боеголовка с сибирской язвой: &N"
+RU: "Химическая боеголовка: &N"
 AR: "ﻲﻣﻮﺛﺮﺠﻟا ﻲﺑﺮﺤﻟا سأﺮﻟا"
 UK: "Боєголовка з сибірською виразкою: &N"
 SV: "Mjätbrandstridsspets: &N"
@@ -20633,7 +20652,7 @@ KO: "고폭탄: &P"
 ZH: "高爆彈頭：&P"
 BP: "Ogiva Explosiva: &O"
 PL: "Głowica wybuchowa: &Y"
-RU: "Боеголовка со взрывчаткой: &P"
+RU: "Фугасная боеголовка: &P"
 AR: "ﺮﺠﻔﺘﻤﻟا ﻲﺑﺮﺤﻟا ﺱﺃﺮﻟا"
 UK: "Вибухова боєголовка: &P"
 SV: "Explosivstridsspets: &P"
@@ -21307,7 +21326,7 @@ KO: "TNT 공격: &T"
 ZH: "TNT攻擊：&T"
 BP: "Ataque c/ TNT: &T"
 PL: "Atak dynamitem: &Y"
-RU: "Установить ТНТ заряд: &T"
+RU: "Заряд взрывчатки: &T"
 AR: "TNT مﻮﺠھ: &T"
 UK: "ТНТ атака: &T"
 SV: "TNT attack: &T"
@@ -21853,8 +21872,10 @@ UK: "Покращена підготовка"
 SV: "Avancerad Träning"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "America Laser Missiles" (#2727)
+
 UPGRADE:AmericaLaserMissiles
-US: "America Laser Missiles"
+US: "Laser-Guided Missiles"
 DE: "Lasergelenkte Rakete"
 FR: "Missiles laser américains"
 ES: "Misiles Láser América"
@@ -22235,7 +22256,7 @@ KO: "체인건"
 ZH: "鍊砲"
 BP: "Correia de Balas"
 PL: "CKM-y"
-RU: "Цепные Пулемёты"
+RU: "Цепные пулеметы"
 AR: "ﺔﺤﻠﺳﻷا ﻞﺳﻼﺳ"
 UK: "Ланцюгові гармати"
 SV: "Kedjekulspruta"
@@ -22416,7 +22437,7 @@ KO: "고폭탄"
 ZH: "高爆彈頭"
 BP: "Ogiva Explosiva"
 PL: "Głowica wybuchowa"
-RU: "Боеголовка со взрывчаткой"
+RU: "Фугасная боеголовка"
 AR: "ﺮﺠﻔﺘﻤﻟا ﻲﺑﺮﺤﻟا سأﺮﻟا"
 UK: "Боєголовка з вибухівкою"
 SV: "Explosivstridsspets"
@@ -22432,7 +22453,7 @@ KO: "탄저병 탄두"
 ZH: "炭疽菌彈頭"
 BP: "Ogiva de Antraz"
 PL: "Głowica wąglikowa"
-RU: "Химическая боеголовка с сибирской язвой"
+RU: "Химическая боеголовка"
 AR: "ﻲﺑﺮﺤﻟا ﺔﺜﯿﺒﺨﻟا ةﺮﻤﺠﻟا سأر"
 UK: "Боєголовка з сибірською виразкою"
 SV: "Mjätbrandstridsspets"
@@ -23322,7 +23343,7 @@ KO: "전함"
 ZH: "戰艦"
 BP: "Encouraçado"
 PL: "Okręt liniowy"
-RU: "Боевое судно"
+RU: "Линкор"
 AR: "ﺔﯿﺑﺮﺤﻟا ﺔﻨﯿﻔﺴﻟا"
 UK: "Бойовий корабель"
 SV: "Stridsskepp"
@@ -24842,8 +24863,10 @@ UK: "Японський ліхтар"
 SV: "Ljuskorg"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "Junk Car" (#2727)
+
 OBJECT:JunkCar
-US: "Junk Car"
+US: "Junk Cars"
 DE: "Autowrack(s)"
 FR: "Tacot(s)"
 ES: "Camión de la basura"
@@ -26076,7 +26099,7 @@ KO: "스커드 발사기"
 ZH: "生化飛彈發射車"
 BP: "Lançador SCUD"
 PL: "Wyrzutnia SCUD-ów"
-RU: "Самоходная установка СКАД"
+RU: "Пусковая установка СКАД"
 AR: "ﺔﯿﺋﺎﯿﻤﯿﻜﻟا ﺦﻳراﻮﺼﻟا ﺔﻓذﺎﻗ"
 UK: "Пускова установка СКАД"
 SV: "SCUD-missilbatteri"
@@ -26935,8 +26958,10 @@ UK: "Сміттєвий бак"
 SV: "Soptunna"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "Trash Bin" (#2727)
+
 OBJECT:TrashDumpster
-US: "Trash Bin"
+US: "Dumpster"
 DE: "Mülltonne"
 FR: "Poubelle"
 ES: "Cubo de basura"
@@ -31321,11 +31346,11 @@ UK: "Будує радар для цього командного центру"
 SV: "Bygg en radar på denna Kommandocentralen"
 END
 
-// Patch104p @fix xezon 04/02/2023 From US: "+25% to Horde bonus for Red Guard, Tank Hunter and Battlemaster" for all latin languages to describe upgrade bonus more accurately.
+// Patch104p @fix xezon 04/02/2023 From US: "+25% to Horde bonus for Red Guard, Tank Hunter and Battlemaster" for all latin languages to describe upgrade bonus more accurately. (#2727)
 
 // context: Appears when you mouse over the Nationalism Upgrade on the Chinese Propaganda Center
 CONTROLBAR:TooltipChinaUpgradeNationalism
-US: "+25% rate of fire for Red Guard, Tank Hunter and Battlemaster"
+US: "+25% rate of fire for Red Guards, Tank Hunters and Battlemasters"
 DE: "Die Feuerrate von Standard-Cyborgs, Panzerjäger und Battlemaster steigt um 25%."
 FR: "+ 25 % de cadence de tir pour les Gardes rouges, les Tueurs de chars et les Maîtres de guerre."
 ES: "+25% de cadencia de fuego para Guardia Roja, cazatanques y Battlemaster."
@@ -31340,9 +31365,11 @@ UK: "+25% до бонусу Орди для Червоної гвардії, М�
 SV: "+25% ökad skjutfrekvens för Rödgardister, Bandvagnsjägare och Stridsmästarbandvagnar"
 END
 
+// Patch104p @fix dmgreen 24/03/2025 Changes US from "+25% damage to all flame weapons" (#2727)
+
 // context: Appears when you mouse over the Black Napalm Upgrade on the Chinese War Factory
 CONTROLBAR:TooltipChinaUpgradeBlackNapalm
-US: "+25% damage to all flame weapons"
+US: "+25% damage for all flame weapons"
 DE: "Flammen-Waffen verursachen 25% mehr Schaden."
 FR: "+ 25 % de dégâts pour les armes incendiaires."
 ES: "+25% de daños para todas las armas de fuego."
@@ -31391,9 +31418,11 @@ UK: "+25% до бонусів Гучномовців"
 SV: "+25% till högtalartornens bonus"
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "+25% shot damage on Battlemaster and Overlord" (#2727)
+
 // context: Appears when you mouse over the Uranium Shells Upgrade on the Chinese Nuclear Missile Silo
 CONTROLBAR:TooltipUpgradeChinaUraniumShells
-US: "+25% shot damage on Battlemaster and Overlord"
+US: "+25% shot damage for Battlemaster and Overlord"
 DE: "Die Schusskraft für Battlemaster und Overlord steigt um 25%."
 FR: "+ 25 % de dégâts sur les Maîtres de guerre et les Empereurs."
 ES: "+25% de daños por impacto a Battlemaster y Overlord."
@@ -31733,9 +31762,11 @@ UK: "Руш"
 SV: "Gå"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "Order Rangers to rappel down on enemy target. Use on garrisoned buildings to kill all enemy soldiers inside" (#2727)
+
 // context: Appears when you mouse over the Combat Drop cameo on the USA Chinook
 CONTROLBAR:ToolTipUSACombatDrop
-US: "Order Rangers to rappel down on enemy target. Use on garrisoned buildings to kill all enemy soldiers inside"
+US: "Order Rangers to rappel down on enemy targets. Use on garrisoned buildings to kill all enemy soldiers inside"
 DE: "Bringt Ranger ins Zielgebiet. Wenn du sie auf einem besetzten Gebäude absetzt, werden die dort stationierten Einheiten neutralisiert."
 FR: "Ordonne aux Rangers de foncer sur la cible ennemie. A utiliser dans les bâtiments de garnison pour tuer tous les soldats ennemis qui s'y trouvent."
 ES: "Ordena a los Rangers que caigan sobre el objetivo enemigo. Se usa para matar a todos los soldados enemigos guarnecidos en edificios."
@@ -32272,7 +32303,7 @@ KO: "적군 포로를 픽업하여 여러분의 기지로 귀환합니다."
 ZH: "帶獲得的敵軍俘虜回到您的基地。"
 BP: "Captura o prisioneiro inimigo para levá-lo de volta à base."
 PL: "Zabranie nieprzyjacielskiego jeńca w celu dostarczenia go do własnej bazy."
-RU: "Взять вражеского пленного и вернуть его на Вашу базу"
+RU: "Подобрать вражеского пленного и вернуть его на Вашу базу"
 AR: "ﻚﺗﺪﻋﺎﻗ ﻰﻟإ ﻪﻋﺎﺟرﻹ وﺪﻌﻟا ﻦﯿﺠﺳ ﻂﻘﺘﻟإ"
 UK: "Візьміть ворожого полоненого, щоб повернути його на свою базу"
 SV: "Plocka upp krigsfången för att återföra honom till din bas"
@@ -32289,7 +32320,7 @@ KO: "포로 수용소로 귀환합니다."
 ZH: "回到俘虜居留設施。"
 BP: "Leva os prisioneiros de volta à instalação de detenção."
 PL: "Powrót do miejsca przetrzymywania więźniów."
-RU: "Вернуться в место содержания пленных"
+RU: "Вернуться в место содержания заключенных"
 AR: "ﻦﯿﺠﺴﻟا زﺎﺠﺘﺣإ ﺔﻠﯿﺳو ﻰﻟإ ةدﻮﻌﻟا"
 UK: "Повернення до колонії для ув’язнених"
 SV: "Återvänd till fånglägret"
@@ -32467,9 +32498,11 @@ UK: "Пункт розвантаження Чінуків США\n\nПотріб
 SV: "Avlämningspunkt för Förenta Staternas Bananhelikoptrar\n\nStrömkrav: 1"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "USA fence system. Laser-sensors alert to enemy troops moving through fence. Fence blocks enemy vehicle movement" (#2727)
+
 // context: Appears when you mouse over the Wall cameo on the USA Dozer
 CONTROLBAR:ToolTipUSABuildWall
-US: "USA fence system. Laser-sensors alert to enemy troops moving through fence. Fence blocks enemy vehicle movement"
+US: "USA fence system. Laser-sensors alert when enemy troops move through the fence. Fences block enemy vehicle movement"
 DE: "WA-Laserzaun. Hochempfindliche Lasersensoren orten feindliche Einheiten. Der Zaun hält feindliche Fahrzeuge auf."
 FR: "Système de muret laser américain. Les lasers préviennent de l'arrivée de troupes ennemies. Le muret empêche les véhicules ennemis de se déplacer."
 ES: "Sistema de barrera de E.E.U.U. Sensores de láser alertan de los movimientos de las tropas enemigas por la barrera que frena el movimiento de vehículos enemigos."
@@ -33393,9 +33426,11 @@ UK: "Стріляє ракетами і гарматами. Перезарядж
 SV: "Avfyrar missiler och projektiler. Laddar om i luften\n\nStark mot bandvagnar, lätta fordon och soldater\nSvag mot raketsoldater, luftvärn"
 END
 
+// Patch104p @fix dmgreen 04/12/2024 Changes US from "Use special laser-guided attack to rapid-fire missiles\n\nStrong vs. tanks, aircraft\nWeak vs. infantry" (#2727)
+
 // context: Appears when you mouse over the Missile Defender cameo on the USA Barracks
 CONTROLBAR:ToolTipUSABuildMissileDefender
-US: "Use special laser-guided attack to rapid-fire missiles\n\nStrong vs. tanks, aircraft\nWeak vs. infantry"
+US: "Use special Laser-Guided attack to rapid-fire missiles\n\nStrong vs. tanks, aircraft\nWeak vs. infantry"
 DE: "Feuert lasergelenkte Raketen ab.\n\nStärken: Panzer und Flugzeuge\nSchwächen: Cyborgs"
 FR: "Utilise le guidage laser pour tirer des missiles en rafale.\n\nEfficace contre les chars et l'aviation.\nVulnérable face à l'infanterie."
 ES: "Usa un ataque guiado por láser con misiles de fuego rápido.\n\nPotente contra tanques, aviación\nDébil contra infantería"
@@ -33599,7 +33634,7 @@ KO: "특수 TNT 공격.\n대군 보너스.\n\n탱크에 강합니다.\n보병에
 ZH: "特殊TNT攻擊。\n當隊伍擁有五個或五個以上時，會有群數加分效益。\n\n對坦克傷害嚴重\n對步兵傷害輕微"
 BP: "Ataque especial com TNT.\nPossui bônus de Horda quando em grupos de 5 ou mais.\n\nEficiente contra Tanques\nVulnerável contra Infantaria"
 PL: "Specjalny atak dynamitem.\nW grupie co najmniej pięciu jednostek zyskuje premię hordy.\n\nSilny przeciwko czołgom\nSłaby przeciwko piechocie"
-RU: "Установка ТНТ заряда\nБонус строя\n\nЭффективен против танков\nСлаб против пехоты"
+RU: "Заряд взрывчатки\nБонус строя\n\nЭффективен против танков\nСлаб против пехоты"
 AR: "ﺔﺻﺎﺨﻟا ﻲﺗ نإ ﻲﺗ تاﺮﺠﻔﺘﻤﺑ ﻢﺟﺎﮫﻳ\n\n\nتﺎﺑﺎﺑﺪﻟا ﺪﺿ يﻮﻗ\nةﺎﺸﻤﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Спеціальна атака вибухівкою\nОтримує бонус Орди, коли в групах по 5 і більше\n\nСильний проти танків\nСлабкий проти піхоти"
 SV: "Har en special TNT-attack\nFår extra bonus i grupper om 5 eller fler\n\nStark mot bandvagnar\nSvag mot soldater"
@@ -33641,9 +33676,11 @@ UK: "Сильна проти будівель, піхоти\nСлабка про
 SV: "Stark mot byggnader och soldater\nSvag mot bandvagnar och flygplan"
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "Transport. Comes with 8 Red Guard. Detects stealth units\n\nStrong vs. infantry, buildings\nWeak vs. tanks, aircraft" (#2727)
+
 // context: Appears when you mouse over the Troop Crawler cameo on the Chinese War Factory
 CONTROLBAR:ToolTipChinaBuildTroopCrawler
-US: "Transport. Comes with 8 Red Guard. Detects stealth units\n\nStrong vs. infantry, buildings\nWeak vs. tanks, aircraft"
+US: "Transport. Comes with 8 Red Guards. Detects stealth units\n\nStrong vs. infantry, buildings\nWeak vs. tanks, aircraft"
 DE: "Transportfahrzeug mit 8 Standard-Cyborgs. Ortet unsichtbare Einheiten.\n\nStärken: Cyborgs und Gebäude\nSchwächen: Panzer und Flugzeuge"
 FR: "Moyen de transport doté de 8 Gardes rouges. Détecte les unités furtives.\n\nEfficace contre l'infanterie et les bâtiments.\nVulnérable face aux chars et à l'aviation."
 ES: "Transporte. Viene con 8 de la Guardia Roja. Detecta unidades.\n\nPotente contra infantería, edificios\nDébil contra tanques, aviación"
@@ -34100,10 +34137,11 @@ SV: "Bensinbomb förstör byggnader och grupper med fientliga trupper\n\nAktiver
 END
 
 // Patch104p @bugfix commy2 29/07/2023 Remove hard-coded requirement text. (#2166)
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "Nuke Cannons lob small tactical nukes great distances\n\nBuild at: War Factory\nRequires: Propaganda Center" (#2727)
 
 // context: Appears when you mouse over the Nuke Cannon cameo on the Chinese General Points Command Bar
 CONTROLBAR:ToolTipChinaScienceNukeCannon
-US: "Nuke Cannons lob small tactical nukes great distances\n\nBuild at: War Factory"
+US: "Nuke Cannons lob small tactical nukes over great distances\n\nBuild at: War Factory"
 DE: "Nukleargeschütze schießen Atomgranaten über lange Distanzen.\n\nProduktionsstätte: Waffenfabrik"
 FR: "Lance de petits missiles nucléaires à longue distance.\n\nConstruit dans : Complexe militaro-industriel."
 ES: "Los cañones nucleares lanzan pequeñas cabezas a grandes distancias.\n\nConstruidos en: Fábrica de guerra"
@@ -34276,9 +34314,11 @@ UK: "Усі Технічки будуть створені як ветерани
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "Allows you to create a surprise ambush of Rebels anywhere\n\nRank 1: 4 Rebels\nRank 2: 8 Rebels\nRank 3: 16 Rebels\n\nDeploy from: Command Center" (#2727)
+
 // context: Appears when you mouse over Rebel Ambush cameo on the GLA General Points Command Bar
 CONTROLBAR:ToolTipGLAScienceRebelAmbush
-US: "Allows you to create a surprise ambush of Rebels anywhere\n\nRank 1: 4 Rebels\nRank 2: 8 Rebels\nRank 3: 16 Rebels\n\nDeploy from: Command Center"
+US: "Allows you to create a surprise ambush of Rebels anywhere on the map\n\nRank 1: 4 Rebels\nRank 2: 8 Rebels\nRank 3: 16 Rebels\n\nDeploy from: Command Center"
 DE: "Bereiten Sie einen Hinterhalt vor.\n\nStufe 1: 4 Cyborgs\nStufe 2: 8 Cyborgs\nStufe 3: 16 Cyborgs\n\nProduktionsstätte: Kommandozentrale"
 FR: "Tend une embuscade aux Rebelles à n'importe quel endroit.\n\nGrade 1 : 4 Rebelles\nGrade 2 : 8 Rebelles\nGrade 3 : 16 Rebelles\n\nDéployée depuis : Poste de commandement."
 ES: "Te permite crear una emboscada sorpresa de rebeldes en cualquier parte.\n\nRango 1: 4 rebeldes\nRango 2: 8 rebeldes\nRango 3: 16 rebeldes\n\nDespliegue desde: Centro de mando"
@@ -34294,9 +34334,10 @@ SV: ""
 END
 
 // Patch104p @fix commy2 06/08/2022 Adds tooltip text variant for special Rebel Ambush of Demo General. (#845) (#2519)
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "Allows you to create a surprise ambush of Rebels anywhere\n\nRank 1: 4 Rebels\nRank 2: 6 Rebels\nRank 3: 10 Rebels\n\nDeploy from: Command Center" (#2727)
 
 CONTROLBAR:Demo_ToolTipGLAScienceRebelAmbush
-US: "Allows you to create a surprise ambush of Rebels anywhere\n\nRank 1: 4 Rebels\nRank 2: 6 Rebels\nRank 3: 10 Rebels\n\nDeploy from: Command Center"
+US: "Creates a surprise ambush of Rebels anywhere\n\nRank 1: 4 Rebels\nRank 2: 6 Rebels\nRank 3: 10 Rebels\n\nDeploy from: Command Center"
 DE: "Bereiten Sie einen Hinterhalt vor.\n\nStufe 1: 4 Cyborgs\nStufe 2: 6 Cyborgs\nStufe 3: 10 Cyborgs\n\nProduktionsstätte: Kommandozentrale"
 FR: "Tend une embuscade aux Rebelles à n'importe quel endroit.\n\nGrade 1: 4 Rebelles\nGrade 2: 6 Rebelles\nGrade 3: 10 Rebelles\n\nDéployée depuis: Poste de commandement."
 ES: "Te permite crear una emboscada sorpresa de rebeldes en cualquier parte.\n\nRango 1: 4 rebeldes\nRango 2: 6 rebeldes\nRango 3: 10 rebeldes\n\nDespliegue desde: Centro de mando"
@@ -35342,7 +35383,7 @@ KO: "탄저병 포격: &O"
 ZH: "炭疽菌轟炸：&O"
 BP: "Bombardeio Antraz: &O"
 PL: "Bombardowanie wąglikowe: &O"
-RU: "Бомбардировка ракетами с химической боеголовкой: &O"
+RU: "Бомбардировка ракетами с Химической боеголовкой: &O"
 AR: "ﻲﻣﻮﺛﺮﺠﻟا ﻒﺼﻘﻟا"
 UK: "Хімічний обстріл: &O"
 SV: ""
@@ -35441,7 +35482,7 @@ KO: "고폭탄으로 특정 지역을 포격합니다."
 ZH: "以炸藥彈頭轟炸指定位置。"
 BP: "Bombardeia o local desejado com foguetes de ogiva explosiva."
 PL: "Bombardowanie wskazanego miejsca za pomocą głowic wybuchowych."
-RU: "Вести огонь по выбранной местности ракетами со взрывчатой боеголовкой"
+RU: "Вести огонь по выбранной местности ракетами c Фугасной боеголовкой"
 AR: "ةﺮﺠﻔﺘﻤﻟا ﺔﯿﺑﺮﺤﻟا سوؤﺮﻟﺎﺑ ﻊﻗﻮﻤﻟا ﻒﺼﻗ"
 UK: "Бомбардуйте локацію вибуховими боєголовками"
 SV: ""
@@ -35458,7 +35499,7 @@ KO: "탄저병 탄두로 특정 지역을 포격합니다."
 ZH: "以炭疽菌彈頭轟炸特別指定位置。"
 BP: "Bombardeia o local desejado com foguetes de ogiva Antraz."
 PL: "Bombardowanie wskazanego miejsca za pomocą głowic wąglikowych."
-RU: "Вести огонь по выбранной местности ракетами с химической боеголовкой"
+RU: "Вести огонь по выбранной местности ракетами с Химической боеголовкой"
 AR: "دﺪﺤﻤﻟا ﻊﻗﻮﻤﻟا ﻒﺼﻗ\nﺔﯿﺑﺮﺤﻟا ﺔﯿﻣﻮﺛﺮﺠﻟا ﺔﻠﺒﻨﻘﻟا سوؤﺮﺑ"
 UK: "Бомбардувати вказане місце боєголовками з сибірською виразкою"
 SV: ""
@@ -38003,8 +38044,10 @@ UK: "- Сили США нададуть підтримку з повітря"
 SV: ""
 END
 
+// Patch104p @fix dmgreen 11/12/2024 Changes US from "- Call in Carpet Bombs and destroy the GLA" (#2727)
+
 LOAD:China05_3
-US: "- Call in Carpet Bombs and destroy the GLA"
+US: "- Call in Carpet Bombers to assist with destroying the GLA bases"
 DE: "– Vernichten Sie die IBG mit einem Flächenbombardement"
 FR: "- Programmer un bombardement intensif et détruire la GLA"
 ES: "Solicita bombardeo a nivel y destruye el GLA"
@@ -40281,8 +40324,10 @@ UK: "Клацніть лівою кнопкою миші на кнопці ге�
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "You have created a pile of salvage. Whenever GLA vehicles destroy enemy vehicles salvage is left behind. GLA vehicles can pick up salvage by moving over it. Salvage may be worth money or experience. Technicals, Quad Cannons and Marauders can upgrade their weapons with salvage" (#2727)
+
 MAP:TrainingSalvage
-US: "You have created a pile of salvage. Whenever GLA vehicles destroy enemy vehicles salvage is left behind. GLA vehicles can pick up salvage by moving over it. Salvage may be worth money or experience. Technicals, Quad Cannons and Marauders can upgrade their weapons with salvage"
+US: "You have created a pile of salvage. Salvage is left behind whenever GLA vehicles destroy an enemy vehicle. GLA vehicles pick up salvage by moving over it. Salvage may grant weapon upgrades, money, or experience. Technicals, Quad Cannons and Marauders will be able to upgrade their weapons with salvage"
 DE: "Zerstört ein Fahrzeug der IBG ein feindliches Fahrzeug, bleibt ein Wrack zurück. Fahre über die Wrackteile, um sie einzusammeln. Für Wrackteile bekommst du Geld oder Erfahrung. Kampfjeeps, Vierlingsgeschütze und Marodeurpanzer verbessern mit Wrackteilen ihre Waffensysteme."
 FR: "Vous avez créé une casse. Chaque fois que des véhicules de la GLA détruisent des véhicules ennemis, les débris viennent s'ajouter à ce tas. La casse peut vous faire gagner de l'argent ou de l'expérience. Grâce à elle, les Jeeps, Quads et Maraudeur peuvent améliorer leurs armes."
 ES: "Has creado una pila de objetos salvados. Siempre que los vehículos de GLA destruyan vehículos enemigos, los dejarán atrás. Los vehículos de GLA pueden cogerlos, pasando por encima. Los podrás cambiar por dinero o experiencia. Las Camionetas, Cañones Quad y Marauders pueden mejorar sus armas con objetos salvados."
@@ -44172,9 +44217,11 @@ UK: "Мінімальна кількість часток (швидше)"
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "More particles can slow the game down" (#2727)
+
 // context: Tooltip for a slider on the Advance Display Options menu
 TOOLTIP:ParticleCapSlider
-US: "More particles can slow the game down"
+US: "More particles can slow down the game"
 DE: "Mehr Partikel können das Spiel verlangsamen."
 FR: "L'ajout de particules peut rendre le jeu plus lent."
 ES: "Máyor número de partículas puede ralentizar el juego."
@@ -44526,9 +44573,11 @@ UK: "Вимкнути динамічний рівень деталізації"
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "Disable automatic detail adjustment. Turn off for improved performance" (#2727)
+
 // context: Checkbox on the Advance Display Options menu
 TOOLTIP:NoDynamicLOD
-US: "Disable automatic detail adjustment. Turn off for improved performance"
+US: "Disable automatic detail adjustment (LOD). Turn off for improved performance"
 DE: "Automatische Detail-Anpassung deaktivieren. Deaktivierung verbessert die Leistung."
 FR: "Désactiver l'ajustement automatique des détails. Pour améliorer les performances, n'activez pas cette option."
 ES: "Desactivar ajuste de detalle automático. Desactivar para mejorar el rendimiento."
@@ -44713,8 +44762,10 @@ UK: "Показувати додаткові анімації під час бу
 SV: ""
 END
 
+// Patch104p @fix dmgreen 10/12/2024 Changes US from "Toggle On/Off - Off to improve performance" (#2543)
+
 GUI:AdvancedOptionsToggleOnOff
-US: "Toggle On/Off - Off to improve performance"
+US: "Toggle On/Off - Turn off to improve performance"
 DE: "Ein-/ausschalten - Ausschalten verbessert die Leistung."
 FR: "Affichage activé/désactivé."
 ES: "Activar Sí/No - No para mejorar el rendimiento."
@@ -47866,9 +47917,10 @@ SV: ""
 END
 
 // Patch104p @fix xezon 24/07/2022 Fixes DE string from "Generäle Online" to "Generäle - Die Stunde Null Online". (#750)
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "One or more players have been disconnected from the game. If you choose to vote a person out of the game then click the VOTE button next to the respective player. When the timer counts down to 0 that person will be removed from the game and the battle will continue" (#2727)
 
 GUI:InternetDisconnectionMenuBody1
-US: "One or more players have been disconnected from the game. If you choose to vote a person out of the game then click the VOTE button next to the respective player. When the timer counts down to 0 that person will be removed from the game and the battle will continue"
+US: "One or more players have been disconnected from the game. If you choose to vote a person out of the game then click the VOTE button next to the respective player. When the timer counts down to 0 that person will be automatically removed from the game and the battle will continue"
 DE: "Einer oder mehr Spieler haben die Verbindung zu Generäle - Die Stunde Null Online verloren. Stimme ab, ob sie aus der Spielrunde rausgeworfen werden sollen."
 FR: "Un ou plusieurs joueurs ont été déconnectés. Si vous avez décidé d'exclure quelqu'un du jeu, cliquez sur le bouton VOTER à côté de son nom. Quand le compte à rebours sera terminé, cette personne sera exclue de la partie et la bataille pourra continuer."
 ES: "Uno o más jugadores han sido desconectados de la partida. Si eliges expulsar a una persona del juego, haz click sobre el botón Votar asignado al jugador. Cuando la cuenta atrás llegue a cero, esa persona será expulsada de la partida y la batalla continuará."
@@ -47883,8 +47935,10 @@ UK: "Один або кілька гравців були відключені �
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "It is possible that the person is attempting to reconnect so you may choose to wait until this player's timer has elapsed. When the timer counts down to 0 that person will be removed from the game and the battle will continue" (#2727)
+
 GUI:InternetDisconnectionMenuBody2
-US: "It is possible that the person is attempting to reconnect so you may choose to wait until this player's timer has elapsed. When the timer counts down to 0 that person will be removed from the game and the battle will continue"
+US: "It is possible that the person is attempting to reconnect so you may choose to wait until this player's timer has elapsed. When the timer counts down to 0 that person will be automatically removed from the game and the battle will continue"
 DE: "Es kann sein, dass die betreffende Person versucht, die Verbindung wieder herzustellen. Aus diesem Grund solltest Du warten bis der Countdown abgelaufen ist. In diesem Fall wird der Spieler automatisch entfernt und das Spiel wird fortgesetzt."
 FR: "Il est possible que la personne soit en train d'essayer de se reconnecter, vous pouvez donc choisir d'attendre que son compte à rebours soit terminé. Quand le compte à rebours sera terminé, cette personne sera exclue de la partie et la bataille pourra continuer."
 ES: "Es posible que algún jugador este intentando reconectar, así que puedes elegir esperar hasta que el tiempo s de este jugador concluya. Cuando el contador llegue a 0, esa persona será desconectada de la partida y la batalla continuará."
@@ -48498,9 +48552,11 @@ UK: "Альтернативні налаштування миші"
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "Right mouse button initiates unit action on battle field (attack, move, etc.)" (#2727)
+
 // context: Located on the options menu
 TOOLTIP:AlternateMouse
-US: "Right mouse button initiates unit action on battle field (attack, move, etc.)"
+US: "Right mouse button initiates unit actions on the battlefield (attack, move, etc.)"
 DE: "Rechtsklick initiiert Aktion der Einheit (Angriff, Bewegung usw.)"
 FR: "Déclencher une action avec le bouton droit de la souris (attaque, déplacement, etc.)"
 ES: "El botón derecho del ratón inicia una acción en el campo de batalla (ataques, movimientos, etc.)"
@@ -49282,7 +49338,7 @@ KO: "스펙터 건쉽"
 ZH: "鬼魅炮艇機"
 BP: "Avião de Artilharia Spectre"
 PL: "Szturmowiec Widmo"
-RU: "Боевой самолет «Спектр»"
+RU: "Боевой самолет Спектр"
 AR: "ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﯿﺣوﺮﻣ"
 UK: "Штурмовик Спектр"
 SV: ""
@@ -49799,7 +49855,7 @@ KO: "스펙터 건쉽"
 ZH: "鬼魅炮艇機"
 BP: "Avião de Artilharia Spectre"
 PL: "Szturmowiec Widmo"
-RU: "Боевой самолет «Спектр»"
+RU: "Боевой самолет Спектр"
 AR: "ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﯿﺣوﺮﻣ"
 UK: "Штурмовик Спектр"
 SV: ""
@@ -50126,9 +50182,10 @@ SV: ""
 END
 
 // Patch104p @fix xezon 17/08/2023 Adds missing key mapping to FR, PL. (#2242)
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "CommunicationsDownload" (#2727)
 
 CONTROLBAR:CommunicationsDownload
-US: "CommunicationsDownload: &D"
+US: "Communications Download: &D"
 DE: "Nachrichten-Download: &D"
 FR: "Not to be translated: &D"
 ES: "DescargaComunicaciones: &D"
@@ -50144,9 +50201,10 @@ SV: ""
 END
 
 // Patch104p @fix xezon 17/08/2023 Removes superfluous key mapping from US, DE, ES, IT, KO, ZH, BP, RU, UK. (#2242) (#2519)
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "CommunicationsDownload" (#2727)
 
 CONTROLBAR:CommunicationsDownloadShortcut
-US: "CommunicationsDownload"
+US: "Communications Download"
 DE: "Nachrichten-Download"
 FR: "Not to be translated"
 ES: "Descarga de comunicaciones"
@@ -51785,7 +51843,7 @@ KO: "스펙터 건쉽: &G"
 ZH: "鬼魅炮艇機：&G"
 BP: "Avião de Artilharia Spectre: &N"
 PL: "Szturmowiec Widmo: &W"
-RU: "Боевой самолет «Спектр»: &G"
+RU: "Боевой самолет Спектр: &G"
 AR: "ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﯿﺣوﺮﻣ"
 UK: "Штурмовик Спектр: &G"
 SV: ""
@@ -51803,7 +51861,7 @@ KO: "스펙터 건쉽: &G"
 ZH: "鬼魅炮艇機：&G"
 BP: "Avião de Artilharia Spectre: &N"
 PL: "Szturmowiec Widmo: &W"
-RU: "Боевой самолет «Спектр»: &G"
+RU: "Боевой самолет Спектр: &G"
 AR: "ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﯿﺣوﺮﻣ"
 UK: "Штурмовик Спектр: &G"
 SV: ""
@@ -51822,7 +51880,7 @@ KO: "스펙터 건쉽"
 ZH: "鬼魅炮艇機"
 BP: "Avião de Artilharia Spectre"
 PL: "Szturmowiec Widmo"
-RU: "Боевой самолет «Спектр»"
+RU: "Боевой самолет Спектр"
 AR: "ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﯿﺣوﺮﻣ"
 UK: "Штурмовик Спектр"
 SV: ""
@@ -51938,8 +51996,10 @@ UK: "Радарне сканування"
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "Select Aircraft Carriers" (#2727)
+
 CONTROLBAR:SelectAircraftCarriersFromShortcut
-US: "Select Aircraft Carriers"
+US: "Select Aircraft Carrier"
 DE: "Flugzeugträger auswählen"
 FR: "Sélectionner Porte-avions"
 ES: "Seleccionar portaaviones"
@@ -51964,7 +52024,7 @@ KO: "전함 포격"
 ZH: "戰艦砲轟"
 BP: "Bombardeiro Encouraçado"
 PL: "Ostrzał pancerników"
-RU: "Бомбардировка Боевым кораблем"
+RU: "Бомбардировка Линкором"
 AR: "ﺔﯿﺑﺮﺤﻟا ﺔﻨﯿﻔﺴﻟﺎﺑ ﻒﺼﻘﻟا"
 UK: "Обстріл з лінкора"
 SV: ""
@@ -51982,7 +52042,7 @@ KO: "전함 포격: &F"
 ZH: "戰艦砲轟：&F"
 BP: "Bombardeio do Encouraçado: &F"
 PL: "Ostrzał pancerników: &F"
-RU: "Бомбардировка Боевым кораблем: &F"
+RU: "Бомбардировка Линкором: &F"
 AR: "ﺔﻴﺑﺮﺤﻟا ﺔﻨﻴﻔﺴﻟا ﻒﺼﻗ"
 UK: "Обстріл з лінкора: &F"
 SV: ""
@@ -53436,8 +53496,10 @@ UK: "ПІДКАЗКА:\nМікрохвильовий танк може виво�
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "HINT:\nThe Microwave Tank's microwaves injure nearby infantry" (#2727)
+
 HELP:MicrowaveTank-02
-US: "HINT:\nThe Microwave Tank's microwaves injure nearby infantry"
+US: "HINT:\nThe Microwave Tank fries enemy infantry nearby"
 DE: "TIPP:\nDer Mikrowellenpanzer beschädigt gegnerische Cyborgs."
 FR: "ASTUCE :\nLe Char Micro-ondes blesse les unités d'infanterie situées à proximité."
 ES: "PISTA:\nLas ondas del tanque de microondas hieren a la infantería cercana."
@@ -53452,8 +53514,10 @@ UK: "ПІДКАЗКА:\nПоле мікрохвильового танка вр�
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "HINT:\nThe Avenger laser can 'paint' enemy targets\nFiring at painted targets inflicts more damage" (#2727)
+
 HELP:Avenger-01
-US: "HINT:\nThe Avenger laser can 'paint' enemy targets\nFiring at painted targets inflicts more damage"
+US: "HINT:\nThe Avenger laser can 'paint' enemy targets\nAllied units attack 'painted' targets with increased fire rate"
 DE: "TIPP:\nDer Avenger kann feindliche Ziele markieren.\nEinheiten, die auf markierte Ziele feuern, verursachen mehr Schaden."
 FR: "ASTUCE :\nLe laser du Vengeur peut 'marquer' les cibles ennemies.\nElles subissent alors davantage de dégâts."
 ES: "PISTA:\nEl láser Avenger 'pinta' dianas enemigas.\nDisparar a objetivos pintados inflige más daño."
@@ -53512,7 +53576,7 @@ KO: "힌트:\n스펙터 건쉽으로 공격할 지역을 선택하십시오\n그
 ZH: "建議：\n選擇鬼魅炮艇機要攻擊的地區，\n然後手動選擇要攻擊的敵軍目標。"
 BP: "DICA:\nEscolha uma área para ser atacada pelo Avião de Artilharia Spectre,\ne, depois, aponte manualmente para os inimigos."
 PL: "RADA:\nWybierz obszar, który zaatakuje Szturmowiec Widmo,\na następnie wskazuj cele samodzielnie."
-RU: "ПОДСКАЗКА:\nВыберите местность для атаки Боевого самолёта «Спектр»,\nзатем вручную укажите на цели для атаки"
+RU: "ПОДСКАЗКА:\nВыберите местность для атаки Боевого самолёта Спектр,\nзатем вручную укажите на цели для атаки"
 AR: "HINT:\nSelect an area for the Spectre Gunship to attack,\nthen manually target enemies"
 UK: "ПІДКАЗКА:\nВиберіть зону для атаки штурмовика Спектра,\nпотім вручну націлюйте його на ворогів"
 SV: ""
@@ -54038,8 +54102,10 @@ UK: "ПІДКАЗКА:\nСтворюйте підроблені структур
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "HINT:\nUse Sneak Attack to instantly build a Tunnel Network anywhere you can see" (#2727)
+
 HELP:SneakAttack-01
-US: "HINT:\nUse Sneak Attack to instantly build a Tunnel Network anywhere you can see"
+US: "HINT:\nUse Sneak Attack to instantly create a Tunnel Network anywhere you can see"
 DE: "TIPP:\nBauen Sie mit dem Schleichangriff ein Tunnelsystem."
 FR: "ASTUCE :\nLancez une Attaque furtive pour construire instantanément un Réseau de tunnels\nà n'importe quel point de votre champ de vision."
 ES: "PISTA:\nUsa el ataque furtivo para hacer una red de túneles\ninstantánea allá donde puedas ver."
@@ -54491,8 +54557,10 @@ UK: "ПІДКАЗКА:\nСтабільність ізотопів зменшит
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "HINT:\nAdvanced Nuclear Power Plants generate more power than normal Nuclear Plans" (#2727)
+
 HELP:AdvancedNuclearPower-01
-US: "HINT:\nAdvanced Nuclear Power Plants generate more power than normal Nuclear Plans"
+US: "HINT:\nAdvanced Nuclear Power Plants generate more power than normal Nuclear Plants"
 DE: "TIPP:\nVerbesserte Atomkraftwerke erzeugen mehr Energie."
 FR: "ASTUCE :\nLes centrales nucléaires améliorées génèrent\nplus de courant que les centrales normales."
 ES: "PISTA:\nLas centrales nucleares avanzadas generan más energía que las normales."
@@ -55323,7 +55391,7 @@ KO: "지원 병력:\n항공 모함, CVN-88 다이달로스,\n전함 호위 그�
 ZH: "可用的支援：\n航空母艦，CVN-88 帝德拉斯號。\n無畏護航戰艦群。"
 BP: "Apoio Disponível:\nPorta-aviões, CVN-88 Daedalus.\nGrupo de Escolta de Encouraçados, Dreadnought."
 PL: "Dostępne wsparcie:\nLotniskowiec CVN-88 Dedal.\nGrupa okrętów liniowych."
-RU: "Доступна поддержка:\nАвианосец, CVN-88 Daedalus\nГруппа сопровождения из боевых кораблей, Дредноут"
+RU: "Доступна поддержка:\nАвианосец, CVN-88 Daedalus\nГруппа сопровождения из линкоров, Дредноут"
 AR: ": ﺮﻓﻮﺘﻤﻟا ﻢﻋﺪﻟا\n-٨٨ نإ ﻲﻓ ﻲﺳ ، تاﺮﺋﺎﻄﻟا ﺔﻠﻣﺎﺣ\n، ﺔﯿﺑﺮﺣ ﺔﻨﯿﻔﺳ ﻖﻓاﺮﻣ ﺔﻋﻮﻤﺠﻣ\nﺔﯿﺑﺮﺣ ﺔﻳﺮﺤﺑ ﺔﻋرﺪﻣ"
 UK: "Доступна підтримка:\nАвіаносець CVN-88 Дедал\nГрупа супроводу лінкорів, дредноут"
 SV: ""
@@ -59673,9 +59741,10 @@ SV: ""
 END
 
 // Patch104p @fix xezon 04/02/2023 From US: "Additional +25% to Horde bonus" for all latin languages to describe upgrade bonus more accurately.
+// Patch104p @fix xezon 04/02/2023 From US: "Additional +25% to Horde bonus" for all latin languages to describe upgrade bonus more accurately. (#2727)
 
 CONTROLBAR:TooltipChinaUpgradeFanaticism
-US: "+25% rate of fire for Mini-Gunner and Tank Hunter"
+US: "+25% rate of fire for Mini-Gunners and Tank Hunters"
 DE: "Die Feuerrate von Minigun-Cyborgs und Panzerjäger steigt um 25%."
 FR: "+ 25 % de cadence de tir pour les Mitrailleurs et les Tueurs de chars."
 ES: "+25% de cadencia de fuego para Artilleros de minigun y cazatanques."
@@ -60051,7 +60120,7 @@ KO: "전함의 함포 사격을 요청합니다."
 ZH: "呼叫海岸外戰艦砲轟。"
 BP: "Ordena que um Encouraçado na costa bombardeie."
 PL: "Ostrzał z okrętu znajdującego się przy brzegu."
-RU: "Обстрел с прибрежного Боевого корабля"
+RU: "Запрос огневой поддержки с прибрежного Линкора"
 AR: "ﺔﯿﺑﺮﺤﻟا ﺔﻨﯿﻔﺴﻟا ﻦﻣ ﻒﺼﻘﻟا ﻲﻓ لﺎﺼﺗﻹا\nﺊﻃﺎﺸﻟا ﻦﻋ ةﺪﯿﻌﺒﻟا"
 UK: "Виклик бомбардування з морського лінкора"
 SV: ""
@@ -60509,7 +60578,7 @@ KO: "스펙터 건쉽은 전장을 선회하며 적 부대를 유탄포와 개�
 ZH: "鬼魅炮艇機在戰場上空盤旋並以機載的榴彈砲與蓋特機槍對目標攻擊。\n\n部署來源：指揮中心"
 BP: "Aviões de Artilharia Spectre circundam o campo de batalha e atingem as forças inimigas com disparos de Canhões Howitzers e Gattlin.\n\nOrdenado por: Centro de Comando"
 PL: "Szturmowiec Widmo krąży nad wskazanym obszarem i ostrzeliwuje siły wroga z haubic i działek gattling.\n\nMiejsce startu: sztab"
-RU: "Самолёт огневой поддержки «Спектр» кружит над полем боя и ведет огонь по врагам из Гаубиц и Пулеметов\n\nУправление из: Командного центра"
+RU: "Самолёт огневой поддержки Спектр кружит над полем боя и ведет огонь по врагам из Гаубиц и Пулеметов\n\nУправление из: Командного центра"
 AR: "ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ تﺎﯿﺣوﺮﻣ ﻂﯿﺤﺗ\nوﺪﻌﻟا تاﻮﻗ بﺮﻀﺗو ﺔﻛﺮﻌﻤﻟا ﺔﺣﺎﺴﺑ\nﺔﺷﺎﺷﺮﻟا ﻊﻓاﺪﻤﻟاو تﺎﻧوﺎﮫﻟﺎﺑ\n\nةدﺎﯿﻘﻟا ﺰﻛﺮﻣ : ىﺪﻟ ﻊﺑﺎﺗ"
 UK: "Штурмовий літак Спектр кружляє над полем бою та вбиває сили ворога гаубицями та гарматами Гатлінга\n\nВикликається з: Командний Центр"
 SV: ""
@@ -60611,8 +60680,10 @@ UK: "Тактична ядерна зброя скидається з повіт
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "Causes your units to do more damage for a time when targeted\n\nRank 1: 10 percent for 10 seconds\nRank 2: 20 percent for 20 seconds\nRank 3: 30 percent for 30 seconds\n\nDeploy from: Command Center" (#2727)
+
 CONTROLBAR:ToolTipChinaScienceFrenzy
-US: "Causes your units to do more damage for a time when targeted\n\nRank 1: 10 percent for 10 seconds\nRank 2: 20 percent for 20 seconds\nRank 3: 30 percent for 30 seconds\n\nDeploy from: Command Center"
+US: "Temporarily increases the firepower of targeted units\n\nRank 1: +10% firepower for 10 seconds\nRank 2: +20% firepower for 20 seconds\nRank 3: +30% firepower for 30 seconds\n\nDeploy from: Command Center"
 DE: "Die gewählten Einheiten verursachen vorübergehend mehr Schaden.\n\nStufe 1: 10% für 10 Sekunden\nStufe 2: 20% für 20 Sekunden\nStufe 3: 30% für 30 Sekunden\n\nProduktionsstätte: Kommandozentrale"
 FR: "Vos unités infligent temporairement plus de dégâts.\n\nGrade 1 : 10 pour cent pendant 10 secondes\nGrade 2 : 20 pour cent pendant 20 secondes\nGrade 3 : 30 pour cent pendant 30 secondes\n\nDéployée depuis : Poste de commandement."
 ES: "Tus unidades hacen más daño por un tiempo cuando se las apunta.\n\nRango 1: 10 por ciento durante 10 segundos\nRango 2: 20 por ciento durante 20 segundos\nRango 3: 30 por ciento durante 30 segundos\n\nDespliegue desde: Centro de mando"
@@ -60701,7 +60772,7 @@ KO: "전함의 함포 사격을 요청합니다."
 ZH: "呼叫海岸外戰艦砲轟"
 BP: "Ordena que um Encouraçado na costa bombardeie"
 PL: "Nakaż bombardowanie okrętowi liniowemu, znajdującemu się przy brzegu"
-RU: "Запрос обстрела с прибрежных Боевых кораблей"
+RU: "Запрос огневой поддержки с прибрежного Линкора"
 AR: "ﺔﻨﯿﻔﺴﻟا ﻦﻣ ﻒﺼﻘﻟا ﺐﻠﻃ\nﺊﻃﺎﺸﻟا ﻦﻋ ةﺪﯿﻌﺒﻟا ﺔﯿﺑﺮﺤﻟا"
 UK: "Виклик бомбардування з морського лінкора"
 SV: ""
@@ -62410,8 +62481,10 @@ UK: "Генерал-дракон, клас АААА"
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "PL- Elite Forces" (#2727)
+
 GUI:BioBranchEntry_Pos9
-US: "PL- Elite Forces"
+US: "PLA - Elite Forces"
 DE: "PL-Eliteeinheit"
 FR: "PL, troupes d'élite de Libération du peuple"
 ES: "Fuerzas de élite ELP"
@@ -63322,8 +63395,10 @@ UK: "Управління своєю армією — одна з найскла
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "A great General can make a lot of tanks, but a greater General can make a lot of better tanks. Almost every unit has some form of upgrade. It's often best to spend your money on improving what you already have" (#2727)
+
 ACADEMY:ResearchUpgrades
-US: "A great General can make a lot of tanks, but a greater General can make a lot of better tanks. Almost every unit has some form of upgrade. It's often best to spend your money on improving what you already have"
+US: "A good General can make a lot of tanks, but a great General can make a lot of better tanks. Almost every unit has some form of upgrade. It's often best to spend your money on improving what you already have"
 DE: "Panzer sind hervorragende Waffen. Noch besser sind allerdings modernisierte Panzer! Da es für fast alle Einheiten Upgrades gibt, ist es durchaus sinnvoll, Geld in die Optimierung vorhandener Einheiten zu investieren!"
 FR: "Un grand général peut construire de nombreux chars, mais un général encore plus grand peut construire de meilleurs chars. Il est possible d'améliorer quasiment chaque unité. Dans la plupart des cas, n'hésitez pas à dépenser votre argent pour améliorer ce que vous avez déjà."
 ES: "Un buen general puede hacer muchos tanques, pero uno mejor los hará de mayor calidad. Casi todas las unidades tienen alguna mejora. A menudo es mejor gastar el dinero en mejorar lo que ya tienes"
@@ -63338,8 +63413,10 @@ UK: "Хороший генерал може зробити багато танк
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "While the GLA has no need for power, China and the USA eat it up like popcorn. To keep a base running strong a General needs to spend money on plenty of power to supply the war machine. Make sure to build a Cold Fusion Reactor or a Nuclear Reactor for maximum output. Low power can mean a low success rate" (#2727)
+
 ACADEMY:RanOutOfPower
-US: "While the GLA has no need for power, China and the USA eat it up like popcorn. To keep a base running strong a General needs to spend money on plenty of power to supply the war machine. Make sure to build a Cold Fusion Reactor or a Nuclear Reactor for maximum output. Low power can mean a low success rate"
+US: "While the GLA has no need for power, China and the USA eat it up like popcorn. Running on low power puts your production and defenses at a disadvantage. Make sure to build a Cold Fusion Reactor or a Nuclear Reactor for maximum output. Without power you have no chance in this war"
 DE: "Der Asiatische Pakt und die WA sind - im Gegensatz zur IBG - auf eine lückenlose Energieversorgung angewiesen. Investiere beim Bau deines Stützpunktes also in Kraftwerke, um deine Kriegsmaschinerie am Laufen zu halten. Baue Atom- oder Fusionsreaktoren, um deine Stromversorgung zu optimieren. Ohne Energie hast du in diesem Krieg keine Chance!"
 FR: "Alors que la GLA n'en a pas besoin, les USA et la Chine consomment le courant comme du pop-corn. Pour que ces bases restent opérationnelles, un général doit dépenser beaucoup d'argent pour alimenter sa machine de guerre en courant. Pensez à construire un Réacteur à fusion froide ou un Réacteur nucléaire pour obtenir une puissance maximale. Le succès est plus difficile à atteindre avec un faible approvisionnement en énergie."
 ES: "Aunque el GLA no necesita energía, China y los EE.UU. la devoran como palomitas. Para mantener fuerte una base, hay que gastar dinero en mucha energía para alimentar la maquinaria de guerra. Construye un reactor de fusión fría o un reactor nuclear para un rendimiento máximo. Poca energía puede suponer unas escasas victorias"
@@ -63354,8 +63431,10 @@ UK: "Хоча ГВА не потребує енергії, Китай і США 
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "General, make sure you're building plenty of Workers, Supply Trucks or Chinooks to keep your income flowing. You can make extra gatherers by clicking on rescource gatherer's picture in the Supply Center or Stash. Don't be shy about maximizing your resource potential" (#2727)
+
 ACADEMY:BuildMoreGatherers
-US: "General, make sure you're building plenty of Workers, Supply Trucks or Chinooks to keep your income flowing. You can make extra gatherers by clicking on rescource gatherer's picture in the Supply Center or Stash. Don't be shy about maximizing your resource potential"
+US: "General, make sure you're building plenty of Workers, Supply Trucks or Chinooks to keep your income flowing. You can purchase extra gatherers by clicking on the resource gatherer's picture in the Supply Center or Stash. Don't be shy about maximizing your resource potential"
 DE: "Baue reichlich Arbeitsbots, Versorgungs-LKWs oder Chinooks, um die Rohstoffversorgung deiner Armee zu sichern. Klicke einfach auf ein Nachschub- oder Geheimlager, um zusätzliche Einheiten zu bauen. Auf diese Weise kannst du deine Rohstoffreserven aufstocken."
 FR: "Général, pensez à construire beaucoup d'Ouvriers, de Camions de ravitaillement ou de Chinook pour assurer des rentrées d'argent constantes. Pour construire plus d'unités de collecte, cliquez sur le Dépôt ou la Cache de ravitaillement. N'ayez pas peur de maximiser votre potentiel de ressources."
 ES: "General, asegúrate de construir cantidad de trabajadores, camiones de suministros o Chinook para que tus ingresos fluyan. Puedes crear recolectores extra haciendo clic en el centro o reserva de suministros. No te cortes a la hora de maximizar tu potencial de recursos"
@@ -63450,8 +63529,10 @@ UK: "Загалом, отримати припаси пізніше в місі�
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "Garrisoned buildings can be tough to handle - unless you know some tricks. Upgrade your USA Rangers with Flash Bangs, build GLA Toxin Tractors or Chinese Dragon Tanks to quickly clear out these strong points. The USA also can upgrade to the Bunker Buster to even clear out Tunnel Networks!" (#2727)
+
 ACADEMY:ClearBuildings
-US: "Garrisoned buildings can be tough to handle - unless you know some tricks. Upgrade your USA Rangers with Flash Bangs, build GLA Toxin Tractors or Chinese Dragon Tanks to quickly clear out these strong points. The USA also can upgrade to the Bunker Buster to even clear out Tunnel Networks!"
+US: "Garrisoned buildings can be tough to handle - unless you know some tricks. Upgrade your US Rangers with Flash Bangs, build GLA Toxin Tractors or Chinese Dragon Tanks to quickly clear out these strong points. The USA can also upgrade to the Bunker Buster to even clear out Tunnel Networks!"
 DE: "Befestigte Gebäude sind schwer zu knacken ... es sei denn, du kennst ein paar Tricks. Rüste deine Ranger mit Blendgranaten aus, baue Säuretraktoren oder säubere die Gebäude mit Drachenpanzern. Mit ihren Bunker Buster-Bomben kann die WA übrigens sogar Tunnelsysteme räumen."
 FR: "Les bâtiments de garnison peuvent parfois opposer une farouche résistance. Améliorez vos Rangers américains avec des Grenades flash, construisez des Tracteurs bactériologiques pour la GLA ou des Chars Dragon pour la Chine afin de nettoyer en moins de deux ces poches de résistance. Les USA peuvent même améliorer le Tueur de bunker pour nettoyer les Réseaux de tunnels !"
 ES: "Los edificios guarnecidos pueden ser duros de pelar - si no sabes algunos trucos. Mejora tus rangers de EE.UU. con granadas cegadoras, construye tractores de toxinas del GLA o tanques Dragon chinos para despejar esas plazas fuertes. ¡Los EE.UU. también pueden mejorar al antibúnker para despejar las redes de túneles!"
@@ -63498,8 +63579,10 @@ UK: "Іноді важливо, щоб підрозділи залишалися
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "on" to "of" (#2727)
+
 ACADEMY:MultipleSupplyCenters
-US: "Supplies are the name on the game, General. They can be gathered at Supply Docks littered around the battlefield. While one dock may be enough early on it's usually best to branch out and find a few more during a mission. You'll need to build a Supply Center or Stash close to the Supply Dock to ensure efficient collection"
+US: "Supplies are the name of the game, General. They can be gathered at Supply Docks littered around the battlefield. While one dock may be enough early on, it's usually best to branch out and find a few more during a mission. You'll need to build a Supply Center or Stash close to the Supply Dock to ensure efficient collection"
 DE: "Ohne Rohstoffe geht gar nichts. Halte also die Augen nach Versorgungslagern offen! Am Anfang einer Kampagne kommst du vermutlich mit einem Lager aus. Allerdings solltest du im Laufe der Mission weitere Versorgungslager suchen. Baue in der Nähe des Lagers ein Nachschub- oder ein Geheimlager, um die Rohstoffe dort zwischenzulagern."
 FR: "Le succès repose sur le ravitaillement, général. Vous pouvez le stocker dans les entrepôts de ravitaillement éparpillés sur le champ de bataille. Même si un entrepôt peut suffire en début de mission, il est généralement plus sage d'en trouver d'autres par la suite. Vous devrez construire un Dépôt ou une Cache de ravitaillement près de l'entrepôt pour garantir une collecte efficace."
 ES: "Lo fundamental son los suministros, general. Pueden reunirse en los puertos de suministros dispersos por el campo de batalla. Aunque al principio puede bastar con un muelle, es mejor extenderse y buscar más durante una misión. Necesitarás construir un centro o reserva de suministros cerca del puerto de suministros para asegurar una recaudación eficaz"
@@ -63658,8 +63741,10 @@ UK: "Підривні Пастки та міни справді можуть с�
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Removed incorrect article (#2727)
+
 ACADEMY:UnmannedVehicles
-US: "General, some units can snipe or remove enemy drivers of a vehicles. When this occurs the vehicles become neutral and can be \"borrowed\" from the enemy. Feel free to go for a ride at your enemy's expense"
+US: "General, some units can snipe or remove enemy drivers of vehicles. When this occurs the vehicles become neutral and can be \"borrowed\" from the enemy. Feel free to go for a ride at your enemy's expense"
 DE: "Einige Einheiten können die Fahrer feindlicher Fahrzeuge gezielt ausschalten. Anschließend können Sie das Fahrzeug mit Ihren Cyborgs entführen. Machen Sie eine Spritztour auf Kosten des Gegners!"
 FR: "Général, certaines unités peuvent supprimer à distance le pilote d'un véhicule ennemi. Lorsque cela se produit, le véhicule devient neutre et peut être \"emprunté\" à l'ennemi. N'hésitez donc pas à rouler aux frais de votre ennemi !"
 ES: "Algunas unidades pueden disparar o eliminar a los conductores enemigos de un vehículo. Cuando eso ocurre, los vehículos se hacen neutrales y pueden tomarse \"prestados\". Eres libre de darte una vueltecita a costa del enemigo"
@@ -63690,8 +63775,10 @@ UK: "Деякі підрозділи можуть маскуватися під 
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "Sites" to "Site" (#2727)
+
 ACADEMY:StealthUpgrade
-US: "Some structures can be upgraded to camouflage, like the GLA Tunnel Network or Stinger Sites. These will be invisible to the enemy until its too late. Surprise!"
+US: "Some structures can be upgraded to camouflage, like the GLA Tunnel Network or Stinger Site. These will be invisible to the enemy until it's too late. Surprise!"
 DE: "Einige Gebäude, wie Tunnelsysteme und Stinger-Stellungen, können getarnt werden. Der Feind sieht sie dann erst, wenn es zu spät ist. Überraschung!"
 FR: "Il est possible d'améliorer certains bâtiments pour les camoufler, comme le Réseau de tunnels de la GLA ou les Sites Stingers. L'ennemi les apercevra uniquement lorsqu'il sera trop tard. Dommage !"
 ES: "Algunos edificios pueden mejorarse a camuflaje, como la red de túneles del GLA o los emplazamientos Stinger. El enemigo no podrá verlos hasta que sea demasiado tarde. ¡Sorpresa!"
@@ -64282,8 +64369,10 @@ UK: "*Warning: a Nuclear Missile has been launched"
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "*Warning: Particle Cannon detected" (#2727)
+
 DIALOGEVENT:EvaChina_LaunchedParticleCannonSubtitle
-US: "*Warning: Particle Cannon detected"
+US: "*Warning: Particle Cannon activation detected"
 DE: "*Warning: Particle Cannon detected"
 FR: "*Warning: Particle Cannon detected"
 ES: "\nAviso: detectado cañón de partículas."
@@ -65210,8 +65299,10 @@ UK: "*We have transferred funds to our Ally"
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "*Well done general. You have reached a higher rank" (#2727)
+
 DIALOGEVENT:EvaGLA_GeneralLevelUpSubtitle
-US: "*Well done general. You have reached a higher rank"
+US: "*Well done General. You have reached a higher rank"
 DE: "*Well done general. You have reached a higher rank"
 FR: "*Well done general. You have reached a higher rank"
 ES: "\nBien hecho, general. Has alcanzado un rango superior."
@@ -65290,8 +65381,10 @@ UK: "*Be on alert. An EMP Pulse bomb may be approaching"
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "*Be on alert. A fuel-Air bomb may be approaching" (#2727)
+
 DIALOGEVENT:EvaGLA_IncomingFuelAirBombSubtitle
-US: "*Be on alert. A fuel-Air bomb may be approaching"
+US: "*Be on alert. A Fuel-Air bomb may be approaching"
 DE: "*Be on alert. A fuel-Air bomb may be approaching"
 FR: "*Be on alert. A fuel-Air bomb may be approaching"
 ES: "\nAlerta, posible bomba incendiaria aproximándose."
@@ -66234,8 +66327,10 @@ UK: "*We have transferred funds to our Ally"
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "*Congratulations general. You have been promoted" (#2727)
+
 DIALOGEVENT:EvaUSA_GeneralLevelUpSubtitle
-US: "*Congratulations general. You have been promoted"
+US: "*Congratulations General. You have been promoted"
 DE: "*Congratulations general. You have been promoted"
 FR: "*Congratulations general. You have been promoted"
 ES: "\nFelicidades. Te han ascendido."
@@ -103050,10 +103145,10 @@ UK: "Відсоток виграшу для кожної армії на осн�
 SV: ""
 END
 
-// Patch104p @fix xezon 20/08/2023 Improves wording for US, ES, IT, BP. (#2261)
+// Patch104p @fix xezon 20/08/2023 Improves wording for US, ES, IT, BP. (#2261) (#2727)
 
 CONTROLBAR:Nuke_ToolTipChinaBuildHelix
-US: "Heavy lift transport\nCan upgrade with base defense structures and Nuke Bomb\n\nStrong vs. tanks, light vehicles\nWeak vs. rocket soldiers, anti-air defenses"
+US: "Heavy lift transport\nCan upgrade with base defense structures and Nuke Bombs\n\nStrong vs. tanks, light vehicles\nWeak vs. rocket soldiers, anti-air defenses"
 DE: "Transporthubschrauber.\nKann mit Abwehreinrichtungen und Atombomben bestückt werden.\n\nStärken: Panzer und leichte Fahrzeuge\nSchwächen: Raketen-Bots und Flugabwehrgeschütze"
 FR: "Véhicule de transport lourd.\nPeut être amélioré avec des bombes atomiques et des structures défensives standard.\n\nEfficace contre les chars et les véhicules légers.\nVulnérable face à l'infanterie armée de missiles et aux défenses antiaériennes."
 ES: "Transporte elevador pesado.\nSe puede actualizar con estructuras de defensa de base y bomba nuclear\n\nPotente contra tanques, vehículos ligeros\nDébil contra infantería con misiles, defensas antiaéreas"
@@ -103714,7 +103809,7 @@ KO: "스펙터 건쉽"
 ZH: "鬼魅炮艇機"
 BP: "Avião de Artilharia Spectre"
 PL: "Szturmowiec Widmo"
-RU: "Боевой самолет «Спектр»"
+RU: "Боевой самолет Спектр"
 AR: "ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﻴﺣﻭﺮﻣ"
 UK: "Штурмовик Спектр"
 SV: ""
@@ -104058,12 +104153,12 @@ UK: "Штурмовий Хелікс: &X"
 SV: ""
 END
 
-// Patch104p @fix xezon 20/08/2023 Improves wording for US, ES, IT, BP. (#2261)
+// Patch104p @fix xezon 20/08/2023 Improves wording for US, ES, IT, BP. (#2261) (#2727)
 // Patch104p @fix xezon 20/08/2023 Removes incorrect upgrade information for all latin languages. (#2261)
 // Patch104p @fix xezon 20/08/2023 Removes incorrect bunker information in PL. (#2261)
 
 CONTROLBAR:Infa_ToolTipChinaBuildHelix
-US: "Heavy lift assault transport\nCan upgrade with Bunker and Napalm Bomb\n\nStrong vs. tanks, light vehicles\nWeak vs. rocket soldiers, anti-air defenses"
+US: "Heavy lift assault transport\nCan upgrade with Bunker and Napalm Bombs\n\nStrong vs. tanks, light vehicles\nWeak vs. rocket soldiers, anti-air defenses"
 DE: "Transporthubschrauber.\nKann mit Bunker und Napalmbomben bestückt werden.\n\nStärken: Panzer und leichte Fahrzeuge\nSchwächen: Raketen-Bots und Flugabwehrgeschütze"
 FR: "Véhicule de transport lourd.\nPeut être amélioré avec des bombes au napalm et un bunker.\n\nEfficace contre les chars et les véhicules légers.\nVulnérable face à l'infanterie armée de missiles et aux défenses antiaériennes."
 ES: "Transporte elevador pesado de asalto.\nSe puede actualizar con búnker y bomba de napalm.\n\nPotente contra tanques, vehículos ligeros\nDébil contra infantería con misiles, defensas antiaéreas"
@@ -104568,8 +104663,10 @@ UK: "Токсинова тунельна мережа"
 SV: ""
 END
 
+// Patch104p @fix dmgreen 06/12/2024 Changes US from "Base defense and underground tunnel. Fires a stream of toxin. Units can enter the Tunnel Network and exit at any other Tunnel Network" (#2727)
+
 CONTROLBAR:Chem_ToolTipGLABuildTunnelNetwork
-US: "Base defense and underground tunnel. Fires a stream of toxin. Units can enter the Tunnel Network and exit at any other Tunnel Network"
+US: "Base defense and underground tunnel. Fires a stream of toxins. Units can enter the Tunnel Network and exit at any other Tunnel Network"
 DE: "Abwehreinrichtung mit unterirdischem Tunnel. Greift mit einer starken Säure an. Einheiten können das Tunnel-System betreten und an anderer Stelle wieder verlassen."
 FR: "Défense terrestre et réseau souterrain de tunnels. Tire un jet de toxines. Les unités peuvent pénétrer dans le Réseau de tunnels et ressortir par un autre."
 ES: "Base de defensa y túnel subterráneo. Dispara un chorro de toxina. Las unidades pueden entrar en la red de túneles y salir por cualquier otro túnel de la red."
@@ -104636,9 +104733,10 @@ SV: ""
 END
 
 // Patch104p @fix xezon 04/02/2023 From US: "+25% to Horde bonus for Tank Hunter" for all latin languages to describe upgrade bonus more accurately.
+// Patch104p @fix dmgreen 10/12/2024 Changes US from "+25% rate of fire for Tank Hunter"(#2727)
 
 CONTROLBAR:Boss_TooltipChinaUpgradeNationalism
-US: "+25% rate of fire for Tank Hunter"
+US: "+25% rate of fire for Tank Hunters"
 DE: "Die Feuerrate von Panzerjäger steigt um +25%"
 FR: "+ 25 % de cadence de tir pour les Tueurs de chars."
 ES: "+25% de cadencia de fuego para cazatanques"
@@ -104836,7 +104934,7 @@ KO: "스펙터 건쉽은 전장을 선회하며 적 부대를 유탄포와 개�
 ZH: "鬼魅炮艇機在戰場上空盤旋並以機載的榴彈砲與蓋特機槍對目標攻擊。\n\n等級一：十秒\n等級二：十五秒\n等級三：三十秒\n\n部署來源：指揮中心"
 BP: "Aviões de Artilharia Spectre flanqueiam o campo de batalha e esmagam a força inimiga com os canhões Howitzers e Gattling.\n\nPatente 1: 10 segundos\nPatente 2: 15 segundos\nPatente 3: 30 segundos\n\nOrdenado pelo: Centro de Comando"
 PL: "Szturmowiec Widmo okrąża pole bitwy i ostrzeliwuje siły wroga z haubic i działek gattling.\n\nPoziom 1: 10 sekund\nPoziom 2: 15 sekund\nPoziom 3: 30 sekund\n\nMiejsce startu: sztab"
-RU: "Самолёт огневой поддержки «Спектр» кружит над полем боя и ведет огонь по врагам из Гаубиц и Пулеметов\n\nУровень 1: 10 секунд\nУровень 2: 15 секунд\nУровень 3: 30 секунд\n\nУправление из: Командного центра"
+RU: "Самолёт огневой поддержки Спектр кружит над полем боя и ведет огонь по врагам из Гаубиц и Пулеметов\n\nУровень 1: 10 секунд\nУровень 2: 15 секунд\nУровень 3: 30 секунд\n\nУправление из: Командного центра"
 AR: "ﻊﻓاﺪﻤﻟاﻭ ﺕﺎﻧﻭﺎﻬﻟﺎﺑ ﻭﺪﻌﻟا ﺕاﻮﻗ ﺏﺮﻀﺗﻭ ﺔﻛﺮﻌﻤﻟا ﺔﺣﺎﺴﺑ ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺕﺎﻴﺣﻭﺮﻣ ﻂﻴﺤﺗ\n\nﻲﻧاﻮﺛ ٠١ :١ ىﻮﺘﺴﻣ\nﻲﻧاﻮﺛ ٥١ :٢ ىﻮﺘﺴﻣ\nﻲﻧاﻮﺛ ٠٣ :٣ ىﻮﺘﺴﻣ\n\nةدﺎﯿﻘﻟا ﺰﻛﺮﻣ : ﺐﻠﻄﺘﻳ"
 UK: "Бойовий літак кружляє над полем бою та вбиває сили ворога гаубицями та гарматами Гатлінга\n\nРівень 1: 10 секунд\nРівень 2: 15 секунд\nРівень 3: 30 секунд\n\nВикликається з: Командний Центр"
 SV: ""
@@ -105068,8 +105166,10 @@ UK: "ВХІДНА ПЕРЕДАЧА:\nЦей гучномовець збільш�
 SV: ""
 END
 
+// Patch104p @fix dmgreen 10/12/2024 Changes US from "+25% shot damage on Battlemaster and Emperor"(#2727)
+
 CONTROLBAR:Tank_TooltipUpgradeChinaUraniumShells
-US: "+25% shot damage on Battlemaster and Emperor"
+US: "+25% shot damage for Battlemaster and Emperor Overlord"
 DE: "Die Schusskraft aller Battlemaster und Emperor steigt um 25%."
 FR: "Accroît de 25 % les dégâts causés par les Maîtres de guerre et Despote."
 ES: "+25% de daños por impacto a Battlemaster y Emperor."
@@ -105129,7 +105229,7 @@ KO: "MOAB\n전자전 장비 m 벙커 버스터\n헬파이어 드론\n스펙터 �
 ZH: "炸彈之母\n反制裝置\n碉堡殺手\n地獄火蜂型機\n鬼魅炮艇機\n哨兵蜂型機\n微波坦克\n復仇者支援車\n防火基地"
 BP: "MTB\nContramedidas\nMíssil Destruidor de Bunker\nDrone Hellfire\nAvião de Artilharia Spectre\nDrone Sentinela\nTanque de Microondas\nVingador\nBase de Foguetes"
 PL: "Bomba nad Bombami\nPrzeciwśrodki\nNiszczyciel bunkrów\nRobot rakietowy\nSzturmowiec Widmo\nRobot strażniczy\nCzołg Mikrofalowy\nMściciel\nBaza ogniowa"
-RU: "MOAB\nКонтрмеры\nПротивобункерные ракеты\nРакетный беспилотный аппарат"
+RU: "MOAB\nКонтрмеры\nПротивобункерные ракеты\nРакетный беспилотный аппарат "Хэлфайр"\nБоевой самолет Спектр\nЗащитный беспилотный аппарат\nМикроволновый танк\nМститель\nОборонительная платформа"
 AR: "تادﺎﻀﻤﻟا\nﺔﯿﻋﺎﻓﺪﻟا ﺊﺑﺎﺨﻤﻟا ﺮﻣﺪﻣ\nرﺎﯿﻃ نوﺪﺑ ﻒﺼﻗ ةﺮﺋﺎﻃ\nﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﯿﺣوﺮﻣ\nرﺎﯿﻃ نوﺪﺑ ﺔﺳاﺮﺣ ةﺮﺋﺎﻃ\nﻒﻳوﺮﻜﻳﺎﻣ ﺔﺑﺎﺑد\nﻢﻘﺘﻨﻤﻟا\nرﺎﻧ قﻼﻃإ ةﺪﻋﺎﻗ"
 UK: "МВБ\nТеплові пастки\nВбивці бункерів\nДрон Хелфайр\nШтурмовик Спектр\nВартовий дрон\nМікрохвильовий танк\nМесник\nВогнева база"
 SV: ""
@@ -105301,9 +105401,10 @@ SV: ""
 END
 
 // Patch104p @fix xezon 20/08/2023 Fixes name discrepancies with CONTROLBAR:UpgradeSuicideBomb for all latin languages. (#2250)
+// Patch104p @fix dmgreen 06/12/2024 Fixed missing article (#2727)
 
 GUI:BioFeatures_Pos8
-US: "Advanced Demo Trap\nDemolitions Ability\nTerrorists do more damage\nStarts with Booby Trap\nCombat Cycles begin with Terrorist\nNo camouflaged units\nBomb Trucks cost less"
+US: "Advanced Demo Trap\nDemolitions Ability\nTerrorists do more damage\nStarts with Booby Trap\nCombat Cycles begin with a Terrorist\nNo camouflaged units\nBomb Trucks cost less"
 DE: "Verbesserte Sprengfalle\nTNT-Angriff\nMehr Schaden durch Bomben\nBeginnt mit Sprengfallen\nKampfbikes tragen Bomben\nKeine getarnten Einheiten\nBomben-LKWs kosten weniger"
 FR: "Pièges explosifs C-404\nAptitude explosifs pour toutes les unités\nLes Terroristes font plus de dégâts\nCommence avec des mines artisanales\nMotos de combat pourvues au départ d'un Terroriste\nPas d'unités camouflées\nPotentiel chimique nul\nCoût réduit des camions piégés"
 ES: "Trampa de demolición avanzada\nCapacidad de demoliciones\nLos terroristas hacen más daño\nEmpieza con trampa explosiva\nLas motos de combate empiezan con terrorista\nSin unidades camufladas\nSin capacidad de toxinas\nLos camiones bomba cuestan menos"
@@ -105473,7 +105574,7 @@ KO: "스커드 발사기"
 ZH: "生化飛彈發射車"
 BP: "Lançador Scud"
 PL: "Wyrzutnia scudów"
-RU: "Самоходная установка СКАД"
+RU: "Пусковая установка СКАД"
 AR: "ﺔﯿﺋﺎﯿﻤﯿﻜﻟا ﻒﺋاﺬﻘﻟا"
 UK: "Пускова установка СКАД"
 SV: ""
@@ -105794,7 +105895,7 @@ KO: "핵 폭격기: &T"
 ZH: "核子炸彈：&T"
 BP: "Bombardeiro Nuclear: &G"
 PL: "Bombowiec atomowy: &F"
-RU: "Ядерный Ковровый бомбардировщик: &T"
+RU: "Ядерный бомбардировщик: &T"
 AR: "يوﻮﻨﻟا ﺮﺠﻔﻤﻟا"
 UK: "Ядерний бомбардувальник: &T"
 SV: ""
@@ -105991,7 +106092,7 @@ KO: "핵 폭격기"
 ZH: "核子炸彈"
 BP: "Bombardeiro Nuclear"
 PL: "Bombowiec atomowy"
-RU: "Ядерный Ковровый бомбардировщик"
+RU: "Ядерный бомбардировщик"
 AR: "ﺔﻳوﻮﻨﻟا ﻞﺑﺎﻨﻘﻟا ﺔﻓذﺎﻗ"
 UK: "Ядерний бомбардувальник"
 SV: ""
@@ -106281,9 +106382,10 @@ END
 
 // Patch104p @fix xezon 22/08/2023 Streamlines FR, BP, PL with CONTROLBAR:ToolTipUSABuildAurora. (#2273)
 // Patch104p @fix xezon 22/08/2023 Adds a sentence for the Point Defense Laser for US, DE, FR, ES, IT, KO, ZH, BP, PL, RU. (#2273) (#2519)
+// Patch104p @fix dmgreen 06/12/2024 Fixed missing article (#2727)
 
 CONTROLBAR:AirF_ToolTipUSABuildAurora
-US: "Super-sonic attack makes Aurora immune to enemy fire. After super-sonic attack, Aurora speed is reduced to 50%. Equipped with a Point Defense Laser\n\nStrong vs. buildings\nWeak vs. rocket soldiers, anti-air defenses"
+US: "Super-sonic attack makes Aurora immune to enemy fire. After a super-sonic attack, Aurora speed is reduced to 50%. Equipped with a Point Defense Laser\n\nStrong vs. buildings\nWeak vs. rocket soldiers, anti-air defenses"
 DE: "Überschall-Angriffe machen den Aurora-Bomber unverwundbar gegen feindliches Feuer. Nach dem Angriff wird der Bomber um 50% langsamer. Ist mit einer Laserwaffe bestückt.\n\nStärken: Gebäude\nSchwächen: Raketen-Bots und Flugabwehrgeschütze"
 FR: "L'attaque supersonique immunise l'Aurora contre les tirs ennemis. Après attaque supersonique, l'Aurora se déplace deux fois moins vite. Equipé d'un laser défensif.\n\nEfficace contre les bâtiments.\nVulnérable face à l'infanterie armée de missiles et aux défenses antiaériennes."
 ES: "El ataque supersónico hace al Aurora inmune al fuego enemigo. Después de un ataque supersónico, su velocidad se reduce en un 50%. Equipado con un láser de defensa de puntos.\n\nPotente contra edificios\nDébil contra infantería con misiles, defensas antiaéreas"
