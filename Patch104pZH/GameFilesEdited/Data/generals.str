@@ -26,7 +26,7 @@
 //  RU: "Russian"
 //  AR: "Arabic"
 //  UK: "Ukrainian"
-//  SE: "Swedish"
+//  SV: "Swedish"
 
 // The following comment opens a Patch104p Core Bundle specific text block:
 //patch104p-core-begin
@@ -127,7 +127,7 @@ PL: "Gra jednoosobowa"
 RU: "ОДИНОЧНАЯ ИГРА"
 AR: "يدﺮﻔﻟا ﺐﻌﻠﻟا"
 UK: "ОДИНОЧНА ГРА"
-SV: "Sololäge"
+SV: "Enspelarläge"
 END
 
 // context: Button in the main menu to go to the network games screen
@@ -2348,7 +2348,7 @@ PL: "Niebieski"
 RU: "Голубой"
 AR: "ﻱﻭﺎﻤﺳ"
 UK: "Блакитний"
-SV: "Cyan"
+SV: "Turkos"
 END
 
 Color:Purple
@@ -2521,7 +2521,7 @@ SV: "Markör"
 END
 
 // context: Copyright notice. Please check with the legal department for its correct translation.
-// Polypheides: not needed to be translated in Swedish
+// Polypheides not needed to be translated in Swedish
 GUI:EACopyright
 US: "© 2003 ELECTRONIC ARTS INC. ALL RIGHTS RESERVED"
 DE: "© 2003 ELECTRONIC ARTS INC. ALLE RECHTE VORBEHALTEN."
@@ -5060,7 +5060,7 @@ PL: "Koszt: %d"
 RU: "Цена: %d"
 AR: "%d : ﺮﻌﺴﻟا"
 UK: "Вартість: %d"
-SV: "Kostnad: %d"
+SV: "Kostar: %d"
 END
 
 // context: Tooltip part that's used to makeup the command bar build tooltips
@@ -5077,7 +5077,7 @@ PL: "Koszt: %d"
 RU: "Цена: %d"
 AR: "%d : ﺮﻌﺴﻟا"
 UK: "Вартість: %d"
-SV: "Kostnad: %d"
+SV: "Kostar: %d"
 END
 
 // context: Displayed when mousing over a SupplyWarehouse in game.
@@ -6072,7 +6072,7 @@ PL: "Medal kawalerii pancernej\nGracz skonstruował ponad 50 czołgów w rozgryw
 RU: "Медаль боевого танка\nИгрок построил 50+ танков в Одиночной или Коллективной игре через Интернет"
 AR: "Battle Tank Honor\nPlayer has built 50+ tanks in a solo or multiplayer online game"
 UK: "Танкова відзнака\nГравець побудував понад 50 танків в одиночній або багатокористувацькій онлайн-грі"
-SV: "Stridsvagns lojalitet\nSpelaren har byggt 50+ stycken stridsvagnar i solo- eller flerspelarläget"
+SV: "Stridsvagns lojalitet\nSpelaren har byggt 50+ stycken bandvagnar i solo- eller flerspelarläget"
 END
 
 // context: Tooltip displayed when the user mouses over the AirWing battle honor icon
@@ -8704,7 +8704,7 @@ SV: "Svår Armé"
 END
 
 // context: Hide the buddy list
-// Polypheides: for SE the GUI:Hide and the context suggest another thing than what BACK is my translation is according to US rules but if we are Hiding something it would be Göm
+// Polypheides: for SV the GUI:Hide and the context suggest another thing than what BACK is my translation is according to US rules but if we are Hiding something it would be Göm
 GUI:Hide
 US: "BACK"
 DE: "Zurück"
@@ -9271,7 +9271,7 @@ UK: "Пошук каналу швидких матчів"
 SV: "Söker efter en snabbmatchkanal"
 END
 
-// Polypheides: alternative SE Snabbmatchkanalen hittades inte
+// Polypheides: alternative SV Snabbmatchkanalen hittades inte
 // context: Player's computer couldn't find the quickmatch channel
 QM:NoMatchChannel
 US: "No match QuickMatch channel found"
@@ -12539,8 +12539,7 @@ PL: "Sortuj według imion."
 RU: "Сортировать список игр по друзьям"
 AR: "ﺀﺎﻗﺪﺻﻷﺍ ﺮﺒﻋ ﺔﺒﻌﻠﻟﺍ ﺔﻤﺋﺎﻗ ﺐﻴﺗﺮﺗ"
 UK: "Сортувати список ігор за приятелями"
-SV: ""
-SE "Sortera spellistan efter vänner"
+SV: "Sortera spellistan efter vänner"
 END
 
 // context: Displays progress of QM matching.
@@ -17210,7 +17209,7 @@ PL: "Automatycznie likwiduje skażenie mikrobiologiczne i promieniotwórcze we w
 RU: "Автоматически очищает местности вокруг выбранной точки от био-токсинов и радиации"
 AR: "ﺔﻘﻄﻨﻤﻟا ﻲﻓ ﺔﯿﻋﺎﻌﺷﻹاو ﺔﻣﺎﺴﻟا داﻮﻤﻟا ﺔﻓﺎﻜﻟ ﻲﺋﺎﻘﻠﺗ ﻒﯿﻈﻨﺗ"
 UK: "Автоматично очищає біотоксини та радіацію навколо обраної області"
-SV: "Rensar automatiskt bort biotoxiner och strålning i området runt markören"
+SV: "Rensar automatiskt bort biogifter och strålning i området runt markören"
 END
 
 // context: Units and Structures Names. Please consult the UNITS & Structures Document for more information.
@@ -17445,7 +17444,7 @@ PL: "Strefa zrzutu: &U"
 RU: "Зона доставки снабжения: &Z"
 AR: "تاداﺪﻣﻹا لاﺰﻧإ ﺔﻘﻄﻨﻣ"
 UK: "Зона скиду постачання: &Z"
-SV: "Pengarleveransområde: &Z"
+SV: "Förnödenhetslådedroppzon: &Z"
 END
 
 CONTROLBAR:ConstructAmericaDetentionCamp
@@ -19797,7 +19796,7 @@ PL: "Zasobniki rakietowe: &Z"
 RU: "Навесные ракеты: &P"
 AR: "ﺔﯿﺧورﺎﺻ تﺎﻔﻨﻋز"
 UK: "Ракетні блоки: &P"
-SV: "Raketkapslar: %P"
+SV: "Raketkapslar: &P"
 END
 
 // unused
@@ -20406,7 +20405,7 @@ PL: "Pociski ppanc: &P"
 RU: "Бронебойные пули: &B"
 AR: "AP عﻮﻧ ﻦﻣ صﺎﺻر"
 UK: "Бронебійні кулі: &B"
-SV: "Pansarbrytande kulor: %B"
+SV: "Pansarbrytande kulor: &B"
 END
 
 // Patch104p @feature xezon 16/07/2023 Adds text clone for Boss to allow customized key mapping. (#2119) (#2519)
@@ -20424,7 +20423,7 @@ PL: "Pociski ppanc: &P"
 RU: "Бронебойные пули: &B"
 AR: "AP عﻮﻧ ﻦﻣ صﺎﺻر"
 UK: "Бронебійні кулі: &B"
-SV: "Pansarbrytande kulor: %B"
+SV: "Pansarbrytande kulor: &B"
 END
 
 // Patch104p @bugfix xezon 15/07/2023 Fixes key conflict with CONTROLBAR:Boss_UpgradeGLAAnthraxBeta (A) for ES. (#2117)
@@ -20735,7 +20734,7 @@ PL: "Rakieta atomowa: &T"
 RU: "Удар Ядерной ракетой: &N"
 AR: "يوﻮﻨﻟا خورﺎﺼﻟا"
 UK: "Ядерна ракета: &N"
-SV: "Atombomb: %N"
+SV: "Atombomb: &N"
 END
 
 // Patch104p @feature xezon 16/07/2023 Adds text clone for Boss to allow customized key mapping. (#2119) (#2519)
@@ -21763,7 +21762,7 @@ PL: "Zaatakowano zbieracza zasobów."
 RU: "Наш сборщик припасов атакован"
 AR: "مﻮﺠﮫﻠﻟ ضﺮﻌﺘﺗ تاﺰﯿﮫﺠﺘﻟا ﻊﯿﻤﺠﺗ ةﺪﺣو"
 UK: "Збирач ресурсів під атакою"
-SV: "Förnödenhetsammlare under attack"
+SV: "Förnödenhetsamlare under attack"
 END
 
 RADAR:UnitUnderAttack
@@ -22996,7 +22995,7 @@ PL: "Szpital -- Przechwyć, aby automatycznie wyleczyć całą piechotę."
 RU: "Госпиталь -- захватите для самостоятельного исцеления всей пехоты"
 AR: "ﻰﻔﺸﻤﻟا\nﺔﻛﺮﻌﻤﻟا ضرأ ﻲﻓ كﺮﺻﺎﻨﻌﻟ جﻼﻌﻟا ﻦﯿﻣﺄﺘﻟ ﺎﮫﯿﻠﻋ لﻮﺼﺤﻟﺎﺑ ﻢﻗ"
 UK: "Шпиталь — захопіть, щоб уся піхота могла автоматично лікуватися"
-SV: "Sjukhus – Erövra för att automatiskt hela all infanteri"
+SV: "Sjukhus – Erövra för att automatiskt läka alla soldater"
 END
 
 OBJECT:ApartmentComplex
@@ -24181,7 +24180,7 @@ PL: "Buldożer"
 RU: "Строительный бульдозер"
 AR: "ءﺎﻨﺒﻟا ﺔﺑﺮﻋ"
 UK: "Бульдозер"
-SV: "Bulldozer"
+SV: "Byggbulldozer"
 END
 
 // Patch104p @fix xezon 09/07/2023 Removes unnecessary line break in DE. (#2089)
@@ -24312,7 +24311,7 @@ PL: "Płonąca piechota"
 RU: "Горящая пехота"
 AR: "ﺔﻠﻌﺘﺸﻤﻟا ةﺎﺸﻤﻟا"
 UK: "Flaming Infantry"
-SV: "Brinnande infanteri"
+SV: "Brinnande soldat"
 END
 
 OBJECT:ToxicInfantry
@@ -24328,7 +24327,7 @@ PL: "Toksyczna piechota"
 RU: "Пехота пораженная токсинами"
 AR: "ﺔﻣﺎﺴﻟا ﺔﻗﺮﻔﻟا ﺮﺻﺎﻨﻋ"
 UK: "Toxic Infantry"
-SV: "Förgiftad infanteri"
+SV: "Förgiftad soldat"
 END
 
 // Patch104p @fix xezon 24/07/2022 Fixes DE string from "Dam0`s Imbissbude". (#750)
@@ -28777,7 +28776,7 @@ PL: "NOWA JEDNOSTKA: CZOŁG SMOK\nCzołg SMOK zieje ogniem, który szybko likwid
 RU: "НОВЫЙ ЮНИТ: ТАНК ДРАКОН\nТАНК ДРАКОН извергает пламя и может в одно мгновение испепелить вражескую пехоту,\nдаже если она находится в здании."
 AR: "NEW UNIT: DRAGON TANK\nThe DRAGON TANK breathes fire that can quickly dispatch enemy infantry,\neven if they are garrisoned inside a building or structure"
 UK: "НОВА ОДИНИЦЯ: ТАНК ДРАКОН\nТАНК ДРАКОН дмухає вогнем, який може швидко знищити ворожу піхоту,\nнавіть якщо вони знаходяться всередині будівлі"
-SV: "NY ENHET: Drakbandvagn\nDrakbandvagnen sprutar eld som snabbt kan förgöra fiendens infanteri,\näven om de befinner sig i en byggnad"
+SV: "NY ENHET: Drakbandvagn\nDrakbandvagnen sprutar eld som snabbt kan förgöra fiendens soldater,\näven om de befinner sig i en byggnad"
 END
 
 MAP:CHI02Obj01
@@ -29849,7 +29848,7 @@ PL: "Budynki cywilne stanowiące cele misji mogą być zajmowane przez Twoich ra
 RU: "Гражданские промышленные здания могут быть захвачены Вашими рейнджерами. Захват этих зданий даст Вам преимущество перед Вашими врагами. Захватите нефтяную вышку, выделением рейнджера и нажатием левой кнопки мыши по самой нефтяной вышке. Нефтяная вышка будет качать нефть, которая будет приносить вам дополнительный доход"
 AR: "Civilian Objective Buildings can be captured by your Rangers. Holding these buildings will give you advantages against your enemies. Capture the Oil Derricks by selecting a Ranger, left clicking the capture button and then left clicking on the Oil Derrick itself. Oil Derricks provide you with additional resources as they pump oil"
 UK: "Ваші рейнджери можуть захоплювати цивільні споруди. Утримання цих будівель дасть вам переваги проти ваших ворогів. Захопіть нафтові вишки, вибравши Рейнджера, клацнувши лівою кнопкою миші кнопку Захоплення, а потім клацнувши лівою кнопкою миші на самій нафтовій вишці. Нафтові вишки забезпечують вас додатковими ресурсами, оскільки вони викачують нафту"
-SV: "Byggnader med civilt mål kan erövras av dina . Att hålla dessa byggnader ger dig fördelar mot dina fiender. Erövra Oljeriggen genom att välja en Jägarsoldat, vänsterklicka på erövra-knappen och sedan vänsterklicka på Oljeriggen. Oljerigg ger dig ytterligare förnödenheter när de pumpar upp olja"
+SV: "Byggnader med civilt mål kan erövras av dina jägarsoldaer. Att hålla dessa byggnader ger dig fördelar mot dina fiender. Erövra Oljeriggen genom att välja en Jägarsoldat, vänsterklicka på erövra-knappen och sedan vänsterklicka på Oljeriggen. Oljerigg ger dig ytterligare förnödenheter när de pumpar upp olja"
 END
 
 SCRIPT:TrainingCrate
@@ -30650,7 +30649,7 @@ PL: "Silne przeciwko wszystkiemu\n\nCzas aktywacji: 6:00"
 RU: "Эффективна против всего\n\nВремя до готовности: 6:00"
 AR: "ءﻲﺷ ﻞﻛ ﺪﺿ لﺎﻌﻓ\n\n٠٠ : ٦ : ﻲﻟزﺎﻨﺘﻟا ﺪﻌﻟا ﺖﻗﺆﻣ"
 UK: "Ефективно проти всього\n\nТаймер зворотного відліку: 6:00"
-SV: "Starka mot allt\n\nNedräkning: 6:00"
+SV: "Stark mot allt\n\nNedräkning: 6:00"
 END
 
 // Patch104p @fix xezon 26/07/2023 Changes strings to say "Strong against everything" or similar for DE, FR, ES, IT, KO, ZH, BP, PL, RU. (#2176)
@@ -30669,7 +30668,7 @@ PL: "Silne przeciwko wszystkiemu\n\nCzas aktywacji: 5:00"
 RU: "Эффективен против всего\n\nВремя до готовности: 5:00"
 AR: "ءﻲﺷ ﻞﻛ ﺪﺿ لﺎﻌﻓ\n\n٠٠ : ٥ : ﻲﻟزﺎﻨﺘﻟا ﺪﻌﻟا ﺖﻗﺆﻣ"
 UK: "Ефективно проти всього\n\nТаймер зворотного відліку: 5:00"
-SV: "Starka mot allt\n\nNedräkning: 5:00"
+SV: "Stark mot allt\n\nNedräkning: 5:00"
 END
 
 // context: Appears when you mouse over the Artillery Barrage cameo on the Chinese Command Center
@@ -30722,7 +30721,7 @@ PL: "Odsłania wskazany obszar i odkrywa zamaskowane jednostki.\n\nCzas aktywacj
 RU: "Сканирует выбранную местность. Обнаруживает замаскированные войска противника\n\nВремя до готовности: 1:00"
 AR: "ءاﺪﻋﻷا ﻞﺒﻗ ﻦﻣ ﺔﯿﻔﺨﻤﻟا ﺔﻘﻄﻨﻤﻟا ﻒﺸﻛ\n\n٠٠ : ١ : ﻲﻟزﺎﻨﺘﻟا ﺪﻌﻟا ﺖﻗﺆﻣ"
 UK: "Розкриває цільову область. Виявляє приховані підрозділи\n\nТаймер зворотного відліку: 1:00"
-SV: "Tar bort skugga och visar dolda enheter\n\nNedräkning: 1:00"
+SV: "Tar bort skugga och visar dolda trupper\n\nNedräkning: 1:00"
 END
 
 // context: Appears when you mouse over the Spy Drone cameo on the USA Command Center
@@ -30873,7 +30872,7 @@ PL: "Wybucha na Twój rozkaz."
 RU: "Взорвать по Вашей команде"
 AR: "ﻚﺑ ﺔﺻﺎﺨﻟا ةدﺎﯿﻘﻟا ﺮﯿﺠﻔﺗ"
 UK: "Вибух по команді"
-SV: "Spräng på ditt kommando"
+SV: "Sprängs på ditt kommando"
 END
 
 // context: Appears when you mouse over the Detonate cameo on the GLA Demo Trap
@@ -31267,7 +31266,7 @@ PL: "Wyposaża tego Imperatora w megafon. Leczy oddziały i zwiększa szybkostrz
 RU: "Установить вышку пропаганды на этом Владыке. Она поможет отремонтировать и подлечить Ваши войска и увеличит их скорострельность"
 AR: "ﻰﻠﻋ ﻲﻣﻼﻋﻹا جﺮﺒﻟا ءﺎﻨﺑ\nﺔﻣﺪﻘﺘﻤﻟا Overlord ﺔﺑﺎﺑد"
 UK: "Побудувати гучномовець на цьому Повелителі. Лікує ваші війська та збільшує швидкість стрільби"
-SV: "Bygg ett högtalaretorn på denna Överherrebandvagnen. Högtalaretornet läker dina trupper och ökar skjutfrekvensen"
+SV: "Bygg ett högtalaretorn på denna Överherrebandvagnen.\nHögtalaretornet läker dina trupper och ökar skjutfrekvensen"
 //patch104p-core-end
 //patch104p-optional-begin
 US: "Build a Speaker Tower on this Overlord. Heals your forces and increases firing speed"
@@ -31282,7 +31281,7 @@ PL: "Wyposaża tego Imperatora w megafon. Leczy oddziały i zwiększa szybkostrz
 RU: "Установить вышку пропаганды на этом Владыке. Она поможет отремонтировать и подлечить Ваши войска и увеличит их скорострельность"
 AR: "ﻰﻠﻋ ﻲﻣﻼﻋﻹا جﺮﺒﻟا ءﺎﻨﺑ\nﺔﻣﺪﻘﺘﻤﻟا Overlord ﺔﺑﺎﺑد"
 UK: "Побудувати гучномовець на цьому Повелителі. Лікує ваші війська та збільшує швидкість стрільби"
-SV: "Bygg ett högtalaretorn på denna Överherrebandvagnen. Högtalaretornet läker dina trupper och ökar skjutfrekvensen"
+SV: "Bygg ett högtalaretorn på denna Överherrebandvagnen.\nHögtalaretornet läker dina trupper och ökar skjutfrekvensen"
 //patch104p-optional-end
 END
 
@@ -31302,7 +31301,7 @@ PL: "Wyposaża tego Imperatora w bunkier. Bunkier może być obsadzony żołnier
 RU: "Установить Бункер на этом Владыке. В Бункерах могут находиться солдаты. Солдаты смогут вести огонь из Бункера"
 AR: "ﻰﻠﻋ ﻲﺳاﺮﺘﺣإ ﺄﺒﺨﻣ ءﺎﻨﺑ\nﺔﻣﺪﻘﺘﻤﻟا Overlord ﺔﺑﺎﺑد\nﺎﮫﯿﻠﻋ دﻮﻨﺠﻟا ﻞﯿﻤﺤﺘﻟ"
 UK: "Побудувати бункер на цьому Повелителі. Бункери можуть бути зайняті військами. Війська можуть вести вогонь з бункерів"
-SV: "Bygg en bunker på denna Överherrebandvagnen. Bunkern kan hålla trupper som kan skjuta ut från den"
+SV: "Bygg en bunker på denna Överherrebandvagnen.\nBunkern kan hålla trupper som kan skjuta ut från den"
 END
 
 // context: Appears when you mouse over the Radar Upgrade on the Chinese Command Center
@@ -31355,7 +31354,7 @@ PL: "Siła ognia wszystkich miotaczy płomieni +25%."
 RU: "+25% урона для всех атак огнем"
 AR: "ﺐﮫﻠﻟا ﺔﺤﻠﺳأ ﺔﻓﺎﻛ ﻰﻟإ % ٢٥ + ﺔﻓﺎﺿإ"
 UK: "+25% шкоди всій вогняній зброї"
-SV: "+25% skada på alla flamvapen"
+SV: "+25% extra skada till alla flamm vapen"
 END
 
 // context: Appears when you mouse over the Chain Guns Upgrades on the Chinese War Factory
@@ -31372,7 +31371,7 @@ PL: "Siła ognia jednostek z działkami Gattling +25%."
 RU: "+25% урона для всех пулеметных вооружений"
 AR: "ﺔﺷﺎﺷﺮﻟا ﺔﺤﻠﺳﻷا ﺔﻓﺎﻛ ﻰﻟإ % ٢٥ + ﺔﻓﺎﺿإ"
 UK: "+25% шкоди всій зброї Гатлінга"
-SV: "+25% skada på alla gatlingkulsprutor"
+SV: "+25% extra skada till alla gatlingkulsprutor"
 END
 
 // context: Appears when you mouse over the Subliminal Message Upgrade on the Chinese Propaganda Center
@@ -31406,7 +31405,7 @@ PL: "Siła ognia Imperatorów i Pancernych Pięści +25%."
 RU: "+25% урона и радиационный урон для снарядов Владык и Мастеров боя"
 AR: "رﺎﻨﻟا قﻼﻃإ ةرﺪﻗ ﻊﻓر ﻢﺘﯿﺳ\nﺔﻛﺮﻌﻤﻟا ﺪﯿﺳ ﺔﺑﺎﺑﺪﻟ % ٢٥ ـﺑ"
 UK: "+25% шкоди від пострілу Майстра Битви і Повелителя"
-SV: "+25% skada på Stridsmästare- och Överherrebandvagnar"
+SV: "+25% extra skada til Stridsmästare- och Överherrebandvagnar"
 END
 
 // context: Appears when you mouse over the Nuclear Tanks Upgrade on the Chinese Nuclear Missile Silo
@@ -31495,7 +31494,7 @@ PL: "Ta ciężarówka z bombą otrzymuje +100% siły wybuchu i +25% zasięgu."
 RU: "+100% к урону от взрыва и +25% к зоне поражения для этого грузовика со взрывчаткой"
 AR: "ﻞﺑﺎﻨﻘﻟا ﺔﻨﺣﺎﺸﻟ ﺮﺜﻛأ رﺮﺿ ٪ ١٠٠"
 UK: "На 100% більше шкоди від цієї вантажівки з бомбою"
-SV: "100% mer skada och 25% mer radie för denna Bomblastbil"
+SV: "100% extra skada och 25% mer radie för denna Bomblastbil"
 END
 
 // context: Appears when you mouse over the Radar Scan cameo on the GLA Radar Van
@@ -31546,7 +31545,7 @@ PL: "Wszystkie ataki rakietowe +25% siły ognia."
 RU: "+25% урона при атаке любыми ракетами"
 AR: "ﺔﯿﺧورﺎﺼﻟا تﺎﻤﺠﮫﻟا ﻞﻛ ﻰﻠﻋ رﺮﺿ ﺔﻓﺎﺿأ ٪ +٢٥"
 UK: "+25% бонусу до шкоди всіх ракетних атак"
-SV: "+25% skada på alla raketattacker"
+SV: "+25% extra skada till alla raketattacker"
 END
 
 // context: Appears when you mouse over the Toxin Shells Upgrade on the GLA Palace
@@ -31580,7 +31579,7 @@ PL: "Wszystkie jednostki wyposażone w toksynę powodują o 25% więcej uszkodze
 RU: "+25% дополнительного урона для всех химических атак"
 AR: "ﺔﻣﺎﺴﻟا تاﺪﺣﻮﻟا ﻞﻛ ﻰﻟإ رﺮﺿ ﺔﻓﺎﺿإ +٥٠٪"
 UK: "+25% бонусу до шкоди всім токсичним одиницям"
-SV: "+25% skada till alla gifttrupper"
+SV: "+25% extra skada till alla gifttrupper"
 END
 
 // context: Appears when you mouse over AP Bullets Upgrade on the GLA Black Market
@@ -31597,7 +31596,7 @@ PL: "Buntownik, technik, działko czterolufowe i Jarmen Kell otrzymują +25% si�
 RU: "+25% урона для Повстанцев, Техничек, Самоходных зениток и Джармена Келла"
 AR: "( ﺔﺣﺎﺴﻟا ﻊﻓﺪﻣ ، ﻲﺋاﺪﻔﻟا ) ةﺪﺣﻮﻟ ﺔﻓﺎﺿإ + ٪ ٢٥"
 UK: "+25% бонусу до шкоди Повстанцям, Технічкам, Четверним Гарматам і Джармену Келлу"
-SV: ""
+SV: "+25% extra skada åt Rebeller, Technical, Fyrpipigluftvärnskanon och Jarmen Kell"
 END
 
 // context: Appears when you mouse over the Junk Repair Upgrade on the GLA Black Market
@@ -31614,7 +31613,7 @@ PL: "Automatyczna naprawa wszystkich pojazdów."
 RU: "Автоматический ремонт техники"
 AR: "ًﺎﯿﻟآ تﺎﺑﺮﻌﻟا ﺔﻓﺎﻛ ﺢﯿﻠﺼﺗ"
 UK: "Автоматичний ремонт усієї техніки"
-SV: ""
+SV: "Alla fordon själv-reparerar"
 END
 
 // context: Appears when you mouse over the Camouflage Upgrade on the GLA Palace
@@ -31631,7 +31630,7 @@ PL: "Nieruchomi i nie prowadzący ostrzału buntownicy są niewidzialni dla wrog
 RU: "Повстанцы не заметны, если не атакуют"
 AR: "ﻢھﻮﻠﺗﺎﻘﻳ ﻻ ﺎﻣﺪﻨﻋ وﺪﻌﻟا رﺎﻈﻧأ ﻦﻋ نﻮﻔﺘﺨﻳ راﻮﺜﻟا"
 UK: "Повстанці приховані від очей ворога, коли не стріляють"
-SV: ""
+SV: "Rebeller är gömda från fienden när de inte skjuter"
 END
 
 // context: Appears when you mouse over the Tranq Darts Upgrade on the GLA Prison
@@ -31648,7 +31647,7 @@ PL: "Buntownicy mogą próbować brać do niewoli żołnierzy wroga."
 RU: "Повстанцы могут попробовать захватить вражеского солдата"
 AR: "ءاﺪﻋﻷا ﺮﺳأ ﺔﯿﺻﺎﺧ\nﻦﯿﯿﺋاﺪﻔﻟا ىﺪﻟ"
 UK: "Повстанці можуть спробувати захопити ворожих солдатів"
-SV: ""
+SV: "Rebeller kan försöka fånga fiendens soldater"
 END
 
 // context: Appears when you mouse over the Arm the Mob Upgrade on the GLA Barracks
@@ -31665,7 +31664,7 @@ PL: "Wszystkie wściekłe tłumy zostają uzbrojone w karabiny AK-47."
 RU: "Вооружить разъяренные Толпы автоматами АК-47"
 AR: "AK-47s حﻼﺴﺑ راﻮﺜﻟا ﺔﻓﺎﻛ ﺢﯿﻠﺴﺗ"
 UK: "Озброїти розлючений натовп автоматами AK-47"
-SV: ""
+SV: "Beväpna alla arga mobbar med AK-47"
 END
 
 // context: Appears when you mouse over the Evacuate cameo on any garrisonable structure
@@ -31682,7 +31681,7 @@ PL: "Nakazuje jednostce opuszczenie obiektu."
 RU: "Приказать этому юниту покинуть здание"
 AR: "جوﺮﺨﻠﻟ ةﺪﺣﻮﻟا هﺬھ ﺐﻠﻃإ"
 UK: "Наказати цьому підрозділу вийти"
-SV: ""
+SV: "Ge truppen en order att evakuera"
 END
 
 // context: Appears when you mouse over the Evacuate cameo on any transport
@@ -31699,7 +31698,7 @@ PL: "Nakazuje jednostce opuszczenie obiektu."
 RU: "Приказать этому юниту покинуть технику"
 AR: "جوﺮﺨﻠﻟ ةﺪﺣﻮﻟا هﺬھ ﺐﻠﻃإ"
 UK: "Наказати цьому підрозділу вийти"
-SV: ""
+SV: "Ge truppen en order att evakuera"
 END
 
 CONTROLBAR:ToolTipEvacuate
@@ -31715,7 +31714,7 @@ PL: "Nakazuje jednostce opuszczenie obiektu."
 RU: "Приказать всем войскам эвакуироваться"
 AR: "جوﺮﺨﻠﻟ تاﺪﺣﻮﻟا ﺔﻓﺎﻛ ﺐﻠﻃ"
 UK: "Наказати всім підрозділам вийти"
-SV: ""
+SV: "Ge truppen en order att evakuera"
 END
 
 CONTROLBAR:ToolTipRailedTransport
@@ -31731,7 +31730,7 @@ PL: "Idź."
 RU: "Вперёд"
 AR: "ﺐھذإ"
 UK: "Руш"
-SV: ""
+SV: "Gå"
 END
 
 // context: Appears when you mouse over the Combat Drop cameo on the USA Chinook
@@ -31748,7 +31747,7 @@ PL: "Nakazuje rangerom dokonanie desantu na wskazany cel. W przypadku budynków 
 RU: "Приказать рейнджерам спуститься по веревке и совершить штурм строения. Используйте на оккупированных врагом зданиях, чтобы нейтрализовать всех вражеских солдат внутри"
 AR: "لاﺰﻧﻺﻟ ﺔﺳاﺮﺤﻟا تاﺪﺣو ﺐﻠﻃإ\nﻞﺤﺘﺴﻤﻟا ﻰﻨﺒﻤﻟا قﻮﻓ\nﻪﯿﻓ ءاﺪﻋﻷا ﻞﻛ ﻞﺘﻗو ﺮﻳﺮﺤﺘﻟ"
 UK: "Наказати рейнджерам спуститися на ворожу ціль. Використовуйте на будівлях з гарнізоном, щоб убити всіх ворожих солдатів усередині"
-SV: ""
+SV: "Ge Jägarsoldaten order att fira ner från Bananhelikoptern. Använd på befästa byggnader för att döda fienden inuti"
 END
 
 CONTROLBAR:ToolTipGuard
@@ -31764,7 +31763,7 @@ PL: "Nakazuje jednostce strzec wskazanego miejsca i w razie konieczności ściga
 RU: "Приказать войскам передвигаться по обозначенной местности и преследовать встреченных врагов"
 AR: "دﺪﺤﻤﻟا ﻊﻗﻮﻤﻟا ﺔﺳاﺮﺤﻟ ةﺪﺣﻮﻟا ﺐﻠﻃ"
 UK: "Наказати підрозділу рухатися для охорони певного місця та переслідування цілей, якщо необхідно"
-SV: ""
+SV: "Ge trupperna en order att vakta ett område, de kommer anfalla fienden vid behov"
 END
 
 CONTROLBAR:ToolTipGuardWithoutPursuit
@@ -31780,7 +31779,7 @@ PL: "Nakazuje jednostce strzec wskazanego miejsca bez ścigania napastników."
 RU: "Приказать войскам передвигаться по обозначенной местности обороняя ее и не преследовать цели выходящие за установленные границы"
 AR: "، ﻦﯿﻌﻣ ﻊﻗﻮﻣ ﺔﺳاﺮﺤﻟ كﺮﺤﺘﻠﻟ ةﺪﺣﻮﻟا ﺐﻠﻃ\nﺔﻘﻄﻨﻤﻟا جرﺎﺧ فاﺪھﻷا ﻲﻤﺤﻳ ﻻ ﺪﻗ ﻦﻜﻟ"
 UK: "Наказати підрозділу рухатися для охорони певного місця, але не переслідувати цілі за межами цього району"
-SV: ""
+SV: "Ge trupperna en order att vakta ett område, de kommer anfalla fienden vid behov men inte förfölja"
 END
 
 CONTROLBAR:ToolTipGuardFlyingUnitsOnly
@@ -31796,7 +31795,7 @@ PL: "Nakazuje jednostce atakować latające jednostki wroga, które pojawią si�
 RU: "Приказать охранять воздушное пространство и атаковать воздушные цели, вторгающиеся в него"
 AR: "كﺮﺤﺘﻠﻟ ةﺪﺣﻮﻟا ﺐﻠﻃإ\nاﻮﺟ ﺔﻟﻮﻤﺤﻤﻟا تاﺪﺣﻮﻟا ﺔﻤﺟﺎﮫﻤﻟ\nدﺪﺤﻤﻟا ﻊﻗﻮﻤﻟا ﻦﻣ ﺖﺑﺮﺘﻗإ ﻲﺘﻟا"
 UK: "Наказати підрозділу рухатися, щоб атакувати авіацію, яка наближається до вказаного місця"
-SV: ""
+SV: "Ge flygande trupper en order att vakta ett område i luften,\nde kommer att anfalla fiendens flygande trupper vid behov"
 END
 
 // context: Appears when you mouse over the Attack Move cameo on all units
@@ -31813,7 +31812,7 @@ PL: "Nakazuje jednostce przemieszczenie się do wskazanego punktu i atakowanie w
 RU: "Приказать войскам двигаться к точке назначения и уничтожать всех врагов на пути"
 AR: "تاﺪﺣﻮﻟا ﻰﻠﻋ ﻲﺗاﺬﻟا مﻮﺠﮫﻟا"
 UK: "Наказує підрозділу рухатися до цільової зони та зупинитися, щоб атакувати ворогів на шляху"
-SV: ""
+SV: "Ge trupperna en order att röra sig mot målområdet och stanna för att anfalla fiender på vägen"
 END
 
 // context: Appears when you mouse over the Stop cameo on all units
@@ -31830,7 +31829,7 @@ PL: "Nakazuje jednostce przerwanie wszelkich działań."
 RU: "Приказать войскам прекратить любые действия"
 AR: "ًارﻮﻓ ةﺪﺣﻮﻟا ﺐﻠﻃ"
 UK: "Наказати підрозділу припинити все, що він робить"
-SV: ""
+SV: "Ge trupperna en order att avbryta det de gör"
 END
 
 // context: Appears when you mouse over the Waypoint cameo on all units
@@ -31847,7 +31846,7 @@ PL: "Klikaj na ziemi, by określać punkty nawigacyjne."
 RU: "Нажмите на земле, чтобы установить точку сбора"
 AR: "ﺔﻄﻳﺮﺨﻟا طﺎﻘﻧ ﻊﺿﻮﻟ ﺔﻄﻳﺮﺨﻟا ﻰﻠﻋ ﻂﻐﺿإ"
 UK: "Натисніть на землю, щоб встановити маршрутні точки"
-SV: ""
+SV: "Klicka på marken för att sätta vägpunkter"
 END
 
 // context: Appears when you mouse over the Capture Building cameo on the US Ranger
@@ -31864,7 +31863,7 @@ PL: "Powoduje zajęcie wskazanego budynku."
 RU: "Захватить выбранное вражеское здание"
 AR: "ﺔﻓﺪﮫﺘﺴﻤﻟا وﺪﻌﻟا ةﺂﺸﻨﻣ ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
 UK: "Захопити ворожу будівлю"
-SV: ""
+SV: "Erövra den valda byggnaden"
 END
 
 // context: Appears when you mouse over the 20mm Cannon cameo on the USA Comanche
@@ -31881,7 +31880,7 @@ PL: "Powoduje ostrzelanie celu z działka 20mm."
 RU: "Открыть огонь из 20мм Орудия по цели"
 AR: "فﺪﮫﻟا ﻲﻓ ﺮﺘﻤﯿﻠﻣ ٢٠ ﻊﻓﺪﻣ ﻖﻠﻃأ"
 UK: "Стріляти по цілі з 20-мм гармати"
-SV: ""
+SV: "Avfyra 20mm kanonen mot målet"
 END
 
 // context: Appears when you mouse over the Anti-tank Missile cameo on the USA Comanche
@@ -31898,7 +31897,7 @@ PL: "Powoduje ostrzelanie celu pociskami ppanc."
 RU: "Открыть огонь противотанковыми ракетами по цели"
 AR: "فﺪﮫﻟا ﻲﻓ ﺔﺑﺎﺑﺪﻟا ﺪﺿ ﺦﻳراﻮﺼﻟا قﻼﻃأ"
 UK: "Стріляйте по цілі протитанковими ракетами"
-SV: ""
+SV: "Avfyra anti-bandvagnsraketer mot målet"
 END
 
 // context: Appears when you mouse over the Fire Rockets cameo on the USA Comanche
@@ -31915,7 +31914,7 @@ PL: "Powoduje ostrzelanie wskazanego obszaru serią rakiet."
 RU: "Открыть заградительный огонь ракетами по назначенной местности"
 AR: "فﺪﮫﻟا ﻰﻠﻋ ﻒﺜﻜﻣ ﻞﻜﺸﺑ ﺦﻳراﻮﺻ قﻼﻃإ"
 UK: "Випустіть шквал ракет по цільовій області"
-SV: ""
+SV: "Avfyra en raketsalva mot målområdet"
 END
 
 CONTROLBAR:ToolTipGLAFireScorpionRocket
@@ -31931,7 +31930,7 @@ PL: "Powoduje ostrzelanie celu jedną ciężką rakietą."
 RU: "Выстрелить тяжелой ракетой по цели"
 AR: "بﺮﻘﻌﻟا خورﺎﺻ قﻼﻃإ"
 UK: "Випустіть одну важку ракету по цілі"
-SV: ""
+SV: "Avfyra en tung raket mot målet"
 END
 
 // context: Appears when you mouse over the HE Warhead cameo on the GLA Scud Launcher
@@ -31948,7 +31947,7 @@ PL: "Uzbraja pocisk SCUD w materiały wybuchowe."
 RU: "Использовать ракеты СКАД со взрывчаткой"
 AR: "تاﺮﺠﻔﺘﻤﻟﺎﺑ دﻮﻜﺳ خورﺎﺻ ﻞﯿﻤﺤﺗ"
 UK: "Зарядити ракету СКАД з вибухівкою"
-SV: ""
+SV: "Ladda SCUD-missilbatteriet med sprängämnen"
 END
 
 // context: Appears when you mouse over the Anthrax Warhead cameo on the GLA Scud Launcher
@@ -31965,7 +31964,7 @@ PL: "Uzbraja pocisk SCUD w ładunek wąglika."
 RU: "Использовать ракеты СКАД с Сибирской язвой"
 AR: "ﺔﯿﻣﻮﺛﺮﺠﻟا ﺔﻠﺒﻨﻘﻟﺎﺑ دﻮﻜﺳ خورﺎﺻ ﻞﯿﻤﺤﺗ"
 UK: "Зарядити ракету СКАД з сибірською виразкою"
-SV: ""
+SV: "Ladda SCUD-missilbatteriet med mjältbrand"
 END
 
 // context: Appears when you mouse over the Contaminate cameo on the GLA Toxin Tractor
@@ -31982,7 +31981,7 @@ PL: "Rozpyla toksyny na wskazanym obszarze."
 RU: "Распылить химикаты вокруг"
 AR: "مﻮﻤﺴﻟﺎﺑ ﺔﻘﻄﻨﻤﻟا شر"
 UK: "Забруднити область токсинами"
-SV: ""
+SV: "Bespruta området med gifter"
 END
 
 // context: Appears when you mouse over the Capture Building cameo on the GLA Rebel
@@ -31999,7 +31998,7 @@ PL: "Powoduje zajęcie wskazanego budynku wroga."
 RU: "Захватить выделенное вражеское здание"
 AR: "ﺔﻓﺪﮫﺘﺴﻤﻟا ةﺄﺸﻨﻤﻟا ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
 UK: "Захопити ворожу будівлю"
-SV: ""
+SV: "Erövra den valda byggnaden"
 END
 
 // context: Appears when you mouse over the Make Car Bomb cameo on the GLA Terrorist
@@ -32016,7 +32015,7 @@ PL: "Powoduje wejście do cywilnego samochodu i zainstalowanie w nim ładunku wy
 RU: "Украсть гражданский автомобиль и начинить его взрывчаткой"
 AR: "تاﺮﺠﻔﺘﻤﻟﺎﺑ هﻸﻣإو ﺔﯿﻧﺪﻣ ةرﺎﯿﺳ ﻞﺧدإ"
 UK: "Зайти в цивільний автомобіль і начинити його вибухівкою"
-SV: ""
+SV: "Fyll en civil bil med sprängämnen och kör in i en fiende"
 END
 
 // context: Appears when you mouse over the Fire Bomb cameo on the GLA Angry Mob
@@ -32033,7 +32032,7 @@ PL: "Razi cel bombami zapalającymi."
 RU: "Коктейли молотова Толпы ГЛА"
 AR: "فﺪﮫﻟا ﻰﻠﻋ ﺔﻗرﺎﺤﻟا ﻞﺑﺎﻨﻘﻟا ﻞﻤﻌﺘﺳإ"
 UK: "Використати вогняні бомби на цілі"
-SV: ""
+SV: "Använd brandbomber på målet"
 END
 
 // context: Appears when you mouse over the Hijack cameo on the GLA Hijacker
@@ -32050,7 +32049,7 @@ PL: "Powoduje porwanie wskazanego pojazdu wroga."
 RU: "Угнать выделенную вражескую технику"
 AR: "ﺔﻓﺪﮫﺘﺴﻤﻟا وﺪﻌﻟا ﺔﺑﺮﻋ فﺎﻄﺘﺧإ"
 UK: "Викрасти ворожу машину"
-SV: ""
+SV: "Kapa det valda fordon"
 END
 
 // context: Appears when you mouse over the Vehicle Snipe cameo on GLA's Jarmen Kell
@@ -32067,7 +32066,7 @@ PL: "Powoduje likwidację załogi pojazdu."
 RU: "Нейтрализовать экипаж"
 AR: "ﺔﺑﺮﻌﻟا ﻢﻗﺎﻃ ﻞﺘﻗ"
 UK: "Убити екіпаж машини"
-SV: ""
+SV: "Döda fordonets förare"
 END
 
 // Patch104p @fix xezon 23/07/2022 Adds missing strings for DE, FR, ZH.
@@ -32086,7 +32085,7 @@ PL: "Strzelaj"
 RU: "Выпустить ракеты"
 AR: "رﺎﻨﻟا قﻼﻃإ"
 UK: "Вогонь"
-SV: ""
+SV: "Avfyra"
 END
 
 // context: Appears when you mouse over the Capture Building cameo on the Chinese Red Guard
@@ -32103,7 +32102,7 @@ PL: "Powoduje zajęcie wskazanego budynku wroga."
 RU: "Захватить выделенное вражеское здание"
 AR: "ﺔﻓﺪﮫﺘﺴﻤﻟا وﺪﻌﻟا ةﺄﺸﻨﻣ ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
 UK: "Захопити ворожу будівлю"
-SV: ""
+SV: "Erövra den valda byggnaden"
 END
 
 // context: Appears when you mouse over the Stun Bullets cameo on the Chinese Red Guard
@@ -32120,7 +32119,7 @@ PL: "Powoduje pojmanie wskazanego żołnierza wroga."
 RU: "Захватить выделенного вражеского солдата"
 AR: "فﺪﮫﺘﺴﻤﻟا يﺪﻨﺠﻟا ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
 UK: "Захопити ворожого солдата"
-SV: ""
+SV: "Fånga den valda fiendesoldaten"
 END
 
 // context: Appears when you mouse over the Bayonet cameo on the Chinese Red Guard
@@ -32137,7 +32136,7 @@ PL: "Powoduje zaatakowanie bagnetem wskazanego żołnierza wroga."
 RU: "Использовать Штык-нож для скрытого убийства выделенного вражеского солдата"
 AR: "فﺪﮫﺘﺴﻤﻟا وﺪﻌﻟا يﺪﻨﺟ ﻰﻠﻋ ﺔﺑﺮﺤﻟا لﺎﻤﻌﺘﺳإ"
 UK: "Використати багнет на вибраному ворожому солдаті"
-SV: ""
+SV: "Använd bajonetten på den valda fiendesoldaten"
 END
 
 // context: Appears when you mouse over the Capture Building cameo on China's Black Lotus
@@ -32154,7 +32153,7 @@ PL: "Powoduje zajęcie budynku wroga."
 RU: "Захватить вражеское здание"
 AR: "وﺪﻌﻟا تﺄﺸﻨﻣ ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
 UK: "Захопити ворожу будівлю"
-SV: ""
+SV: "Erövra den valda byggnaden"
 END
 
 // context: Appears when you mouse over the Disable Vehicle cameo on China's Black Lotus
@@ -32171,7 +32170,7 @@ PL: "Powoduje unieruchomienie pojazdu wroga."
 RU: "Вывести из строя вражескую технику"
 AR: "وﺪﻌﻟا ﺔﺑﺮﻋ ﻞﯿﻄﻌﺗ"
 UK: "Відключити ворожу техніку"
-SV: ""
+SV: "Inaktivera fiendens fordon"
 END
 
 // context: Appears when you mouse over the Cash Hack cameo on China's Black Lotus
@@ -32188,7 +32187,7 @@ PL: "Powoduje kradzież pieniędzy ze wskazanego ośrodka zaopatrzeniowego wroga
 RU: "Украсть деньги из выбранного Центра снабжения врага"
 AR: "ءاﺪﻋﻷا ﺰﯿﮫﺠﺗ ﺰﻛﺮﻣ ﻦﻣ لاﻮﻣﻷا ﺔﻗﺮﺳ"
 UK: "Викрасти гроші з вибраного центру постачання ворога"
-SV: ""
+SV: "Stjäl pengar från fiendens Förnödenhetscentral"
 END
 
 // context: Appears when you mouse over the Hack the Internet cameo on the Chinese Hacker
@@ -32205,7 +32204,7 @@ PL: "Wejście do Internetu w celu przeprowadzenia ataku hakerskiego i kradzieży
 RU: "Кража средств в Интернете"
 AR: "لﺎﻤﻟا ﺔﻗﺮﺴﻟ ﺖﻧﺮﺘﻧﻹا ﻰﻠﻋ ﻞﺧدإ"
 UK: "Зламати Інтернет, щоб вкрасти гроші"
-SV: ""
+SV: "Hacka internet för att stjäla pengar"
 END
 
 // context: Appears when you mouse over the Disable Building cameo on the Chinese Hacker
@@ -32222,7 +32221,7 @@ PL: "Wyłączenie nieprzyjacielskiego budynku za pomocą groźnego wirusa komput
 RU: "Вывести из строя вражеское здание с помощью компьютерного вируса"
 AR: "يﻮﻘﻟا بﻮﺳﺎﺤﻟا سوﺮﯿﻔﺑ وﺪﻌﻟا ةﺄﺸﻨﻣ ﻞﯿﻄﻌﺗ"
 UK: "Відключити ворожу будівлю потужним комп'ютерним вірусом"
-SV: ""
+SV: "Inaktivera fiendens byggnad med ett kraftfullt datorvirus"
 END
 
 // Patch104p @fix xezon 23/07/2022 Adds missing strings for DE, FR, ZH.
@@ -32241,7 +32240,7 @@ PL: "Strzelaj"
 RU: "Выпустить пламя"
 AR: "رﺎﻨﻟا قﻼﻃإ"
 UK: "Вогонь"
-SV: ""
+SV: "Avfyra"
 END
 
 // context: A special attack of a flame tank. Lights a line of fire that spreads outwards.
@@ -32258,7 +32257,7 @@ PL: "Zalanie ogniem wycinka wskazanego obszaru."
 RU: "Создать стену огня в выбранном месте"
 AR: "ﺔﮫﺟﻮﻤﻟا ﺔﻘﻄﻨﻤﻟا ﻰﻠﻋ يرﺎﻧ سﻮﻗ ﻊﺿو"
 UK: "Створити стіну вогню в цільовій області"
-SV: ""
+SV: "Lägg ner en eldlinje på det valda området"
 END
 
 // unused
@@ -32276,7 +32275,7 @@ PL: "Zabranie nieprzyjacielskiego jeńca w celu dostarczenia go do własnej bazy
 RU: "Взять вражеского пленного и вернуть его на Вашу базу"
 AR: "ﻚﺗﺪﻋﺎﻗ ﻰﻟإ ﻪﻋﺎﺟرﻹ وﺪﻌﻟا ﻦﯿﺠﺳ ﻂﻘﺘﻟإ"
 UK: "Візьміть ворожого полоненого, щоб повернути його на свою базу"
-SV: ""
+SV: "Plocka upp krigsfången för att återföra honom till din bas"
 END
 
 // context: Appears when you mouse over the Return Prisoners cameo on the POW Truck for all factions
@@ -32293,7 +32292,7 @@ PL: "Powrót do miejsca przetrzymywania więźniów."
 RU: "Вернуться в место содержания пленных"
 AR: "ﻦﯿﺠﺴﻟا زﺎﺠﺘﺣإ ﺔﻠﯿﺳو ﻰﻟإ ةدﻮﻌﻟا"
 UK: "Повернення до колонії для ув’язнених"
-SV: ""
+SV: "Återvänd till fånglägret"
 END
 
 // context: Appears when you mouse over the TNT Attack cameo on the Chinese Tank Hunter
@@ -32310,7 +32309,7 @@ PL: "Podłożenie ładunku dynamitu."
 RU: "Установить заряд TNT"
 AR: "ﻲﺗ نإ ﻲﺘﻟا تاﺮﺠﻔﺘﻣ نﺎﻜﻣ"
 UK: "Розмістити заряд тротилу"
-SV: ""
+SV: "Placera en TNT-laddning"
 END
 
 // context: Appears when you mouse over the Knife Attack cameo on USA's Colonel Burton
@@ -32327,7 +32326,7 @@ PL: "Ciche zaatakowanie wskazanego żołnierza nożem."
 RU: "Использовать нож для бесшумного убийства выделенного вражеского солдата"
 AR: "مﻮﺠﮫﻠﻟ ﻦﯿﻜﺴﻟا ماﺪﺨﺘﺳإ\nﺖﻣﺎﺻ ﻞﻜﺸﺑ وﺪﻌﻟا ﻰﻠﻋ"
 UK: "Використовуйте ніж на ворожому солдаті, щоб здійснити тиху атаку"
-SV: ""
+SV: "Använd kniven på den valda fiendensoldaten för att genomföra en tyst attack"
 END
 
 // context: Appears when you mouse over the Timed Explosives cameo on USA's Colonel Burton
@@ -32344,7 +32343,7 @@ PL: "Podłożenie ładunku wybuchowego z zapalnikiem czasowym."
 RU: "Установить заряд взрывчатки с таймером"
 AR: "ﺔﻘﻄﻨﻤﻠﻟ ﺔﺘﻗﺆﻤﻟا ﺮﯿﻣﺪﺘﻟا ةﻮﺒﻋ"
 UK: "Розмістити заряд з годинниковим механізмом"
-SV: ""
+SV: "Placera en tidsinställd sprängladdning"
 END
 
 // context: Appears when you mouse over the Place Remote Charge cameo on USA's Colonel Burton
@@ -32361,7 +32360,7 @@ PL: "Podłożenie ładunku wybuchowego z zapalnikiem radiowym."
 RU: "Установить радиоуправляемый заряд взрывчатки, который Вы сможете взорвать по команде"
 AR: "تاﺮﺠﻔﺘﻣ ﻊﺿو ﻚﻨﻜﻤﻳ\nفﺪﮫﻟا ﺔﻘﻄﻨﻤﻟا ﻲﻓ\nﺪﻳﺮﺗ ﺖﻗو يأ ﻲﻓ ﺎھﺮﯿﺠﻔﺗو"
 UK: "Розмістити підривний заряд із дистанційним керуванням, який можна підірвати в будь-який момент"
-SV: ""
+SV: "Placera en fjärr-styrd sprängladdning som du kan detonera när som helst"
 END
 
 // context: Appears when you mouse over the Detonate Remote Charges cameo on USA's Colonel Burton
@@ -32378,7 +32377,7 @@ PL: "Detonuje wszystkie ładunki z zapalnikiem radiowym."
 RU: "Взорвать все радиоуправляемые заряды"
 AR: "ﺪﻌﺑ ﻦﻋ تاﺮﺠﻔﺘﻤﻟا ﺔﻓﺎﻛ ﺮﯿﺠﻔﺗ"
 UK: "Підірвати всі заряди з дистанційним керуваням"
-SV: ""
+SV: "Detonera alla fjärr-styrda sprängladdningar"
 END
 
 // context: Appears when you mouse over the Cancel Construction cameo on any structure currently being built
@@ -32395,7 +32394,7 @@ PL: "Przerywa budowę."
 RU: "Отменить строительство"
 AR: "ءﺎﻨﺒﻟا ﺔﯿﻠﻤﻋ ءﺎﻐﻟإ"
 UK: "Відмінити будівництво"
-SV: ""
+SV: "Avbryt byggnation"
 END
 
 // context: Appears when you mouse over the Command Center cameo on the USA Dozer
@@ -32412,7 +32411,7 @@ PL: "Steruje uzbrojeniem specjalnym. Buduje buldożery. Zapewnia radar."
 RU: "Управление специальными способностями. Производство Строительных бульдозеров. Развертывание Радара"
 AR: "ﻲﺗارﺎﺒﺨﺘﺳإ راداﺮﺑ دوﺰﻣ\nءﺎﻨﺒﻠﻟ تﺎﺑﺮﻋ ﻊﯿﻨﺼﺘﺑ مﻮﻘﻳ"
 UK: "Керує спеціальною зброєю. Створює будівельні бульдозери. Забезпечує радар"
-SV: ""
+SV: "Styr specialvapen\nProducerar byggbulldozrar\nGer tillgång till radarn"
 END
 
 // Patch104p @fix xezon 10/09/2023 Fixes wrong or inconsistent power supply strings of PL. (#2344)
@@ -32431,7 +32430,7 @@ PL: "Zaopatruje bazy amerykańskie w elektryczność.\n\nDostarczana energia: 5"
 RU: "Производит энергию для базы США.\n\\Производит энергии : 5"
 AR: "ﺪﻋاﻮﻗ ﺪﻳوﺰﺘﺑ مﻮﻘﻳ\nﺔﯿﻜﻳﺮﻣﻷا ةﺪﺤﺘﻤﻟا تﺎﻳﻻﻮﻟا\n\n٥ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Забезпечує живлення для баз США\n\nЕнергія: 5"
-SV: ""
+SV: "Förser Förenta Staternas baser med ström\n\nStrömproduktion: 5"
 END
 
 // context: Appears when you mouse over the Barracks cameo on the USA Dozer
@@ -32448,7 +32447,7 @@ PL: "Szkoli do walki żołnierzy amerykańskich."
 RU: "Тренирует солдат армии США"
 AR: "ﻢﮫﻣاﺪﺨﺘﺳﻹ نﻮﯿﻜﻳﺮﻣأ دﻮﻨﺟ ﺐﻳرﺪﺗ\nكرﺎﻌﻤﻟاو بوﺮﺤﻟا ﻲﻓ"
 UK: "Тренує солдат США для використання в боях"
-SV: ""
+SV: "Tränar Förenta Staternas soldater"
 END
 
 // context: Appears when you mouse over the Supply Center cameo on the USA Dozer
@@ -32465,7 +32464,7 @@ PL: "Baza, do której amerykańskie śmigłowce Chinook dowożą zebrane zaopatr
 RU: "Место доставки припасов для Чинуков США\n\nПотребление энергии: 1"
 AR: "فﺎﻘﻳﻹا طﺎﻘﻧ لاﺰﻧإ\n\" كﻮﻨﯿﺷ \" ﺰﯿﮫﺠﺘﻟا تﻼﻗﺎﻨﻟ\n\n١ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Пункт розвантаження Чінуків США\n\nПотрібна потужність: 1"
-SV: ""
+SV: "Avlämningspunkt för Förenta Staternas Bananhelikoptrar\n\nStrömkrav: 1"
 END
 
 // context: Appears when you mouse over the Wall cameo on the USA Dozer
@@ -32482,7 +32481,7 @@ PL: "Ogrodzenie amerykańskie. Czujniki laserowe alarmują w przypadku przekrocz
 RU: "Система защитных ограждений США. Лазерные сенсоры поднимут тревогу, если вражеская пехота пересечет ограждение. Ограждение заблокирует движение вражеской техники через нее"
 AR: "لﻮﺧد ءﺎﻨﺛأ تﺎﺑﺬﺑذ ﻪﯿﺟﻮﺗ ﻢﺘﯿﺳ\nﺔﯿﺟﺎﯿﺴﻟا ﺔﻘﻄﻨﻤﻟا ﻦﻣ ءﺪﻋﻷا\nتاﺪﺣو ﺔﻄﺳاﻮﺑ ﺎﮫﻋدر ﻢﺘﯿﻟ\nﺔﯿﺿرﻷا عﺎﻓﺪﻟا ﺮﺻﺎﻨﻋو"
 UK: "Система огорож США. Лазерні датчики сповіщають про те, що ворожі війська пересуваються через паркан. Огорожа блокує рух ворожої техніки"
-SV: ""
+SV: "Förenta Staternas stängsel-system. Lasersensorer varnar för fiendens trupper som rör sig genom stängslet. Stängslet blockerar fiendens fordonsrörelser"
 END
 
 // context: Appears when you mouse over the War Factory cameo on the USA Dozer
@@ -32499,7 +32498,7 @@ PL: "Miejsce konstrukcji wszystkich pojazdów amerykańskich.\n\nWymagana energi
 RU: "Производство всей наземной техники США\n\nПотребление энергии: 1"
 AR: "ﺔﯿﺿرﻷا تﺎﺑﺮﻌﻟا ﺔﻓﺎﻛ ءﺎﺸﻧإ\nﺔﯿﻜﻳﺮﻣﻷا ةﺪﺤﺘﻤﻟا تﺎﻳﻻﻮﻠﻟ\n\n١ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Будує всю наземну техніку США\n\nПотрібна енергія: 1"
-SV: ""
+SV: "Bygger alla Förenta Staternas markfordon\n\nStrömkrav: 1"
 END
 
 // context: Appears when you mouse over the Patriot Battery cameo on the USA Dozer
@@ -32516,7 +32515,7 @@ PL: "Naziemna obrona przeciwlotnicza. Może przekazać położenie wroga poblisk
 RU: "Наземная и противовоздушная оборона. Может сообщать местоположение противника для совместной атаки с соседними ракетными комплексами \"Пэтриот\"\n\nПотребление энергии: 3"
 AR: "ﺔﻳﻮﺟ ﺔﯿﺿرأ عﺎﻓد ةﺪﻋﺎﻗ\n\n٣ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Наземна та протиповітряна оборона. Може передавати позицію ворога Патріотам поблизу\n\nПотрібна енергія: 3"
-SV: ""
+SV: "Mark- och luftförsvar\nKan vidarebefordra fiendens position till närliggande Patriot raketsystem\n\nStrömkrav: 3"
 END
 
 // context: Appears when you mouse over the Airfield cameo on the USA Dozer
@@ -32533,7 +32532,7 @@ PL: "Miejsce konstrukcji amerykańskich jednostek latających.\n\nWymagana energ
 RU: "Производство авиации США\n\nПотребление энергии: 1"
 AR: "ﺢﯿﻠﺴﺗو ﻊﯿﻨﺼﺘﺑ مﻮﻘﻳ\n\nﺔﯿﻜﻳﺮﻣﻷا تاﺮﺋﺎﻄﻟا"
 UK: "Будує літаки США\n\nПотрібна енергія: 1"
-SV: ""
+SV: "Bygger Förenta Staterns stridsflygplan och attackhelikoptrar\n\nStrömkrav: 1"
 END
 
 // context: Appears when you mouse over the Particle Cannon cameo on the USA Dozer
@@ -32550,7 +32549,7 @@ PL: "Ostrzeliwuje dowolny punkt mapy strumieniem cząstek elementarnych.\n\nWyma
 RU: "Фокусирует ионный луч в любом место на поле боя\n\nПотребление энергии: 10"
 AR: "ﺮﻣﺪﻣ يرذ ﻞﻋﺎﻔﻣ قﻼﻃﺈﺑ مﻮﻘﻳ\nﺔﻄﻳﺮﺨﻟا ﻲﻓ نﺎﻜﻣ يأ ﻰﻠﻋ\n\n١٠ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Випускає промінь часток у будь-яке місце на карті\n\nПотрібна енергія: 10"
-SV: ""
+SV: "Avfyrar en partikelstråle på valfri plats\nNedräkning: 4:00\n\nStrömkrav: 10"
 END
 
 // context: Appears when you mouse over the Strategy Center cameo on the USA Dozer
@@ -32567,7 +32566,7 @@ PL: "Całe siły amerykańskie mogą stosować jednolitą strategię walki.\n\nB
 RU: "Силы США могут единовременно использовать только один боевой план\n\nБомбардировка\nНайти и уничтожить\nДержать позиции\n\nПотребление энергии: 2"
 AR: "نأ ﻦﻜﻤﻳ تاﻮﻘﻟا ﺔﻓﺎﻛ\nةﺪﺣاو ﺔﻛﺮﻌﻣ ﺔﻄﺧ ﻞﻤﻌﺘﺴﺗ\n\nﻒﺼﻘﻟا\nﺮﯿﻣﺪﺘﻟاو ﺚﺤﺒﻟا\nﻦﯿﺼﺤﺘﻟا\n\n٢ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Усі сили США можуть використовувати єдиний план бою\n\nБомбардування\nЗнайти та знищити\nТримати позиції\n\nПотрібна енергія: 2"
-SV: ""
+SV: "Förenta Staternas kan använda en stridsplan\n\nBombardemang\nSök och Förstör\nHåll linjen\n\nStrömkrav: 2"
 END
 
 // context: Appears when you mouse over the Detention Camp cameo on the USA dozer
@@ -32584,7 +32583,7 @@ PL: "Umożliwia szpiegowanie nieprzyjaciela."
 RU: "Позволяет шпионить за врагами"
 AR: "ءاﺪﻋﻷا ﻰﻠﻋ ﺲﺴﺠﺘﻟا ةرﺪﻗ ﻚﺤﻨﻤﻳ"
 UK: "Надає можливість шпигувати за ворогами"
-SV: ""
+SV: "Ger förmågan att spionera på fiender"
 END
 
 // context: Appears when you mouse over the Supply Drop Zone cameo on the USA Dozer
@@ -32601,7 +32600,7 @@ PL: "Wzywa zrzut zaopatrzenia co 2 minuty.\n\nWymagana energia: 4"
 RU: "Вызов сброса припасов каждые 2 минуты\n\nПотребление энергии: 4"
 AR: "يﻮﺠﻟا لاﺰﻧﻹا تاﺪﺣو ﺐﻠﻃ\nﻦﯿﺘﻘﯿﻗد ﻞﻛ ﺰﯿﮫﺠﺘﻠﻟ\n\n٤ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Кожні 2 хвилини отримує припаси з літака\n\nПотрібна енергія: 4"
-SV: ""
+SV: "Kallar in ett förnödenhetslådedropp varannan minut\n\nStrömkrav: 4"
 END
 
 // context: Appears when you mouse over the Command Center cameo on the GLA Worker
@@ -32618,7 +32617,7 @@ PL: "Steruje uzbrojeniem specjalnym. Szkoli robotników."
 RU: "Управление специальными способностями. Тренирует Рабочих"
 AR: "ﺔﺻﺎﺨﻟا ﺔﺤﻠﺳﻷا ﺔﻋﻮﻤﺠﻣ ﻰﻠﻋ يﻮﺘﺤﻳ\nﻦﯿﺑرﺪﺘﻣ ءﺎﻨﺑ لﺎﻤﻋ ﻦﯿﯿﻌﺗ و"
 UK: "Керує спеціальною зброєю. Тренує робітників"
-SV: ""
+SV: "Styr specialvapen\nTränar arbetare"
 END
 
 // context: Appears when you mouse over the Demo Trap cameo on the GLA Worker
@@ -32635,7 +32634,7 @@ PL: "Zamaskowany ładunek wybuchowy."
 RU: "Замаскированное взрывное устройство"
 AR: "ﻲﻔﺨﻟا ﻲﺿرﻷا ﻢﻐﻠﻟا"
 UK: "Невидимий вибуховий пристрій"
-SV: ""
+SV: "Osynlig spränganordning"
 END
 
 // Patch104p @fix xezon 20/08/2023 Adds tooltip text variant for Toxin Demo Trap for all languages. Similar to CONTROLBAR:Chem_ToolTipGLABuildTerrorist. (#2256) (#2519)
@@ -32653,7 +32652,7 @@ PL: "Zamaskowany ładunek wybuchowy, eksplodujący w chmurze toksyny."
 RU: "Замаскированное взрывное устройство. При взрыве создает зону поражения с Сибирской язвой"
 AR: "ﻲﻔﺨﻟا ﻲﺿرﻷا ﻢﻐﻠﻟا"
 UK: "Невидимий вибуховий пристрій. Вибухає в хмарі токсину"
-SV: ""
+SV: "Osynliga spränganordningar exploderar i ett giftmoln"
 END
 
 // context: Appears when you mouse over the Barracks cameo on the GLA Worker
@@ -32670,7 +32669,7 @@ PL: "Szkoli żołnierzy AŚW."
 RU: "Тренирует солдат ГЛА"
 AR: "ﻲﺑﺮﻌﻟا ﺶﯿﺠﻟا دﻮﻨﺟ ﺐﻳرﺪﺗو ﺪﯿﻨﺠﺗ"
 UK: "Тренує солдат ГВА"
-SV: ""
+SV: "Tränar GBA soldater"
 END
 
 // context: Appears when you mouse over the Supply Stash cameo on the GLA Worker
@@ -32687,7 +32686,7 @@ PL: "Gromadzi zaopatrzenie."
 RU: "Собирает припасы"
 AR: "تاﺰﯿﮫﺠﺘﻟا ﻊﯿﻤﺠﺗ ةﺪﺣو"
 UK: "Збирає ресурси"
-SV: ""
+SV: "Samlar förnödenheter"
 END
 
 // context: Appears when you mouse over the Arms Dealer cameo on the GLA Worker
@@ -32704,7 +32703,7 @@ PL: "Konstruuje pojazdy."
 RU: "Производство техники"
 AR: "تﺎﺒﻛﺮﻤﻟاو تﺎﺑﺮﻌﻟا ﻊﯿﻨﺼﺗ ةﺄﺸﻨﻣ"
 UK: "Будує техніку"
-SV: ""
+SV: "Bygger fordon"
 END
 
 // context: Appears when you mouse over the Command Center cameo on the Chinese Dozer
@@ -32721,7 +32720,7 @@ PL: "Steruje uzbrojeniem specjalnym. Buduje buldożery."
 RU: "Управление специальными способностями. Производство Строительных бульдозеров. Дает возможность установить Радар"
 AR: "ءﺎﻨﺒﻟا تﺎﺑﺮﻋ ﻊﯿﻨﺼﺘﺑ مﻮﻘﻳ\nتﺄﺸﻨﻤﻟاو تﺎﯿﻗﺮﺘﻟا ةرادﺈﺑ مﻮﻘﻳو"
 UK: "Управління спеціальними здібностями. Виробництво будівельних бульдозерів. Дає можливість встановити Радар"
-SV: ""
+SV: "Styr specialvapen\nProducerar byggbulldozrar\nBygger radar"
 END
 
 // Patch104p @fix xezon 10/09/2023 Fixes wrong or inconsistent power supply strings of PL. (#2344)
@@ -32742,7 +32741,7 @@ PL: "Chińska elektrownia. Może być przeciążona w celu dostarczenia 50% wię
 RU: "Китайская электростанция. Может быть намеренно перегружена для производства +50% дополнительной энергии, пока реактор не откажет\n\nВыход энергии: 10"
 AR: "ﺔﻠﻣﺎﻜﺘﻤﻟا ﺔﻗﺎﻄﻟا ﻦﻣ % ٥٠ ـﺑ ﻚﺗﺪﻋﺎﻗ دوﺰﻳ\n\n١٠ : ةﺰھﺎﺠﻟا ﺔﻗﺎﻄﻟا"
 UK: "Китайська електростанція. Можна перевантажити, щоб забезпечити +50% потужності\n\nЕнергія: 10"
-SV: ""
+SV: "Kinesiska kärnkraftverk kan överbelastas för att ge +50% extra energi men de tar också skada\n\nEnergitillförsel: 10"
 END
 
 // context: Appears when you mouse over the Barracks cameo on the Chinese Dozer
@@ -32759,7 +32758,7 @@ PL: "Szkoli żołnierzy chińskich."
 RU: "Тренировка Китайских солдат"
 AR: "ﺎﮫﺤﯿﻠﺴﺗو ةﺎﺸﻤﻟا ﺮﺻﺎﻨﻋ ﺪﯿﻨﺠﺘﺑ مﻮﻘﺗ"
 UK: "Тренує китайських солдатів"
-SV: ""
+SV: "Tränar kinesiska soldater"
 END
 
 // context: Appears when you mouse over the Supply Center cameo on the Chinese Dozer
@@ -32776,7 +32775,7 @@ PL: "Baza, do której Chińczycy dostarczają zebrane zaopatrzenie.\n\nWymagana 
 RU: "Место доставки припасов Китая\n\nПотребление энергии: 1"
 AR: "ةﺄﺸﻨﻤﻟا هﺬھ ﻲﻓ ﺔﻌﻤﺠﻤﻟا تاﺰﯿﮫﺠﺘﻟا ﻞﻳﺰﻨﺗ\n\n١ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Пункт розвантаження для збирачів ресурсів Китаю\n\nПотрібна потужність: 1"
-SV: ""
+SV: "Avlastningsplats för Kinas förnödenhetslastbilar\n\nKräver energi: 1"
 END
 
 // Patch104p @fix xezon 10/09/2023 Adds "Energiebedarf" to DE. (#2345)
@@ -32795,7 +32794,7 @@ PL: "Konstruuje chińskie pojazdy.\n\nWymagana energia: 1"
 RU: "Производство Китайской техники\n\nПотребление энергии: 1"
 AR: "ﺔﻠﺗﺎﻘﻤﻟا ﺔﯿﻨﯿﺼﻟا تﺎﺑﺮﻌﻟا ﻊﻨﺼﺑ مﻮﻘﺗ\n\n١ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Виготовляє китайську техніку\n\nПотрібна потужність: 1"
-SV: ""
+SV: "Bygger kinesiska fordon\n\nKräver energi: 1"
 END
 
 // context: Appears when you mouse over the Bunker cameo on the Chinese Dozer
@@ -32812,7 +32811,7 @@ PL: "Mieści do 5 chińskich żołnierzy."
 RU: "Может вместить 5 Китайских солдат"
 AR: "دﻮﻨﺟ ٥ ﻲﻋﺎﻓﺪﻟا ﺄﺒﺨﻤﻟا ﻢﻗﺎﻃ"
 UK: "Вміщує 5 китайських солдатів"
-SV: ""
+SV: "Rymmer 5 kinesiska soldater"
 END
 
 // context: Appears when you mouse over the Propaganda Center cameo on the Chinese Dozer
@@ -32829,7 +32828,7 @@ PL: "Opracowuje ważne chińskie technologie.\n\nWymagana energia: 2"
 RU: "Улучшение важных Китайских технологий\n\nПотребление энергии: 2"
 AR: "تﺄﺸﻨﻤﻟاو تاﺪﺣﻮﻟا ﺾﻌﺒﻟ ةﺪﻳﺪﺟ تﺎﯿﻨﻘﺗ ﻲﻄﻌﺗ\n\n٢ : ةﺰھﺎﺠﻟا ﺔﻗﺎﻄﻟا"
 UK: "Будує важливі китайські технології\n\nПотрібна енергія: 2"
-SV: ""
+SV: "Bygger viktiga kinesiska uppgraderingar\n\nKräver energi: 2"
 END
 
 // context: Appears when you mouse over the Airfield cameo on the Chinese Dozer
@@ -32846,7 +32845,7 @@ PL: "Konstruuje chińskie jednostki latające.\n\nWymagana energia: 1"
 RU: "Производство Китайской авиации\n\nПотребление энергии: 1"
 AR: "ﻲﻨﯿﺼﻟا ﻲﺑﺮﺤﻟا ناﺮﯿﻄﻟا ﻊﯿﻨﺼﺘﺑ مﻮﻘﺗ\n\n١ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Будує китайські літаки\n\nПотрібна енергія: 1"
-SV: ""
+SV: "Bygger kinesiska stridsflygplan och helikoptrar\n\nKräver energi: 1"
 END
 
 // context: Appears when you mouse over the Gattling Cannon cameo on the Chinese Dozer
@@ -32863,7 +32862,7 @@ PL: "Potężny system obrony przeciwlotniczej.\n\nWymagana energia: 3"
 RU: "Мощная противовоздушная оборона\n\nПотребление энергии: 3"
 AR: "ﺔﻳﻮﺠﻟاو ﺔﯿﺿرﻷا عﺎﻓﺪﻟا ةﺪﻋﺎﻗ\n\n٣ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Потужна протиповітряна оборона бази\n\nПотрібна енергія: 3"
-SV: ""
+SV: "Kraftfullt luftvärnsförsvar\n\nKräver energi: 3"
 END
 
 // context: Appears when you mouse over the Nuclear Missile Silo cameo on the Chinese Dozer
@@ -32880,7 +32879,7 @@ PL: "Wystrzeliwuje rakietę atomową. Umożliwia budowę ważnych chińskich mod
 RU: "Запускает Ядерную ракету. Улучшение важных Китайских технологий\n\nПотребление энергии: 10"
 AR: "ﺮﺠﻔﺘﻤﻟا يوﻮﻨﻟا خورﺎﺼﻟا ﻊﯿﻨﺼﺘﺑ مﻮﻘﺗ\n\n١٠ : ﺔﺑﻮﻠﻄﻤﻟا ﺔﻗﺎﻄﻟا"
 UK: "Запускає ядерну ракету. Робить важливі китайські оновлення\n\nПотрібна енергія: 10"
-SV: ""
+SV: "Avfyrar en atombomb\nBygger viktiga kinesiska uppgraderingar\nNedräkning: 6:00\n\nKräver energi: 10"
 END
 
 // context: Appears when you mouse over the Spearker Tower cameo on the Chinese Dozer
@@ -32897,7 +32896,7 @@ PL: "Leczy oddziały i zwiększa szybkostrzelność.\n\nWymagana energia: 1"
 RU: "Помогает отремонтировать и подлечить Ваши войска и увеличивает их скорострельность\n\nПотребление энергии: 1"
 AR: "تاﺪﺣﻮﻟا ﻊﯿﻤﺟ جﻼﻌﺑ مﻮﻘﻳ\n\n١ : ﺔﺑﻮﻠﻄﻤﻟا ةﻮﻘﻟا"
 UK: "Лікує ваші війська та збільшує швидкість стрільби\n\nПотрібна потужність: 1"
-SV: ""
+SV: "Läker dina trupper och ökar eldhastigheten\n\nKräver energi: 1"
 END
 
 // context: Appears when you mouse over the Tunnel Network cameo on the GLA Worker
@@ -32914,7 +32913,7 @@ PL: "Wejście do podziemnych korytarzy. Jednostki mogą wchodzić przez jedno we
 RU: "Защита базы и доступ к Сети подземных туннелей. Здесь войска могут войти в Сеть туннелей и выйти из нее в другой доступной точке"
 AR: "ﻲﺿرأ. ﻖﻔﻧو ﻲﺳﺎﺳأ عﺎﻓد\nﻖﻔﻨﻟا ﺔﻜﺒﺷ ﻞﺧﺪﺗ نأ ﻦﻜﻤﻳ تاﺪﺣﻮﻟا\nىﺮﺧأ ﻖﻔﻧ ﺔﻜﺒﺷ يﺄﺑ ردﺎﻐﺗو"
 UK: "Захист бази і підземний тунель. Підрозділи можуть входити в тунельну мережу та виходити з будь-якої іншої тунельної мережі"
-SV: ""
+SV: "Basförsvar och underjordisk tunnel\nTrupper kan gå in i tunnelnätverket och sedan komma ut vid valfritt annat tunnelnätverk"
 END
 
 // context: Appears when you mouse over the Palace cameo on the GLA Worker
@@ -32931,7 +32930,7 @@ PL: "Sprzedają w nim technologie przydatne AŚW. Może być obsadzony przez pie
 RU: "Улучшение важных технологий ГЛА. Может вмещать солдат, которые будут вести оборонительный огонь"
 AR: "ةدوﺪﺤﻤﻟا ﺶﯿﺠﻟا تﺎﯿﻗﺮﺗ ﺔﻋﻮﻤﺠﻣ ﻢﻀﻳ"
 UK: "Містить важливі технології ГВА. Може бути гарнізоном військ ГВА"
-SV: ""
+SV: "Innehåller viktiga GBA-teknologier och uppgraderingar\nKan besättas av GBA-trupper"
 END
 
 // context: Appears when you mouse over Black Market cameo on the GLA Worker
@@ -32948,7 +32947,7 @@ PL: "Sprzedają na nim technologie przydatne AŚW. Zapewnia AŚW darmowe zaopatr
 RU: "Улучшение важных технологий ГЛА. Приносит дополнительный доход"
 AR: "ﺔﯿﻓﺎﺿإ ﺰﯿﮫﺠﺗ داﻮﻣ ﻰﻠﻋ يﻮﺘﺤﺗ\nﻲﺑﺮﻌﻟا ﺶﯿﺠﻟا تﺎﻤﮫﻣ ﻢﻋﺪﺗ"
 UK: "Містить важливі технології ГВА. Надає гравцеві ГВА безкоштовні ресурси"
-SV: ""
+SV: "Innehåller viktiga GBA-teknologier och uppgraderingar\nGer gratis förnödenheter till GBA-spelaren"
 END
 
 // context: Appears when you mouse over the Stinger Site cameo on the GLA Worker
@@ -32965,7 +32964,7 @@ PL: "System obrony przeciwlotniczej."
 RU: "Противовоздушная и противотанковая оборона базы"
 AR: "ﺰﻛﺮﻤﺘﻣ ﻲﺳﺎﺳأ عﺎﻓد\nتاﺮﺋﺎﻄﻟاو تﺎﺑﺎﺑﺪﻠﻟ دﺎﻀﻣ"
 UK: "Протиповітряна і протитанкова оборона бази"
-SV: ""
+SV: "Basförsvar mot luft- och marktrupper"
 END
 
 // Patch104p @fix xezon 26/07/2023 Changes PL countdown string from "Opóźnienie: ..." for consistency. (#2153)
@@ -32984,7 +32983,7 @@ PL: "Wystrzeliwuje serię rakiet SCUD.\n\nCzas aktywacji: 5:00"
 RU: "Залповый пуск ракет СКАД\n\nВремя до готовности: 5:00"
 AR: "ﻒﺜﻜﻣ ﻞﻜﺸﺑ دﻮﻜﺳ ﺦﻳراﻮﺻ قﻼﻃإ\n\nةدﺪﻌﺘﻣ دﻮﻜﺳ ﺦﻳراﻮﺻ قﻼﻃإ\n\n٠٠ ٫ ٥ : ﻲﻟزﺎﻨﺘﻟا ﺪﻌﻟا ﺖﻗﺆﻣ"
 UK: "Робить залп ракетами СКАД\n\nТаймер зворотного відліку: 5:00"
-SV: ""
+SV: "Avfyrar en salva SCUD-missiler\n\nNedräkning: 5:00"
 END
 
 // Patch104p @fix xezon 20/08/2023 Adds tooltip text variant for Demo Scud Storm for all latin languages, UK. (#2254) (#2519)
@@ -33002,7 +33001,7 @@ PL: "Wystrzeliwuje serię rakiet SCUD. Wyposażony w głowice wybuchowe.\n\nCzas
 RU: "Залповый пуск ракет СКАД\n\nВремя до готовности: 5:00"
 AR: "ﻒﺜﻜﻣ ﻞﻜﺸﺑ دﻮﻜﺳ ﺦﻳراﻮﺻ قﻼﻃإ\n\nةدﺪﻌﺘﻣ دﻮﻜﺳ ﺦﻳراﻮﺻ قﻼﻃإ\n\n٠٠ ٫ ٥ : ﻲﻟزﺎﻨﺘﻟا ﺪﻌﻟا ﺖﻗﺆﻣ"
 UK: "Робить залп ракетами СКАД. Оснащений фугасними боєголовками\n\nТаймер зворотного відліку: 5:00"
-SV: ""
+SV: "Avfyrar en salva SCUD-missiler\nUtrustad med högexplosiva stridsspetsar\n\nNedräkning: 5:00"
 END
 
 // context: Appears when you mouse over the Prison cameo on the GLA Worker
@@ -33019,7 +33018,7 @@ PL: "Służy do przetrzymywania pojmanych żołnierzy wroga."
 RU: "Используется для содержания захваченных вражеских солдат"
 AR: "ﻦﻳرﻮﺳﺄﻤﻟا وﺪﻌﻟا دﻮﻨﺟ زﺎﺠﺘﺣﻹ ﻞﻤﻌﺘﺴﻳ"
 UK: "Використовувався для утримання полонених ворожих солдатів"
-SV: ""
+SV: "Används för att hålla fångade fiendesoldater"
 END
 
 // context: Appears when you mouse over the Ranger cameo on the USA Barracks
@@ -33036,7 +33035,7 @@ PL: "Silny przeciwko piechocie\nSłaby przeciwko lekkim pojazdom"
 RU: "Эффективен против пехоты\nСлаб против легкой техники"
 AR: "ةﺎﺸﻤﻟا ﺮﺻﺎﻨﻋ ﺪﺿ لﺎﻌﻓ\nﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Ефективний проти піхоти\nСлабкий проти легкої техніки"
-SV: ""
+SV: "Stark mot soldater\nSvag mot lätta fordon"
 END
 
 // context: Appears when you mouse over the Dozer cameo on the USA Command Center
@@ -33053,7 +33052,7 @@ PL: "Buduje wszystkie struktury amerykańskie. Naprawia mosty i budynki miejskie
 RU: "Строит и ремонтирует все здания США"
 AR: "ﺔﯿﻜﻳﺮﻣﻷا تﺂﺸﻨﻤﻟا ءﺎﻨﺒﺑ مﻮﻘﺗ\nﺔﻤﻄﺤﻤﻟا ﺖﺸﻨﻤﻟا حﻼﺻإو"
 UK: "Будує всі споруди США та ремонтує будівлі"
-SV: ""
+SV: "Bygger och reparerar alla Förenta Staternas byggnader"
 END
 
 // context: Appears when you mouse over the Worker cameo on the GLA Command Center
@@ -33070,7 +33069,7 @@ PL: "Buduje wszystkie struktury AŚW. Naprawia mosty i zbiera zaopatrzenie."
 RU: "Строит и ремонтирует все здания ГЛА. Собирает припасы"
 AR: "ﺎﮫﺘﻧﺎﯿﺻو تﺂﺸﻨﻤﻟا ﺔﻓﺎﻛ ءﺎﻨﺑ\nتاداﺪﻣﻹاو تاﺰﯿﮫﺠﺘﻟا ﺔﻓﺎﻛ ﻊﻤﺟ"
 UK: "Будує всі структури ГВА. Ремонтує будівлі та збирає припаси"
-SV: ""
+SV: "Bygger och reparerar alla GBAs byggnader\nSamlar även förnödenheter"
 END
 
 // context: Appears when you mouse over the Dozer cameo on the Chinese Command Center
@@ -33087,7 +33086,7 @@ PL: "Buduje wszystkie struktury chińskie."
 RU: "Строит и ремонтирует все Китайские здания"
 AR: "تﺄﺸﻨﻤﻟا ﺢﯿﻠﺼﺗو ﺔﯿﻨﯿﺼﻟا تﺄﺸﻨﻤﻟا ﺔﻓﺎﻛ ءﺎﺸﻧإ"
 UK: "Будує всі споруди Китаю та ремонтує будівлі"
-SV: ""
+SV: "Bygger och reparerar alla kinesiska byggnader"
 END
 
 // Patch104p @feature xezon 22/04/2023 Adds tooltip text variant for Boss Dozer. (#1863) (#2519)
@@ -33105,7 +33104,7 @@ PL: "Buduje wszystkie struktury Generał Boss."
 RU: "Строит и ремонтирует все здания Босса Генерала"
 AR: "تﺄﺸﻨﻤﻟا ﺢﯿﻠﺼﺗو ﺔﯿﻨﯿﺼﻟا تﺄﺸﻨﻤﻟا ﺔﻓﺎﻛ ءﺎﺸﻧإ"
 UK: "Будує всі споруди Боса Генерала та ремонтує будівлі"
-SV: ""
+SV: "Bygger och reparerar alla Boss byggnader"
 END
 
 // context: Appears when you mouse over the Scorpion cameo on the GLA War Factory
@@ -33122,7 +33121,7 @@ PL: "Silny przeciwko lekkim pojazdom\nSłaby przeciwko piechocie rakietowej, lot
 RU: "Эффективен против легкой техники\nСлаб против пехоты вооруженной ракетами и авиации"
 AR: "ﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا ﺪﺿ يﻮﻗ\nتاﺮﺋﺎﻄﻟاو RPG ـﻟا فذﺎﻗ دﻮﻨﺟ ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Ефективний проти легких техніки\nСлабкий проти солдатів з ракетами, літаків"
-SV: ""
+SV: "Stark mot lätta fordon\nSvag mot raketsoldater och flygplan"
 END
 
 // Patch104p @fix xezon 11/09/2023 Adds mention of strong vs infantry to US, FR, ZH, UK. (#2353) (#2519)
@@ -33141,7 +33140,7 @@ PL: "Silny przeciwko piechocie, budynkom\nSłaby przeciwko czołgom, lotnictwu"
 RU: "Эффективен против пехоты и зданий\nСлаб против танков и авиации"
 AR: "تﺎﻳﺎﻨﺒﻟا ﺪﺿ يﻮﻗ\nتاﺮﺋﺎﻄﻟاو تﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Ефективний проти піхоти, будівель\nСлабкий проти танків, авіації"
-SV: ""
+SV: "Stark mot soldater och byggnader\nSvag mot bandvagnar och flygplan"
 END
 
 // context: Appears when you mouse over the Radar Van cameo on the GLA War Factory
@@ -33158,7 +33157,7 @@ PL: "Zapewnia radar. Może lokalizować ukryte jednostki wroga."
 RU: "Обеспечивает покрытие карты Радаром. Может обнаружить замаскированные вражеские войска"
 AR: "راداﺮﻟا ﺔﯿﻨﻘﺘﺑ ةدوﺰﻣ ﺔﺑﺮﻋ\nوﺪﻌﻟا ﻖﻃﺎﻨﻣ فﺎﺸﻜﺘﺳﻹ"
 UK: "Забезпечує радар. Може виявити приховані ворожі одиниці"
-SV: ""
+SV: "Ger radar\nKan upptäcka dolda fiendetrupper"
 END
 
 // context: Appears when you mouse over the Overlord cameo on the Chinese War Factory
@@ -33175,7 +33174,7 @@ PL: "Silny przeciwko pojazdom, budynkom\nSłaby przeciwko piechocie rakietowej, 
 RU: "Эффективен против техники и зданий\nСлаб против пехоты вооруженной ракетами и авиации"
 AR: "تﺎﺸﻨﻤﻟا و تﺎﺑﺮﻌﻟا ﺪﺿ يﻮﻗ\nناﺮﯿﻄﻟا و ﺦﻳراﻮﺼﻟا فذاﻮﻗ ةﺎﺸﻣ ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Ефективний проти техніки, будівель\nСлабкий проти озброєної ракетами піхоти, авіації"
-SV: ""
+SV: "Stark mot fordon och byggnader\nSvag mot raketsoldater och flygplan"
 END
 
 // context: Appears when you mouse over the Gattling Tank cameo on the Chinese War Factory
@@ -33192,7 +33191,7 @@ PL: "Silny przeciwko piechocie, lotnictwu\nSłaby przeciwko czołgom"
 RU: "Эффективен против пехоты и авиации\nСлаб против танков"
 AR: "تاﺮﺋﺎﻄﻟا و ةﺎﺸﻤﻟا ﺪﺿ يﻮﻗ\nتﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Ефективний проти піхоти, авіації\nСлабкий проти танків"
-SV: ""
+SV: "Stark mot soldater och flygplan\nSvag mot bandvagnar"
 END
 
 // context: Appears when you mouse over the Rebel cameo on the GLA Barracks
@@ -33209,7 +33208,7 @@ PL: "Silny przeciwko piechocie\nSłaby przeciwko czołgom, lekkim pojazdom"
 RU: "Эффективен против пехоты\nСлаб против танков и легкой техники"
 AR: "ةﺎﺸﻤﻟا ﺪﺿ يﻮﻗ\nﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Ефективний проти піхоти\nСлабкий проти танків, легкої техніки"
-SV: ""
+SV: "Stark mot soldater\nSvag mot bandvagnar och lätta fordon"
 END
 
 // Patch104p @fix xezon 07/08/2023 Adds proper sentences for the Horde Bonus to DE, FR. (#2218)
@@ -33228,7 +33227,7 @@ PL: "W grupie co najmniej pięciu jednostek zyskuje premię hordy.\n\nSilny prze
 RU: "Получает Бонус Строя в группе от 5 солдат и больше\n\\Эффективен против пехоты\nСлаб против легкой техники"
 AR: "ةﺎﺸﻤﻟا ﺮﺻﺎﻨﻋ ﻊﯿﻤﺟ ﻰﻠﻋ مﻮﺠﮫﻟﺎﺑ مﻮﻘﻳ\n\nةﺎﺸﻤﻟا ﺪﺿ يﻮﻗ\nتﺎﺑﺮﻌﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Отримує бонус Орди, коли в групах по 5 і більше\n\nЕфективний проти піхоти\nСлабкий проти техніки"
-SV: ""
+SV: "Får extra bonus i grupper om 5 eller fler\n\nStark mot soldater\nSvag mot lätta fordon"
 END
 
 // context: Appears when you mouse over the Hacker cameo on the Chinese Barracks
@@ -33245,7 +33244,7 @@ PL: "Potrafi wyłączać nieprzyjacielskie budynki za pomocą wirusa komputerowe
 RU: "Может удалённо вывести из строя вражеские здания или украсть средства в сети Интернет\n\\Эффективен против зданий\nСлаб против пехоты и техники"
 AR: "تﺎﺑﺮﻌﻟاو تﺎﺸﻨﻤﻟا ﻞﯿﻄﻌﺘﺑ مﻮﻘﻳ\nلاﻮﻣﻷا ﺔﻗﺮﺴﺑ مﻮﻘﻳو تﺎﺳوﺮﯿﻔﻟا ﻖﻳﺮﻃ ﻦﻋ\n\nتﺄﺸﻨﻤﻟا ﺪﺿ يﻮﻗ\nتﺎﺑﺮﻌﻟا و ةﺎﺸﻤﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Може вивести з ладу ворожі будівлі за допомогою комп’ютерного вірусу або зламати Інтернет, щоб вкрасти гроші\n\nЕфективний проти будівель\nСлабкий проти піхоти, техніки"
-SV: ""
+SV: "Kan slå ut fiendens byggnader med ett datorvirus eller hacka sig in på internet för att stjäla pengar\n\nStark mot byggnader\nSvag mot soldater och fordon"
 END
 
 // Patch104p @fix xezon 22/08/2023 Streamlines FR, BP with CONTROLBAR:AirF_ToolTipUSABUildChinook. (#2273)
@@ -33264,7 +33263,7 @@ PL: "Helikopter transportowy. Zbiera zaopatrzenie. Współpracuje z rangerami, k
 RU: "Транспортный вертолёт. Собирает припасы. Можно использовать для десантирования рейнджеров в гражданские здания или транспортировки техники и пехоты"
 AR: ". تاﺰﯿﮫﺠﺘﻟا ﻊﻤﺟ . ﻞﻘﻧ ﺔﯿﺣوﺮﻣ\nﺔﮫﺟاﻮﻤﻟ ساﺮﺤﻟا ﺔﻄﺳاﻮﺑ ﻞﻤﻌﻟا\nتﺂﺸﻨﻤﻟا قﻮﻓ ﻢﮫﻟاﺰﻧﻹو ءاﺪﻋﻷا"
 UK: "Транспортний вертоліт. Збирає припаси. Десантує рейнджерів для штурму будівель"
-SV: ""
+SV: "Bananhelikoptern samlar förnödenheter\nTransporterar trupper\nUtövar rappelling med jägarsoldater"
 END
 
 // Patch104p @fix xezon 22/08/2023 Adds tooltip text variant for Air Force Chinook. (#2273) (#2519)
@@ -33282,7 +33281,7 @@ PL: "Helikopter transportowy. Zbiera zaopatrzenie. Współpracuje z rangerami, k
 RU: "Транспортный вертолёт. Собирает припасы. Можно использовать для десантирования рейнджеров в гражданские здания или транспортировки техники и пехоты. Оснащен Оборонительным лазером"
 AR: ". تاﺰﯿﮫﺠﺘﻟا ﻊﻤﺟ . ﻞﻘﻧ ﺔﯿﺣوﺮﻣ\nﺔﮫﺟاﻮﻤﻟ ساﺮﺤﻟا ﺔﻄﺳاﻮﺑ ﻞﻤﻌﻟا\nتﺂﺸﻨﻤﻟا قﻮﻓ ﻢﮫﻟاﺰﻧﻹو ءاﺪﻋﻷا"
 UK: "Транспортний вертоліт. Збирає припаси. Десантує рейнджерів для штурму будівель. Оснащений захисним лазером"
-SV: ""
+SV: "Bananhelikoptern samlar förnödenheter\nTransporterar trupper\nUtövar rappelling med jägarsoldater\nUtrustad med en antiraketlaser"
 END
 
 // context: Appears when you mouse over the Supply Truck cameo on the Chinese Supply Center
@@ -33299,7 +33298,7 @@ PL: "Gromadzi zaopatrzenie."
 RU: "Собирает припасы"
 AR: "ﺰﯿﮫﺠﺘﻟا ﺔﺑﺮﻋ"
 UK: "Збирає ресурси"
-SV: ""
+SV: "Samlar förnödenheter"
 END
 
 // context: Appears when you mouse over the Paladin Tank cameo on the USA War Factory
@@ -33316,7 +33315,7 @@ PL: "Niszczy rakiety i nieprzyjacielską piechotę za pomocą lasera.\n\nSilny p
 RU: "Использует лазер для уничтожения ракет и вражеской пехоты\n\\Эффективен против танков, зданий и ракетных войск\nСлаб против авиации"
 AR: "مﺪﻘﺘﻣ رﺰﯿﻟ ماﺪﺨﺘﺳﺈﺑ مﻮﻘﻳ\nةﺎﺸﻤﻟا ﺮﺻﺎﻨﻋ ﻰﻠﻋ ءﺎﻀﻘﻠﻟ\nﺔﻳدﺎﻌﻤﻟا ﺦﻳراﻮﺼﻟاو\n\n: ﺪﺿ لﺎﻌﻓ\nتﺎﺑﺎﺑﺪﻟا ،\nتﺂﺸﻨﻤﻟا ،\nﺦﻳراﻮﺼﻟا ،\nتاﺮﺋﺎﻄﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Використовує лазер для знищення ракет і піхоти ворога\n\nЕфективний проти танків, будівель і ракет\nСлабкий проти авіації"
-SV: ""
+SV: "Använder laser för att förstöra missiler och soldater\n\nStark mot bandvagnar, byggnader och raketer\nSvag mot flygplan"
 END
 
 // Patch104p @fix xezon 22/08/2023 Streamlines DE, FR, ES, KO with CONTROLBAR:ToolTipUSABuildKingRaptor. (#2273)
@@ -33335,7 +33334,7 @@ PL: "Może atakować cele naziemne i powietrzne.\n\nSilny przeciwko lotnictwu, c
 RU: "Может атаковать наземные и воздушные цели\n\\Эффективен против авиации, танков и легкой техники\nСлаб против пехоты вооруженной ракетами и противовоздушной обороной"
 AR: "ﻲﺿارﻷا ﺔﺳاﺮﺤﺑ مﻮﻘﺗ\nﺔﻳﻮﺠﻟا فاﺪھﻷا ﻒﺼﻗو\n\nتﺎﺑﺎﺑد ، تاﺮﺋﺎﻄﻟا ﺪﺿ لﺎﻌﻓ\nﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا ،\nناﺮﯿﻄﻠﻟ ةدﺎﻀﻤﻟا ﺮﺻﺎﻨﻌﻟا ﺪﺿ ﻒﯿﻌﺿ\nﺔﯿﺳﺎﺳﻷا ﺔﯿﺿرﻷا تﺎﻋﺎﻓﺪﻟاو"
 UK: "Може вражати наземні або повітряні цілі\n\nЕфективний проти літаків, танків, легкої техніки\nСлабкий проти піхоти з ракетами, протиповітряної оборони"
-SV: ""
+SV: "Kan bekämpa mål på marken eller i luften\n\nStark mot flygplan, bandvagnar och lätta fordon\nSvag mot raketsoldater och luftvärn"
 END
 
 // Patch104p @fix xezon 22/08/2023 Improves strings for FR, BP, PL to match the English wording more closely. (#2273)
@@ -33354,7 +33353,7 @@ PL: "Atak naddźwiękowy uodparnia Aurorę na ostrzał wroga. Po ataku naddźwi�
 RU: "Сверхзвуковая скорость делает Аврору неуязвимой для вражеского огня при атаке на цель. После сброса бомбы скорость Авроры падает на 50%\n\nЭффективна против зданий\nСлаб против истребителей и противовоздушной обороны"
 AR: "تﻮﺼﻟا راﺪﺟ قاﺮﺘﺧإ ﺔﯿﻨﻘﺘﺑ دوﺰﻣ\n\nتﺎﻳﺎﻨﺒﻟا ﺪﺿ لﺎﻌﻓ\n، ﻦﯿﻠﺗﺎﻘﻤﻟا ﺪﺿ ﻒﯿﻌﺿ\nيﻮﺠﻟا عﺎﻓﺪﻟا تاﺪﺣو"
 UK: "Надзвукова атака робить Аврору невразливою до ворожого вогню. Після надзвукової атаки швидкість Аврори знижується до 50%\n\nЕфективний проти будівель\nСлабкий проти винищувачів, протиповітряної оборони"
-SV: ""
+SV: "Överljudshastighetsattacken gör Aurorabombaren immun mot skada. Efter attacken minskar dess hastighet till 50%\n\nStark mot byggnader\nSvag mot raketsoldater och luftvärn"
 END
 
 // Patch104p @fix xezon 26/07/2023 Removes superfluous mention of "enemy" for US, DE, FR, ES, BP, PL, RU, UK. (#2167) (#2519)
@@ -33374,7 +33373,7 @@ PL: "Zamaskowany podczas ruchu.\n\nSilny przeciwko systemom obronnym bazy\nSłab
 RU: "Замаскирован пока не атакует\n\\Эффективен против обороны баз\nСлаб против истребителей"
 AR: "كﺮﺤﺘﻟا ﻼﺧ ﻲﻔﺨﺘﻟا\n\nﺔﯿﺳﺎﺳﻷا وﺪﻌﻟا تﺎﻋﺎﻓد ﺪﺿ لﺎﻌﻓ\nوﺪﻌﻟا ﻲﻠﺗﺎﻘﻣ ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Невидимий під час руху\n\nЕфективний проти захисту бази\nСлабкий проти винищувачів"
-SV: ""
+SV: "Osynlig vid förflyttning\n\nStark mot basförsvar\nSvag mot raketsoldater"
 END
 
 // context: Appears when you mouse over the Comanche cameo on the USA Airfield
@@ -33391,7 +33390,7 @@ PL: "Uzbrojony w rakiety i działko. Przezbraja się w powietrzu.\n\nSilny przec
 RU: "Ведет огонь ракетами и пулеметом. Перезаряжается в воздухе\n\nЭффективен против танков, легкой техники и пехоты\nСлаб против пехоты вооруженной ракетами и противовоздушной обороны"
 AR: "ﺔﻳرﺎﻧ ﻊﻓاﺪﻣو ﺦﻳراﻮﺻ\nﻮﺠﻟا ﻲﻓ ﺢﯿﻠﺴﺘﻟا ةدﺎﻋﺈﺑ مﻮﻘﺗ\n\nﺪﺿ لﺎﻌﻓ\nتﺎﺑﺎﺑﺪﻟا ،\nﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا ،\nةﺎﺸﻤﻟا ،\nﺮﺻﺎﻨﻌﻟا ﺪﺿ ﻒﯿﻌﺿ\nناﺮﯿﻄﻠﻟ ةدﺎﻀﻤﻟا\nﺔﻳﻮﺠﻟا تﺎﻋﺎﻓﺪﻟا"
 UK: "Стріляє ракетами і гарматами. Перезаряджає озброєння в повітрі\n\nЕфективний проти танків, легкої техніки, піхоти\nСлабкий проти піхоти з ракетами, протиповітряної оборони"
-SV: ""
+SV: "Avfyrar missiler och projektiler. Laddar om i luften\n\nStark mot bandvagnar, lätta fordon och soldater\nSvag mot raketsoldater, luftvärn"
 END
 
 // context: Appears when you mouse over the Missile Defender cameo on the USA Barracks
@@ -33408,7 +33407,7 @@ PL: "Prowadzi szybki ostrzał rakietami naprowadzanymi laserowo.\n\nSilny przeci
 RU: "Использует лазерное наведение для увеличения скорости ведения огня ракетами\n\nЭффективен против танков и авиации\nСлаб против пехоты"
 AR: "ﻪﺟﻮﻣ صﺎﺧ مﻮﺠھ مﺪﺨﺘﺴﻳ\nﺔﻌﻳﺮﺴﻟا ﺦﻳراﻮﺼﻟا ﻰﻟإ رﺰﯿﻠﻟﺎﺑ\n\nتاﺮﺋﺎﻄﻟا تﺎﺑﺎﺑﺪﻟا ﺪﺿ يﻮﻗ\nةﺎﺸﻤﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Використовує спеціальну атаку з лазерним наведенням\n\nЕфективний проти танків, літаків\nСлабкий проти піхоти"
-SV: ""
+SV: "Kan använda en laser för att skjuta snabbare\n\nStark mot bandvagnar och flygplan\nSvag mot soldater"
 END
 
 // context: Appears when you mouse over the Pathfinder cameo on the USA Barracks
@@ -33425,7 +33424,7 @@ PL: "Zamaskowany, gdy nie porusza się ani nie strzela. Widzi ukrytych wrogów.\
 RU: "Замаскирован, пока не движется. Обнаруживает замаскированные объекты и войска\n\nЭффективен против пехоты\nСлаб против легкой техники и разведчиков"
 AR: "ﺔﻳدﺎﻌﻤﻟا ةﺎﺸﻤﻟا تاﺪﺣو ﺺﻨﻘﺑ مﻮﻘﻳ\nلﻼﺧ ﻦﻣ ﻲﻔﺨﺘﻟﺎﺑ مﻮﻘﻳو\nﺺﻨﻘﻟا تﺎﯿﻠﻤﻋ وأ تﺎﺒﺴﻟا\n\nةﺎﺸﻤﻟا ﺪﺿ لﺎﻌﻓ\nﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا ﺪﺿ ﻒﯿﻌﺿ\nﺔﻓﺎﺸﻜﻟا تاﺪﺣﻮﻟا و"
 UK: "Закамуфльований, поки не рухається. Виявляє прихованих ворогів\n\nСильний проти піхоти\nСлабкий проти легкої техніки, розвідників"
-SV: ""
+SV: "Kamouflerad när den inte rör sig. Upptäcker dolda fiender\n\nStark mot soldater\nSvag mot lätta fordon, spanare"
 END
 
 // Patch104p @fix xezon 22/08/2023 Removes "Build Limit" sentence from all language strings. (#2271) (#2519)
@@ -33445,7 +33444,7 @@ PL: "Zamaskowany. Staje się widoczny, gdy strzela lub podkłada ładunek wybuch
 RU: "Замаскирован. Выдает себя, когда атакует или устанавливает заряд\n\nЭффективен против пехоты\nСлаб против разведчиков"
 AR: "مﺎﮫﻤﻟا عاﻮﻧأ ﺔﻓﺎﻛ ﺬﯿﻔﻨﺘﺑ مﻮﻘﻳ\nﻞﺘﻘﻟا ،\nﺮﯿﺠﻔﺘﻟا ،\nتاﺮﺠﻔﺘﻤﻟا عرز ،\n\nةﺎﺸﻤﻟا ﺪﺿ لﺎﻌﻓ\nﺔﻓﺎﺸﻜﻟا تاﺪﺣﻮﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Камуфльований. Виявляє себе, коли стріляє або закладає бомбу\n\nЕфективний проти піхоти\nСлабкий проти розвідників"
-SV: ""
+SV: "Kamouflerad. Avslöjar sig när han skjuter eller planterar en bomb\n\nStark mot soldater\nSvag mot spanare"
 END
 
 // Patch104p @fix xezon 26/07/2023 Removes superfluous mention of "enemy" for BP. (#2167)
@@ -33464,7 +33463,7 @@ PL: "Silna przeciwko systemom obronnym baz\nSłaba przeciwko czołgom, lotnictwu
 RU: "Эффективен против обороны баз\nСлаб против танков, авиации и легкой техники"
 AR: "ﺔﯿﺳﺎﺳﻷا ﺔﯿﺿرﻷا تﺎﻋﺎﻓﺪﻟا ﺪﺿ لﺎﻌﻓ\nﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا ، تاﺮﺋﺎﻄﻟا ، تﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Ефективний проти захисту бази\nСлабкий проти танків, авіації, легкої техніки"
-SV: ""
+SV: "Stark mot basförsvar\nSvag mot bandvagnar, flygplan och lätta fordon"
 END
 
 // context: Appears when you mouse over the Humvee cameo on the USA War Factory
@@ -33481,7 +33480,7 @@ PL: "Przewożona piechota może ostrzeliwać teren przez strzelnice.\n\nSilny pr
 RU: "Транспорт. Пехота, сидящая внутри, может вести огонь по врагам\n\nЭффективен против пехоты\nСлаб против танков"
 AR: "ةرﻮﻄﺘﻣ ﺔﯿﻟﺎﺘﻗ ﺔﺑﺮﻋ\nلﺎﻌﻓ ﻲﻟآ حﻼﺴﺑ ةﺰﮫﺠﻣ\n\nةﺎﺸﻤﻟا ﺪﺿ يﻮﻗ\nتﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Транспорт. Піхота всередині може використовувати бійниці для ураження ворога\n\nЕфективний проти піхоти\nСлабкий проти танків"
-SV: ""
+SV: "En transport. Soldater inuti kan använda skottgluggar för att skjuta mot fienden\n\nStark mot soldater\nSvag mot bandvagnar"
 END
 
 // context: Appears when you mouse over the Ambulance cameo on the USA War Factory
@@ -33498,7 +33497,7 @@ PL: "Leczy żołnierzy. Usuwa skażenie promieniotwórcze i toksyny."
 RU: "Ремонтирует технику и лечит солдат поблизости. Очищает местность от радиации и токсинов"
 AR: "ةﺎﺸﻤﻟا ﺮﺻﺎﻨﻋ جﻼﻌﺑ مﻮﻘﺗ\nﻦﻣ ﻒﯿﻈﻨﺘﻟاو تﺎﺑﺮﻌﻟا حﻼﺻإو\nمﻮﻤﺴﻟاو ﺔﺠھﻮﺘﻤﻟا ﺔﻌﺷﻷا"
 UK: "Ремонтує техніку та лікує солдатів. Очищає радіацію та токсини"
-SV: ""
+SV: "Läker fordon och soldater. Rensar bort radioaktivstrålning och gifter"
 END
 
 // context: Appears when you mouse over the Scout Drone cameo on all USA Ground Vehicles
@@ -33515,7 +33514,7 @@ PL: "Zwiększa zasięg widzenia i odsłania ukrytych wrogów."
 RU: "Увеличивает дальность обзора и обнаруживает замаскированных врагов"
 AR: "ﻲﺿارﻷا عﻼﻄﺘﺳﺈﺑ مﻮﻘﻳ\nوﺪﻌﻟا تﺎﻛﺮﺤﺗ ﺪﺻرو"
 UK: "Збільшує дальність огляду та розкриває прихованих ворогів"
-SV: ""
+SV: "Förlänger syn avstånd och avslöjar dolda fiender"
 END
 
 // context: Appears when you mouse over Battle Drone cameo on all USA Ground Vehicles
@@ -33532,7 +33531,7 @@ PL: "Uzbrojony w mały karabin maszynowy, naprawia swój pojazd macierzysty.\n\n
 RU: "Вооружен небольшим пулеметом и ремонтирует своего \"хозяина\"\n\nЭффективен против пехоты\nСлаб против пехоты вооруженной ракетами"
 AR: "ﺮﯿﻐﺻ شﺎﺷﺮﺑ ةدوﺰﻣ ةﺮﺋﺎﻃ\nﺔﻘﻓاﺮﻤﻟا ﺔﺑﺮﻌﻟا حﻼﺻﺈﺑ مﻮﻘﺗو\n\nةﺎﺸﻤﻟا ﺪﺿ لﺎﻌﻓ\nيﻮﺠﻟا عﺎﻓﺪﻟا تاﺪﺣو ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Стріляє з невеликого кулемета та ремонтує базову машину\n\nЕфективний проти піхоти\nСлабкий проти озброєної ракетами піхоти, протиповітряної оборони"
-SV: ""
+SV: "Skjuter med en liten kulspruta och reparerar sin partner\n\nStark mot soldater\nSvag mot raketsoldater"
 END
 
 // context: Appears when you mouse over the MIG cameo on the Chinese Airfield
@@ -33549,7 +33548,7 @@ PL: "W dużych grupach tworzy burzę ogniową.\n\nSilny przeciwko czołgom, lekk
 RU: "Группа из 4-х и более МиГов может создать огненный шторм\n\nЭффективен против танков и легкой техники\nСлаб против пехоты вооруженной ракетами и противовоздушной обороны"
 AR: "ةﺮﯿﺒﻜﻟا تﺎﻋﻮﻤﺠﻤﻟا ﻲﻓ ﺔﻳرﺎﻧ ﺔﻔﺻﺎﻋ ءﺎﺸﻧإ\n\nﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ يﻮﻗ\nيﻮﺠﻟا عﺎﻓﺪﻟاو ﻲﺟ ﻲﺑ رﻷا ﺦﻳراﻮﺻ ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Створює вогняну бурю, коли атакує великими групами\n\nСильний проти танків, легкої техніки\nСлабкий проти озброєної ракетами піхоти, протиповітряної оборони"
-SV: ""
+SV: "Kan skapar en eldstorm i en stor grupp\n\nStark mot bandvagnar och lätta fordon\nSvag mot raketsoldater och luftvärn"
 END
 
 // Patch104p @fix commy2 06/08/2022 Adds tooltip text variant for special Mig of Nuke General. (#840) (#2259) (#2519)
@@ -33567,7 +33566,7 @@ PL: "Wystrzeliwuje rakiety atomowe.\n\nSilny przeciwko czołgom, lekkim pojazdom
 RU: "Вооружен Ядерными ракетами\n\nЭффективен против танков и легкой техники\nСлаб против пехоты вооруженной ракетами и противовоздушной обороны"
 AR: "ﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ يﻮﻗ\nيﻮﺠﻟا عﺎﻓﺪﻟاو ﻲﺟ ﻲﺑ رﻷا ﺦﻳراﻮﺻ ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Стріляє ядерними ракетами\n\nСильний проти танків, легкої техніки\nСлабкий проти озброєної ракетами піхоти, протиповітряної оборони"
-SV: ""
+SV: "Avfyrar kärnkraftraketer\n\nStark mot bandvagnar och lätta fordon\nSvag mot raketsoldater och luftvärn"
 END
 
 // context: Appears when you mouse over the Black Lotus cameo on the Chinese Barracks
@@ -33584,7 +33583,7 @@ PL: "Zajmuje nieprzyjacielskie budynki, kradnie pieniądze z ośrodków zaopatrz
 RU: "Захватывает вражеские здания, крадет средства из вражеских Центров снабжения и выводит из строя вражескую технику. Замаскирована, пока не использует свои умения\n\nЭффективна против зданий и техники\nСлаба против разведчиков"
 AR: "تﺎﺑﺮﻌﻟاو لاﻮﻣﻷاو تﺄﺸﻨﻤﻟا ﻰﻠﻋ ﺮﻄﯿﺴﻳ\nلﺎﻤﻌﺘﺳﻹا ﺪﻨﻋ ءﺎﻔﺘﺧﻹا ﺔﯿﺻﺎﺧ ﻰﻠﻋ ﻆﻓﺎﺤﺗ\n\nتﺎﺑﺮﻌﻟاو تﺄﺸﻨﻤﻟا مﺎﻣأ يﻮﻗ\nﺔﻓﺎﺸﻜﻟا تاﺪﺣﻮﻟا مﺎﻣأ ﻒﯿﻌﺿ"
 UK: "Захоплює ворожі будівлі, краде готівку з ворожих центрів постачання та виводить з ладу техніку противника. Камуфльована, поки не користується здібностями\n\nЕфективна проти будівель, техніки\nСлабка проти розвідників"
-SV: ""
+SV: "Erövrar fiendens byggnader, stjäl pengar från fiendens förnödenhetscentraler och inaktiverar fiendens fordon. Kamouflerad om hon inte använder en förmåga\n\nStark mot byggnader och fordon\nSvag mot spanare"
 END
 
 // Patch104p @fix xezon 07/08/2023 Adds proper sentences for the Horde Bonus to DE, FR. (#2218)
@@ -33603,7 +33602,7 @@ PL: "Specjalny atak dynamitem.\nW grupie co najmniej pięciu jednostek zyskuje p
 RU: "Установка ТНТ заряда\nБонус строя\n\nЭффективен против танков\nСлаб против пехоты"
 AR: "ﺔﺻﺎﺨﻟا ﻲﺗ نإ ﻲﺗ تاﺮﺠﻔﺘﻤﺑ ﻢﺟﺎﮫﻳ\n\n\nتﺎﺑﺎﺑﺪﻟا ﺪﺿ يﻮﻗ\nةﺎﺸﻤﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Спеціальна атака вибухівкою\nОтримує бонус Орди, коли в групах по 5 і більше\n\nСильний проти танків\nСлабкий проти піхоти"
-SV: ""
+SV: "Har en special TNT-attack\nFår extra bonus i grupper om 5 eller fler\n\nStark mot bandvagnar\nSvag mot soldater"
 END
 
 // Patch104p @fix xezon 26/07/2023 Removes superfluous mention of "enemy" for BP. (#2167)
@@ -33622,7 +33621,7 @@ PL: "W dużych grupach tworzy burzę ogniową.\n\nSilne przeciwko systemom obron
 RU: "При ведении огня в группе может создать огненный шторм\n\nЭффективен против обороны баз и пехоты\nСлаб против танков и авиации"
 AR: "ةﺮﯿﺒﻜﻟا تﺎﻋﻮﻤﺠﻤﻟا ﻲﻓ ﺔﻳرﺎﻧ ﻒﺻاﻮﻋ ءﺎﺸﻧإ\n\nةﺎﺸﻤﻟا و ﺔﯿﺳﺎﺳﻷا تﺎﻋﺎﻓﺪﻟا ﺪﺿ يﻮﻗ\nتاﺮﺋﺎﻄﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Створює вогняну бурю, коли атакує великими групами\n\nСильна проти оборони бази, піхоти\nСлабка проти танків, авіації"
-SV: ""
+SV: "Kan skapar en eldstorm i en stor grupp\n\nStark mot basförsvar och soldater\nSvag mot bandvagnar och flygplan"
 END
 
 // context: Appears when you mouse over the Nuke Cannon cameo on the Chinese War Factory
@@ -33639,7 +33638,7 @@ PL: "Silne przeciwko budynkom, piechocie\nSłabe przeciwko czołgom, lotnictwu"
 RU: "Эффективен против зданий и пехоты\nСлаба против танков и авиации"
 AR: "ةﺎﺸﻤﻟاو تﺄﺸﻨﻤﻟا ﺪﺿ يﻮﻗ\nتاﺮﺋﺎﻄﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Сильна проти будівель, піхоти\nСлабка проти танків, авіації"
-SV: ""
+SV: "Stark mot byggnader och soldater\nSvag mot bandvagnar och flygplan"
 END
 
 // context: Appears when you mouse over the Troop Crawler cameo on the Chinese War Factory
@@ -33656,7 +33655,7 @@ PL: "Przewozi żołnierzy. Gdy powstaje, mieści ośmiu Czerwonogwardzistów. Wy
 RU: "Транспорт. Производится с 8 Красногвардейцами. Обнаруживает замаскированные юниты\n\nЭффективен против пехоты и зданий\nСлаб против танков и авиации"
 AR: "دﻮﻨﺟ ﺔﯿﻧﺎﻤﺜﻟ ﻊﺴﺘﺗو دﻮﻨﺠﻟا ﻞﻘﻨﺑ مﻮﻘﺗ\nﺔﻠﻠﺴﺘﻤﻟا تاﺪﺣﻮﻟا ﻒﺸﺘﻜﺗو\n\nتﺄﺸﻨﻤﻟا و ةﺎﺸﻤﻟا ﺪﺿ يﻮﻗ\nتاﺮﺋﺎﻄﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Транспорт. Поставляється з 8 червоногвардійцями. Виявляє приховані юніти\n\nСильний проти піхоти, будівель\nСлабкий проти танків, авіації"
-SV: ""
+SV: "En vapenlös transport. Kommer med 8 Rödgardister. Upptäcker osynliga fiender\n\nStark mot soldater och byggnader\nSvag mot bandvagnar och flygplan"
 END
 
 // context: Appears when you mouse over the Dragon Tank cameo on the Chinese War Factory
@@ -33673,7 +33672,7 @@ PL: "Może wypędzać żołnierzy z budynków za pomocą ognia. Może tworzyć �
 RU: "Может сжигать солдат внутри зданий. Может создать стену пламени\n\nЭффективен против пехоты и зданий\nСлаб против танков и авиации"
 AR: "تﺄﺸﻨﻤﻟا ﻞﺧاد دﻮﻨﺠﻟا قﺮﺤﺑ مﻮﻘﺗ\nدﺎﻀﻣ يرﺎﻧ راﺪﺟ ءﺎﺸﻧإو\n\nتﺄﺸﻨﻤﻟا و ةﺎﺸﻤﻟا ﻞﺑﺎﻘﻣ يﻮﻗ\nتاﺮﺋﺎﻄﻟا و تﺎﺑﺎﺑﺪﻟا ﻞﺑﺎﻘﻣ ﻒﯿﻌﺿ"
 UK: "Може випалювати солдатів з будівель. Може створити стіну полум'я\n\nСильний проти піхоти, будівель\nСлабкий проти танків, авіації"
-SV: ""
+SV: "Kan bränna ut soldater ur byggnader. Kan skapa en eldmur\n\nStark mot soldater och byggnader\nSvag mot bandvagnar och flygplan"
 END
 
 // Patch104p @fix xezon 20/08/2023 Changes DE from "Fahrende Bombe". (#2252)
@@ -33693,7 +33692,7 @@ PL: "Żołnierz-samobójca.\n\nSilny przeciwko czołgom, budynkom\nSłaby przeci
 RU: "Солдат самоубийца с зарядом взрывчатки\n\nЭффективен против танков и зданий\nСлаб против пехоты и легкой техники"
 AR: "ءاﺪﻋﻷا ﺪﺿ ﻪﺴﻔﻧ ﺮﯿﺠﻔﺘﺑ مﻮﻘﻳ\n\nتﺂﺸﻨﻤﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ لﺎﻌﻓ\nﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا و ةﺎﺸﻤﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Солдат-смертник\n\nЕфективний проти танків, будівель\nСлабкий проти піхоти, легкої техніки"
-SV: ""
+SV: "Kamikazesoldat\n\nStark mot bandvagnar och byggnader\nSvag mot soldater och lätta fordon"
 END
 
 // Patch104p @fix xezon 20/08/2023 Adds tooltip text variant for Demo Terrorist for all latin languages, UK. (#2252) (#2519)
@@ -33711,7 +33710,7 @@ PL: "Żołnierz-samobójca. Wyposażony w potężniejsze materiały wybuchowe.\n
 RU: "Солдат самоубийца с мощным зарядом взрывчатки\n\nЭффективен против танков и зданий\nСлаб против пехоты и легкой техники"
 AR: "ءاﺪﻋﻷا ﺪﺿ ﻪﺴﻔﻧ ﺮﯿﺠﻔﺘﺑ مﻮﻘﻳ\n\nتﺂﺸﻨﻤﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ لﺎﻌﻓ\nﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا و ةﺎﺸﻤﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Солдат-смертник. Оснащений сильнішою вибухівкою\n\nЕфективний проти танків, будівель\nСлабкий проти піхоти, легкої техніки"
-SV: ""
+SV: "Kamikazesoldat. Utrustad med starkare sprängämnen\n\nStark mot bandvagnar och byggnader\nSvag mot soldater och lätta fordon"
 END
 
 // context: Appears when you mouse over the RPG Trooper cameo on the GLA Barracks
@@ -33728,7 +33727,7 @@ PL: "Silny przeciwko czołgom\nSłaby przeciwko piechocie"
 RU: "Эффективен против танков\nСлаб против пехоты"
 AR: "تﺎﺑﺎﺑﺪﻟا ﺪﺿ يﻮﻗ\nةﺎﺸﻤﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Ефективний проти танків\nСлабкий проти піхоти"
-SV: ""
+SV: "Stark mot bandvagnar\nSvag mot soldater"
 END
 
 // context: Appears when you mouse over the Angry Mob cameo on the GLA Barracks
@@ -33745,7 +33744,7 @@ PL: "Silna przeciwko piechocie, pojazdom\nSłaba przeciwko miotaczom ognia, toks
 RU: "Эффективна против пехоты и техники\nСлаба против огня, токсинов и светошумовых гранат"
 AR: "ﺕﺎﺑﺮﻌﻟاﻭ ﺓﺎﺸﻤﻟا ﺪﺿ ﻱﻮﻗ\nﺔﺠﻫﻮﺘﻤﻟا ﻞﺑﺎﻨﻘﻟا ﻭ ﻡﻮﻤﺴﻟا ﻭ ﺐﻬﻠﻟا ﻞﺑﺎﻘﻣ ﻒﻴﻌﺿ"
 UK: "Ефективний проти піхоти, техніки\nСлабкий проти полум'я, токсинів, світлошумових гранат"
-SV: ""
+SV: "Stark mot soldater och fordon\nSvag mot eld, gifter och chockgranater"
 END
 
 // context: Appears when you mouse over the Hijacker cameo on the GLA Barracks
@@ -33762,7 +33761,7 @@ PL: "Potrafi zajmować pojazdy wroga. Zamaskowany.\n\nSilny przeciwko czołgom, 
 RU: "Может угнать любую вражескую технику. Замаскирован пока не движется\n\nЭффективен против танков и техники\nСлаб против пехоты и разведчиков"
 AR: "يأ ﻰﻠﻋ ةﺮﻄﯿﺴﻟا ﻊﯿﻄﺘﺴﻳ\nﺔﻠﺗﺎﻘﻤﻟا وﺪﻌﻟا تﺎﺒﻛﺮﻣ ﻦﻣ عﻮﻧ\n\nتﺎﺑﺮﻌﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ يﻮﻗ\nﺔﻓﺎﺸﻜﻟا تاﺪﺣﻮﻟاو ةﺎﺸﻤﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Може захопити будь-яку машину противника. Камуфльований\n\nЕфективний проти танків, техніки\nСлабкий проти піхоти, розвідників"
-SV: ""
+SV: "Kan fånga alla fiendens landfordon. Är kamouflerad\n\nStark mot bandvagnar och fordon\nSvag mot soldater och spanare"
 END
 
 // context: Appears when you mouse over the Jarmen Kell cameo on the GLA Barracks
@@ -33779,7 +33778,7 @@ PL: "Zamaskowany. Potrafi ukrywać się w budynkach cywilnych i prowadzić z nic
 RU: "Замаскирован. Может скрываться внутри зданий для стрельбы по вражеским солдатам из снайперской винтовки. Может нейтрализовать экипаж вражеской техники, сделав её доступной для захвата. Выдает себя, когда стреляет или уничтожает экипаж техники\n\nЭффективен против пехоты и техники\nСлаб против разведчиков"
 AR: "ﺺﻨﻘﻟا تﺎﯿﻠﻤﻋ ﺬﯿﻔﻨﺘﺑ مﻮﻘﻳ\nﻲﻔﺨﻣ ﻞﻜﺸﺑ ، ﻞﺘﻘﻟاو\n\nتﺎﺑﺮﻌﻟا و ةﺎﺸﻤﻟا ﺪﺿ يﻮﻗ\nﺔﻓﺎﺸﻜﻟا تاﺪﺣﻮﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Камуфльований. Може ховатися в цивільних будівлях, щоб обстрілювати ворожих солдатів. Може вбити екіпаж ворожих машин, що робить їх можливими для захоплення\n\nЕфективний проти піхоти, техніки\nСлабкий проти розвідників"
-SV: ""
+SV: "Är kamouflerad. Kan gömma sig i civila byggnader för att skjuta på fiendens soldater. Kan döda besättningen på fiendens fordon och göra dem sårbara för erövring\n\nStark mot soldater och fordon\nSvag mot spanare"
 END
 
 // Patch104p @fix xezon 22/08/2023 Adds tooltip text variant for Demo Jarmen Kell. (#2270) (#2519)
@@ -33797,7 +33796,7 @@ PL: "Zamaskowany. Potrafi ukrywać się w budynkach cywilnych i prowadzić z nic
 RU: "Замаскирован. Может прятаться внутри гражданских зданий для стрельбы по вражеским солдатам из снайперской винтовки. Может нейтрализовать водителя вражеской техники, сделав её доступной для захвата. Выдает себя, когда стреляет по пехоте, уничтожает экипаж техники и устанавливает заряд\n\nЭффективен против пехоты и техники\nСлаб против разведчиков"
 AR: "ﺺﻨﻘﻟا تﺎﯿﻠﻤﻋ ﺬﯿﻔﻨﺘﺑ مﻮﻘﻳ\nﻲﻔﺨﻣ ﻞﻜﺸﺑ ، ﻞﺘﻘﻟاو\n\nتﺎﺑﺮﻌﻟا و ةﺎﺸﻤﻟا ﺪﺿ يﻮﻗ\nﺔﻓﺎﺸﻜﻟا تاﺪﺣﻮﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Камуфльований. Може ховатися в цивільних будівлях, щоб обстрілювати ворожих солдатів. Може вбити екіпаж ворожих машин, що робить їх можливими для захоплення. Виявляє себе, коли стріляє або закладає бомбу\n\nЕфективний проти піхоти, техніки\nСлабкий проти розвідників"
-SV: ""
+SV: "Är kamouflerad. Kan gömma sig i civila byggnader för att skjuta på fiendens soldater. Kan döda besättningen på fiendens fordon och göra dem sårbara för erövring. Avslöjar sig när han skjuter eller placerar en bomb\n\nStark mot soldater och fordon\nSvag mot spanare"
 END
 
 // Patch104p @fix xezon 29/07/2023 Adds missing sentence(s) to DE. (#2165)
@@ -33816,7 +33815,7 @@ PL: "Oczyszcza budynki z żołnierzy wroga. Powoduje skażenie terenu.\n\nSilny 
 RU: "Зачищает здания от вражеских солдат. Заражает местность\n\nЭффективен против пехоты\nСлаб против танков, авиации и обороны баз"
 AR: "ﺔﺑﺮﻌﻟا هﺬھ ﺔﯿﻗﺮﺗ ﻢﺘﻳ\nﺔﻳدﺎﻌﻤﻟا تاﺪﺣﻮﻟا ﻊﻄﻗ ﺔﻄﺳاﻮﺑ\n\nةﺎﺸﻤﻟا ﺪﺿ لﺎﻌﻓ\nتاﺮﺋﺎﻃ ،تﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ\nﺔﯿﺳﺎﺳﻷا تﺎﻋﺎﻓﺪﻟا ،"
 UK: "Очищає будівлі від ворожої піхоти. Забруднює місцевість\nМожна покращувати за допомогою частин, отриманих від знищеної техніки\n\nЕфективний проти піхоти\nСлабкий проти танків, літаків, оборони бази"
-SV: ""
+SV: "Rensar byggnader från fiendens soldater. Förgiftar marken med sina spridare.\nKan uppgradera sitt vapen med delar från fiendens dödade fordon\n\nStark mot soldater\nSvag mot bandvagnar, flygplan och basförsvar"
 END
 
 // Patch104p @fix xezon 07/08/2023 Adds proper sentences for the Horde Bonus to DE, FR. (#2218)
@@ -33835,7 +33834,7 @@ PL: "W grupie co najmniej pięciu jednostek zyskuje premię hordy.\n\nSilny prze
 RU: "Бонус Строя\n\nЭффективен против танков и зданий\nСлаб против пехоты и авиации"
 AR: "ﺮﯿﺒﻛ ﻞﻜﺸﺑ تﺄﺸﻨﻤﻟاو تﺎﺑﺮﻌﻟا ﺮﻣﺪﺗ\n\nتﺄﺸﻨﻤﻟا و تﺎﺑﺎﺑﺪﻟا ﻞﺑﺎﻘﻣ يﻮﻗ\nتاﺮﺋﺎﻄﻟا و ةﺎﺸﻤﻟا ﻞﺑﺎﻘﻣ ﻒﯿﻌﺿ"
 UK: "Отримує бонус Орди, коли в групах по 5 і більше\n\nСильний проти танків, будівель\nСлабкий проти піхоти, авіації"
-SV: ""
+SV: "Får extra bonus i grupper om 5 eller fler\n\nStark mot bandvagnar och byggnader\nSvag mot soldater och flygplan"
 END
 
 // context: Appears when you mouse over the Marauder cameo on the GLA Arms Dealer
@@ -33852,7 +33851,7 @@ PL: "Może modernizować uzbrojenie dzięki częściom pozostałym po zlikwidowa
 RU: "Может улучшить свое орудие с помощью обломков уничтоженной техники\n\nЭффективен против зданий и легкой техники\nСлаб против пехоты вооруженной ракетами и авиации"
 AR: "ﺔﺗﺎﺘﻘﻤﻟا ءاﺰﺟﻷﺎﺑ حﻼﺴﻟا ﺔﯿﻗﺮﺗ ﻦﻜﻤﻳ\nوﺪﻌﻟا ﻞﺘﻗ تﺎﯿﻠﻤﻋ ﻦﻣ\n\nﺔﻔﯿﻔﺨﻟا تﺎﺑﺮﻌﻟا و تﺎﻳﺎﻨﺒﻟا ﺪﺿ يﻮﻗ\nتاﺮﺋﺎﻄﻟا و RPG ـﻟا فذﺎﻗ دﻮﻨﺟ ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Можна покращувати за допомогою частин, отриманих від знищеної техніки\n\nЕфективний проти будівель, легкої техніки\nСлабкий проти солдатів з ракетами, літаків"
-SV: ""
+SV: "Kan uppgradera sitt vapen med delar från fiendens dödade fordon\n\nStark mot byggnader och lätta fordon\nSvag mot raketsoldater coh flygplan"
 END
 
 // context: Appears when you mouse over the Technical cameo on the GLA Arms Dealer
@@ -33869,7 +33868,7 @@ PL: "Może modernizować uzbrojenie dzięki częściom pozostałym po zlikwidowa
 RU: "Может улучшить свое орудие с помощью обломков уничтоженной техники\n\nЭффективна против пехоты\nСлаба против танков и авиации"
 AR: "حﻼﺴﻟا ﺔﯿﻗﺮﺘﺑ مﻮﻘﻳ نأ ﻦﻜﻤﻳ\nﺔﺗﺎﺘﻘﻤﻟا ءاﺰﺟﻷﺎﺑ\nوﺪﻌﻟا ﻞﺘﻗ تﺎﯿﻠﻤﻋ ﻦﻣ\n\nةﺎﺸﻤﻟا ﺪﺿ لﺎﻌﻓ\nتاﺮﺋﺎﻄﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Можна покращувати за допомогою частин, отриманих від знищеної техніки\n\nЕфективний проти піхоти\nСлабкий проти танків, авіації"
-SV: ""
+SV: "Kan uppgradera sitt vapen med delar från fiendens dödade fordon\n\nStark mot soldater\nSvag mot bandvagnar och flygplan"
 END
 
 // context: Appears when you mouse over the Quad Cannon cameo on the GLA Arms Dealer
@@ -33886,7 +33885,7 @@ PL: "Może modernizować uzbrojenie dzięki częściom pozostałym po zlikwidowa
 RU: "Может улучшить свое орудие с помощью обломков уничтоженной техники\n\nЭффективна против пехоты и авиации\nСлаба против танков"
 AR: "ﺪﺿ ﺰﮫﺠﻣ لﻮﻤﺤﻣ ﻊﻓﺪﻣ\nﺔﻠﻤﺘﺤﻤﻟا تﺎﻤﺠﮫﻟا ﻞﻛ\n\nتاﺮﺋﺎﻄﻟا و ةﺎﺸﻤﻟا ﺪﺿ يﻮﻗ\nتﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Можна покращувати за допомогою частин, отриманих від знищеної техніки\n\nЕфективний проти піхоти, авіації\nСлабкий проти танків"
-SV: ""
+SV: "Kan uppgradera sitt vapen med delar från fiendens dödade fordon\n\nStark mot soldater och flygplan\nSvag mot bandvagnar"
 END
 
 // context: Appears when you mouse over the Bomb Truck cameo on the GLA Arms Dealer
@@ -33903,7 +33902,7 @@ PL: "Może maskować się, przyjmując wygląd dowolnego pojazdu własnego lub p
 RU: "Может замаскироваться под любую дружескую или вражескую технику\n\nЭффективен против пехоты и зданий\nСлаб против разведчиков"
 AR: "ﻖﻳﺪﺻ وأ وﺪﻋ يﺄﻛ رﻮﮫﻈﻠﻟ ﺮﻜﻨﺘﻟا ﻦﻜﻤﻳ\n\nتﺄﺸﻨﻤﻟاو ةﺎﺸﻤﻟا ﺪﺿ يﻮﻗ\nﺔﻓﺎﺸﻜﻟا تاﺪﺣﻮﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Може маскуватися, щоб виглядати як будь-який транспортний засіб\n\nЕфективний проти піхоти, будівель\nСлабкий проти розвідників"
-SV: ""
+SV: "Kan maskera sig som vilket fordon som helst, vän eller fiende\n\nStark mot soldater och byggnader\nSvag mot spanare"
 END
 
 // Patch104p @fix xezon 20/08/2023 Replaces "une charge explosive" with "une ogive explosive" in FR. (#2249)
@@ -33923,7 +33922,7 @@ PL: "Może być uzbrojona w głowice wybuchowe lub z głowica wąglikowe.\n\nSil
 RU: "Ракета может нести как взрывчатую, так и химическую боеголовку\n\nЭффективна против зданий и пехоты\nСлаба против танков и авиации"
 AR: "ﺰﮫﺠﻣ نﻮﻜﻳ نأ ﻦﻜﻤﻳ\nيﻮﯿﺣ وأ ﺮﺠﻔﺘﻣ ﻲﺑﺮﺣ سأﺮﺑ\n\nةﺎﺸﻤﻟا و تﺂﺸﻨﻤﻟا ﺪﺿ يﻮﻗ\nتاﺮﺋﺎﻄﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Може бути оснащений як вибуховою, так і біологічною боєголовкою\n\nЕфективний проти будівель, піхоти\nСлабкий проти танків, авіації"
-SV: ""
+SV: "Kan utrustas med antingen en explosiv eller mjältbrand stridsspets\n\nStark mot byggnader och soldater\nSvag mot bandvagnar och flygplan"
 END
 
 // Patch104p @fix xezon 20/08/2023 Adds tooltip text variant for Demo Scud Launcher for all latin languages, UK. (#2249) (#2519)
@@ -33941,7 +33940,7 @@ PL: "Jest uzbrojony w głowicę wybuchowa.\n\nSilna przeciwko budynkom, piechoci
 RU: "Ракета имеет мощную взрывчатую боеголовку\n\nЭффективна против зданий и пехоты\nСлаба против танков и авиации"
 AR: "ﺰﮫﺠﻣ نﻮﻜﻳ نأ ﻦﻜﻤﻳ\nيﻮﯿﺣ وأ ﺮﺠﻔﺘﻣ ﻲﺑﺮﺣ سأﺮﺑ\n\nةﺎﺸﻤﻟا و تﺂﺸﻨﻤﻟا ﺪﺿ يﻮﻗ\nتاﺮﺋﺎﻄﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Оснащений вибуховою боєголовкою\n\nЕфективний проти будівель, піхоти\nСлабкий проти танків, авіації"
-SV: ""
+SV: "Utrustad med en explosiv stridsspets\n\nStark mot byggnader och soldater\nSvag mot bandvagnar och flygplan"
 END
 
 // Patch104p @fix xezon 20/08/2023 Adds tooltip text variant for Toxin Scud Launcher for all latin languages, UK. (#2249) (#2519)
@@ -33959,7 +33958,7 @@ PL: "Jest uzbrojony w głowicę wąglikowa.\n\nSilna przeciwko budynkom, piechoc
 RU: "Ракета имеет химическую боеголовку\n\nЭффективна против зданий и пехоты\nСлаба против танков и авиации"
 AR: "ﺰﮫﺠﻣ نﻮﻜﻳ نأ ﻦﻜﻤﻳ\nيﻮﯿﺣ وأ ﺮﺠﻔﺘﻣ ﻲﺑﺮﺣ سأﺮﺑ\n\nةﺎﺸﻤﻟا و تﺂﺸﻨﻤﻟا ﺪﺿ يﻮﻗ\nتاﺮﺋﺎﻄﻟا و تﺎﺑﺎﺑﺪﻟا ﺪﺿ ﻒﯿﻌﺿ"
 UK: "Оснащений біологічною боєголовкою\n\nЕфективний проти будівель, піхоти\nСлабкий проти танків, авіації"
-SV: ""
+SV: "Utrustad med en mjältbrand stridsspets\n\nStark mot byggnader och soldater\nSvag mot bandvagnar och flygplan"
 END
 
 // context: Appears when you mouse over the Crusader Tank cameo on the USA War Factory
@@ -33976,7 +33975,7 @@ PL: "Silny przeciwko pojazdom, budynkom\nSłaby przeciwko piechocie rakietowej, 
 RU: "Эффективен против техники и зданий\nСлаб против пехоты вооруженной ракетами и авиации"
 AR: "تﺂﺸﻨﻤﻟا تﺎﺑﺮﻌﻟا ﺪﺿ يﻮﻗ\nتاﺮﺋﺎﻄﻟا ﺪﺿ ﻒﯿﻌﺿ\nناﺮﯿﻄﻠﻟ ةدﺎﻀﻤﻟا ﺮﺻﺎﻨﻌﻟا"
 UK: "Ефективний проти техніки, будівель\nСлабкий проти авіації, озброєної ракетами піхоти"
-SV: ""
+SV: "Stark mot bandvagnar och byggnader\nSvag mot raketsoldater och flygplan"
 END
 
 // context: Appears when you mouse over the Paladin cameo on the USA General Points Command Bar
@@ -33993,7 +33992,7 @@ PL: "Czołg Paladyn może zestrzeliwać nieprzyjacielskie rakiety za pomocą sko
 RU: "Паладин может уничтожать вражеские ракеты с помощью усовершенствованной оборонительной лазерной системы\n\nПроизводство на: Военной фабрике"
 AR: "نأ ﻦﻜﻤﻳ ﺔﻳرﺰﯿﻠﻟا تﺎﺑﺎﺑﺪﻟا\nوﺪﻌﻟا ﻒﺋاﺬﻗ ﻂﻘﺴﺗ\nمﺪﻘﺘﻣ ﻲﻋﺎﻓد رﺰﯿﻟ مﺎﻈﻨﺑ\n\nﻲﺑﺮﺤﻟا ﻊﻨﺼﻤﻟا ﻲﻓ: ءﺎﻨﺑ"
 UK: "Паладини можуть збивати ворожі ракети за допомогою вдосконаленої захисної лазерної системи\n\nСтворюється на: Військовий завод"
-SV: ""
+SV: "Paladins kan skjuta ner fiendens raketer med en avancerad antiraketlaser\n\nByggs i Krigsfabriken"
 END
 
 // context: Appears when you mouse over the Pathfinder cameo on the USA General Points Command Bar
@@ -34010,7 +34009,7 @@ PL: "Tropiciele to elitarni zamaskowani snajperzy.\n\nMiejsce powstawania: kosza
 RU: "Следопыты это элитные замаскированные снайперы\n\nПроизводство в: Казарме"
 AR: "ةﺎﺸﻤﻟا تاﺪﺣو ﻞﺘﻘﺑ مﻮﻘﻳ\nﺔﻳدﺎﻌﻤﻟا شﻮﯿﺠﻟا ﻲﻓ\n\nتﺎﻨﻜﺜﻟا : ﻲﻓ ءﺎﻨﺑ"
 UK: "Слідопити — це елітні закамуфльовані снайпери\n\nСтворюється в: Казарми"
-SV: ""
+SV: "Krypskyttar är kamouflerade elitjägaresoldater\n\nByggs i Kasernen"
 END
 
 // context: Appears when you mouse over the Stealth Fighter cameo on the USA General Points Command Bar
@@ -34027,7 +34026,7 @@ PL: "Niewykrywalne bombowce są niewrażliwe na ostrzał przeciwnika przez kilka
 RU: "Замаскирован пока не атакует\n\nПроизводство на: Аэродроме"
 AR: "كﺮﺤﺘﻟا ﺪﻨﻋ ﻲﻔﺨﺘﻟا\n\nرﺎﻄﻤﻟا : ﻲﻓ ءﺎﻨﺑ"
 UK: "Невидимий під час руху\n\nСтворюється на: Аеродром"
-SV: ""
+SV: "Kamouflerad\n\nByggs i Flygfältet"
 END
 
 // context: Appears when you mouse over the Spy Drone cameo on the USA General Points Command Bar
@@ -34044,7 +34043,7 @@ PL: "Roboty szpiegowskie są niewidzialnego dla wzroku i radarów wroga. Lokaliz
 RU: "Беспилотные аппараты шпионы маскируются, чтобы радар и войска противника их не обнаружили и ведут наблюдение за вражескими позициями\n\nУправление из: Командного центра"
 AR: "وﺪﻌﻟا تﺎﻛﺮﺤﺗ ﺪﺻﺮﻟ ﻲﻔﺨﺘﻟﺎﺑ ﺔﺳاﺮﺤﻟا تاﺮﺋﺎﻃ مﻮﻘﺗ\n\nةدﺎﯿﻘﻟا ﺰﻛﺮﻣ : ىﺪﻟ ﻊﺑﺎﺗ"
 UK: "Безпілотники-шпигуни приховані від ворога і виявляють ворожі позиції\n\nВикликається з: Командний Центр"
-SV: ""
+SV: "Spiondrönare är kamouflerade och avslöjar fiendens positioner\n\nAktiveras från Kommandocentralen"
 END
 
 // Patch104p @tweak xezon 21/06/2023 Updates US, DE, FR, ES, IT, BP, PL, RU to match new payload. (#2026) (#2519)
@@ -34063,7 +34062,7 @@ PL: "Spadochroniarze będą spadać z nieba.\n\nRanga 1: 3 rangerów + 2 piechot
 RU: "Воздушный десант Рейнджеров\n\nУровень 1: 3 Рейнджера + 2 Ракетных защитника\nУровень 2: 6 Рейнджеров + 4 Ракетных защитников\nУровень 3: 12 Рейнджеров + 8 Ракетных защитников\n\nУправление из: Командного центра"
 AR: "ةﺮﺋﺎﻄﻟا ﻦﻣ ساﺮﺤﻟا لاﺰﻧإ\n\nساﺮﺣ ٥ : ١ ﺔﺒﺗر\nساﺮﺣ ١٠ : ٢ ﺔﺒﺗر\nسرﺎﺣ ٢٠ : ٣ ﺔﺒﺗر\n\nةدﺎﯿﻘﻟا ﺰﻛﺮﻣ : ىﺪﻟ ﻊﺑﺎﺗ"
 UK: "Десант піхоти з літака\n\nРанг 1: 3 рейнджерів + 2 ракетних захисника\nРанг 2: 6 рейнджерів + 4 ракетних захисника\nРанг 3: 12 рейнджерів + 8 ракетних захисників\n\nВикликається з: Командний Центр"
-SV: ""
+SV: "Släpp trupper från luften\n\nRang 1: 3 jägarsoldater + 2 raketsoldater\nRang 2: 6 jägarsoldater + 4 raketsoldater\nRang 3: 12 jägarsoldater + 8 raketsoldater\n\nAktiveras från Kommandocentralen"
 END
 
 // context: Appears when you mouse over the A10 Thunderstrike cameo on the USA General Points Command Bar
@@ -34080,7 +34079,7 @@ PL: "Samoloty A10 Thunderbolt niszczą budynki, pojazdy i piechotę.\n\nRanga 1:
 RU: "Штурмовики A10 Тандерболт наносят серьезный урон зданиям, технике и пехоте\n\nУровень 1: 1 Штурмовик A10 Тандерболт\nУровень 2: 2 Штурмовика A10 Тандерболт\nУровень 3: 3 Штурмовика A10 Тандерболт\n\nУправление из: Командного центра"
 AR: "A10 ﻲﺧورﺎﺼﻟا مﻮﺠﮫﻟا\n\nA10 تﻼﺗﺎﻘﻣ ١ : ١ ﺔﺒﺗر\nA10 تﻼﺗﺎﻘﻣ ٢ : ٢ ﺔﺒﺗر\nA10 تﻼﺗﺎﻘﻣ ٣ : ٣ ﺔﺒﺗر\n\nةدﺎﯿﻘﻟا ﺰﻛﺮﻣ : ىﺪﻟ ﻊﺑﺎﺗ"
 UK: "Штурмовики А10 руйнують будівлі, техніку та піхоту\n\nРанг 1: 1 Штурмовик А10\nРанг 2: 2 Штурмовики А10\nРанг 3: 3 Штурмовики А10\n\nВикликається з: Командний Центр"
-SV: ""
+SV: "A10 Thunderbolt-flygplan förstör byggnader, fordon och soldater\n\nRang 1: 1 A10 Thunderbolt\nRang 2: 2 A10 Thunderbolt\nRang 3: 3 A10 Thunderbolt\n\nAktiveras från Kommandocentralen"
 END
 
 // context: Appears when you mouse over the Daisy Cutter cameo on the USA General Points Command Bar
@@ -34097,7 +34096,7 @@ PL: "Bomby zapalające niszczą budynki i ugrupowania nieprzyjaciela.\n\nMiejsce
 RU: "Топливные бомбы эффективны против зданий и скоплений вражеских сил\n\nУправление из: Командного центра"
 AR: "تﺂﺸﻨﻤﻟا ﺮﯿﻣﺪﺘﺑ ﺔﻳﻮﺠﻟا دﻮﻗﻮﻟا ﻞﺑﺎﻨﻗ مﻮﻘﺗ\nﺔﻤﺨﻀﻟاو ةﺪﺸﺤﺘﻤﻟا وﺪﻌﻟا تاﻮﻗو\n\nةدﺎﯿﻘﻟا ﺰﻛﺮﻣ : ىﺪﻟ ﻊﺑﺎﺗ"
 UK: "Вакуумна бомба знищує будівлі та скупчення ворожих військ\n\nВикликається з: Командний Центр"
-SV: ""
+SV: "Bensinbomb förstör byggnader och grupper med fientliga trupper\n\nAktiveras från Kommandocentralen"
 END
 
 // Patch104p @bugfix commy2 29/07/2023 Remove hard-coded requirement text. (#2166)
@@ -34116,7 +34115,7 @@ PL: "Działo atomowe przerzuca taktyczne bomby jądrowe na duże odległości.\n
 RU: "Самоходные Ядерные орудия выстреливают небольшими тактическими ядерными снарядами на дальнии дистанции\n\nПроизводство на: Военной фабрике"
 AR: "ﺔﻤﯿﻈﻋ تﺎﻓﺎﺴﻤﻟ ﻲﻜﯿﺘﻜﺗ ﻲﻨﺤﻨﻣ ﺮﯿﻐﺻ ﻒﺼﻗ\n\nﻲﺑﺮﺤﻟا ﻊﻨﺼﻤﻟا : ﻲﻓ ﻊﻨﺼﻟا"
 UK: "Ядерні гармати б'ють невеликими тактичними ядерними снарядами на великі відстані\n\nБудується на: Військовий завод\nПотрібує: Центр пропаганди"
-SV: ""
+SV: "Kärnvapenkanoner skjuter små taktiska kärnvapen över långa avstånd\n\nByggs i Krigsfabriken"
 END
 
 // context: Appears when you mouse over the Red Guard Training cameo on the Chinese General Points Command Bar
@@ -34133,7 +34132,7 @@ PL: "Wszyscy werbowani Czerwonogwardziści będą weteranami."
 RU: "Все Красногвардейцы создаются как ветераны"
 AR: "ﺔﺒﺨﻨﻛ ﻊﺿﻮﺘﺳ ﺮﻤﺣﻷا سرﺎﺤﻟا ﺮﺻﺎﻨﻋ ﻊﯿﻤﺟ"
 UK: "Всі Червоногвардійці будуть створені як ветерани"
-SV: ""
+SV: "Alla Rödgardister tränas som veteraner"
 END
 
 // context: Appears when you mouse over the Cluster Mines cameo on the Chinese General Points Command Bar
@@ -34150,7 +34149,7 @@ PL: "Zrzut min kasetowych z powietrza.\n\nMiejsce startu: sztab"
 RU: "Сброс Кассетных мин с воздуха\n\nУправление из: Командного центра"
 AR: "ةﺮﺋﺎﻄﻟا ﺔﻄﺳاﻮﺑ ﺔﻳدﻮﻘﻨﻌﻟا ﻞﺑﺎﻨﻘﻟا لاﺰﻧإ\n\nةدﺎﯿﻘﻟا ﺰﻛﺮﻣ : ىﺪﻟ ﻊﺑﺎﺗ"
 UK: "Касетні міни скидаються з літака\n\nВикликається з: Командний Центр"
-SV: ""
+SV: "Klusterminer släpps från luften\n\nAktiveras från Kommandocentralen"
 END
 
 // context: Appears when you mouse over the Artillery Training cameo on the Chinese General Points Command Bar
@@ -34167,7 +34166,7 @@ PL: "Działa atomowe i piekielne będą budowane jako weterani."
 RU: "Самоходные Ядерные орудия и Самоходные орудия Инферно производятся как ветераны"
 AR: "ﺔﺒﺨﻨﻟﺎﻛ ﺔﯿﻨﺒﻣ ﺔﯿﻤﯿﺤﺠﻟا ﻊﻓاﺪﻤﻟاو ﺔﻳوﻮﻨﻟا ﻊﻓاﺪﻤﻟا"
 UK: "Ядерні гармати та гармати Інферно будуються як ветерани"
-SV: ""
+SV: "Kärnvapenkanoner och Infernokanoner byggs som veteraner"
 END
 
 // context: Appears when you mouse over the Artillery Barrage cameo on the Chinese General Points Command Bar
@@ -34184,7 +34183,7 @@ PL: "Wzywa wsparcie artyleryjskie spoza mapy.\n\nRanga 1: 3 pociski\nRanga 2: 6 
 RU: "Вызов огня дальнобойной Артиллерии для нанесения удара по выбранной цели\n\nУровень 1: 12 снарядов\nУровень 2: 24 снаряда\nУровень 3: 36 снарядов\n\nУправление из: Командного центра"
 AR: "ءاﺪﻋﻹا ﻒﺼﻘﻟ ﺔﯿﺟرﺎﺨﻟا ﺔﯿﻌﻓﺪﻤﻟﺎﺑ ﻞﺼﺗإ\n\nﺔﻔﻳﺬﻗ ١٢ : ١ ﺔﺒﺗر\nﺔﻔﻳﺬﻗ ٢٤ : ٢ ﺔﺒﺗر\nﺔﻔﻳﺬﻗ ٣٦ : ٣ ﺔﺒﺗر\n\nةدﺎﯿﻘﻟا ﺰﻛﺮﻣ : ىﺪﻟ ﻊﺑﺎﺗ"
 UK: "Викличте артилерію з-поза меж мапи, щоб вразити область\n\nРанг 1: 12 снарядів\nРанг 2: 24 снаряди\nРанг 3: 36 снарядів\n\nВикликається з: Командний Центр"
-SV: ""
+SV: "Kalla in artilleri från utanför kartan för att slå till mot målet\n\nRang 1: 12 projektiler\nRang 2: 24 projektiler\nRang 3: 36 projektiler\n\nAktiveras från Kommandocentralen"
 END
 
 // context: Appears when you mouse over the EMP Pulse cameo on the Chinese General Points Command Bar
@@ -71520,7 +71519,7 @@ PL: "*So much for American"
 RU: "*So much for American"
 AR: "*So much for American"
 UK: "*So much for American"
-SV: ""
+SV: "*So much for American"
 US: superiorite
 DE: superioritg
 FR: superioritf
@@ -108346,7 +108345,8 @@ UK: "Міліція"
 SV: ""
 END
 
-// Polypheides: added 1.05 custom mission menu
+// Patch104p @fix Polypheides 26/03/2025 added missing 1.05 custom mission menu.
+
 GUI:CustomMission
 US: "CUSTOM MISSION"
 DE: "BENUTZERDEFINIERTE MISSION"
