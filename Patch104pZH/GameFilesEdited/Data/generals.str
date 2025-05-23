@@ -32280,7 +32280,7 @@ END
 CONTROLBAR:Demo_ToolTipGLAScienceRebelAmbush
 US: "Creates a surprise ambush of Rebels anywhere\n\nRank 1: 4 Rebels\nRank 2: 6 Rebels\nRank 3: 10 Rebels\n\nDeploy from: Command Center"
 DE: "Bereiten Sie einen Hinterhalt vor.\n\nStufe 1: 4 Cyborgs\nStufe 2: 6 Cyborgs\nStufe 3: 10 Cyborgs\n\nProduktionsstätte: Kommandozentrale"
-FR: "Tend une embuscade aux Rebelles à n'importe quel endroit.\n\nGrade 1: 4 Rebelles\nGrade 2: 6 Rebelles\nGrade 3: 10 Rebelles\n\nDéployée depuis: Poste de commandement."
+FR: "Tend une embuscade aux Rebelles à n'importe quel endroit.\n\nGrade 1 : 4 Rebelles\nGrade 2 : 6 Rebelles\nGrade 3 : 10 Rebelles\n\nDéployée depuis : Poste de commandement."
 ES: "Te permite crear una emboscada sorpresa de rebeldes en cualquier parte.\n\nRango 1: 4 rebeldes\nRango 2: 6 rebeldes\nRango 3: 10 rebeldes\n\nDespliegue desde: Centro de mando"
 IT: "Consente di tendere un'imboscata con dei ribelli, in qualsiasi luogo.\n\nGrado 1: 4 ribelli\nGrado 2: 6 ribelli\nGrado 3: 10 ribelli\n\nLanciata da: Centro comando"
 KO: "반군 기습 부대를 배치합니다.\n\n등급 1: 반군 4명\n등급 2: 반군 6명\n등급 3: 반군 10명\n\n명령 위치: 커맨드 센터"
