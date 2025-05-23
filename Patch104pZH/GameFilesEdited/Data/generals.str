@@ -57406,7 +57406,7 @@ BP: "O General Malcolm \"Ás\" Granger prefere utilizar o máximo do poder aére
 PL: "Generał Malcolm \"As\" Granger zwykł stosować maksymalną dostępną ilość lotnictwa."
 RU: "Генерал Малькольм \"Воздушный ас\" Грейнджер эффективно использует доступную ему авиацию для уничтожения своих врагов"
 AR: "General Malcolm \"Ace\" Granger prefers to utilize the maximum airpower available to defeat his enemies"
-UK: "Генерал Малькольм "Ас" Грейнджер вважає за краще використовувати максимум повітряних сил що є, щоб перемогти своїх ворогів"
+UK: "Генерал Малькольм \"Ас\" Грейнджер вважає за краще використовувати максимум повітряних сил що є, щоб перемогти своїх ворогів"
 END
 
 // Patch104p @fix commy2 06/08/2022 Fixes misspelled "Grainger" in DE, ES.
@@ -98804,7 +98804,7 @@ KO: "MOAB\n전자전 장비 m 벙커 버스터\n헬파이어 드론\n스펙터 �
 ZH: "炸彈之母\n反制裝置\n碉堡殺手\n地獄火蜂型機\n鬼魅炮艇機\n哨兵蜂型機\n微波坦克\n復仇者支援車\n防火基地"
 BP: "MTB\nContramedidas\nMíssil Destruidor de Bunker\nDrone Hellfire\nAvião de Artilharia Spectre\nDrone Sentinela\nTanque de Microondas\nVingador\nBase de Foguetes"
 PL: "Bomba nad Bombami\nPrzeciwśrodki\nNiszczyciel bunkrów\nRobot rakietowy\nSzturmowiec Widmo\nRobot strażniczy\nCzołg Mikrofalowy\nMściciel\nBaza ogniowa"
-RU: "MOAB\nКонтрмеры\nПротивобункерные ракеты\nРакетный беспилотный аппарат "Хэлфайр"\nБоевой самолет Спектр\nЗащитный беспилотный аппарат\nМикроволновый танк\nМститель\nОборонительная платформа"
+RU: "MOAB\nКонтрмеры\nПротивобункерные ракеты\nРакетный беспилотный аппарат \"Хэлфайр\"\nБоевой самолет Спектр\nЗащитный беспилотный аппарат\nМикроволновый танк\nМститель\nОборонительная платформа"
 AR: "تادﺎﻀﻤﻟا\nﺔﯿﻋﺎﻓﺪﻟا ﺊﺑﺎﺨﻤﻟا ﺮﻣﺪﻣ\nرﺎﯿﻃ نوﺪﺑ ﻒﺼﻗ ةﺮﺋﺎﻃ\nﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﯿﺣوﺮﻣ\nرﺎﯿﻃ نوﺪﺑ ﺔﺳاﺮﺣ ةﺮﺋﺎﻃ\nﻒﻳوﺮﻜﻳﺎﻣ ﺔﺑﺎﺑد\nﻢﻘﺘﻨﻤﻟا\nرﺎﻧ قﻼﻃإ ةﺪﻋﺎﻗ"
 UK: "МВБ\nТеплові пастки\nВбивці бункерів\nДрон Хелфайр\nШтурмовик Спектр\nВартовий дрон\nМікрохвильовий танк\nМесник\nВогнева база"
 END
