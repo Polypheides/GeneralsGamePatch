@@ -99256,18 +99256,18 @@ UK: "Побудувати гармату Гатлінга на цьому Імп
 END
 
 OBJECT:Tank_Overlord
-US: "Emperor"
-DE: "Emperor"
-FR: "Despote"
-ES: "Emperor"
+US: "Emperor Overlord"
+DE: "Emperor Overlord"
+FR: "Char Despote"
+ES: "Emperor Overlord"
 IT: "Emperor"
-KO: "엠퍼러"
+KO: "엠퍼러 오버로드"
 ZH: "帝王坦克"
-BP: "Emperor"
+BP: "Overlord Emperor"
 PL: "Cesarz"
-RU: "Император"
+RU: "Император-Владыка"
 AR: "ﺔﻳرﻮﻃاﺮﺒﻣﻹا ﺔﺑﺎﺑﺪﻟا"
-UK: "Імператор"
+UK: "Імператор-Повелитель"
 END
 
 GUI:USAAllies
