@@ -4387,7 +4387,7 @@ PL: "Command & Conquer (TM)"
 RU: "Command & Conquer (TM)"
 AR: "Command & Conquer (TM)"
 UK: "Command & Conquer (TM)"
-SV: ""
+SV: "Command & Conquer (TM)"
 END
 
 // context: The game name, to be used after Command & Conquer
@@ -38829,7 +38829,7 @@ PL: "Wchodzisz na kanał: %ls."
 RU: "Вы присоединились к %ls"
 AR: "You have joined %ls"
 UK: "Ви приєдналися до %ls"
-SV: "You have joined %ls"
+SV: "Du har gått med %ls"
 END
 
 GUI:GSNoLoginInfoAll
@@ -39060,7 +39060,7 @@ PL: "\nRegion: %ls\nPing: %d ms\n%d zwycięstw/%d porażek\n%d rozłączeń\nUlu
 RU: "\nРегион: %ls\nЗадержка: %d мс\n%d побед/%d поражений\n%d отсоединений\nПредпочитаемая армия: %ls"
 AR: "\nRegion: %ls\nPing: %d ms\n%d wins/%d losses\n%d disconnects\nFavorite army: %ls"
 UK: "\nРегіон: %l\nПінг: %d мс\n%d перемог/%d поразок\n%d від’єднується\nУлюблена армія: %ls"
-SV: "\nRegion: %ls\nPing: %d ms\n%d wins/%d losses\n%d disconnects\nFavorite army: %ls"
+SV: "\nRegion: %ls\nPing: %d ms\n%d vinster/%d förluster\n%d frånkopplingar\nFavorit armé: %ls"
 END
 
 // context: Supply centers can't be too close to supply sources
@@ -39358,7 +39358,7 @@ PL: "Wielkie rzeki"
 RU: "Горная лисица"
 AR: "ﺲﻛﻮﻓ ﻞﺒﺠﻟا"
 UK: "Гірська лисиця"
-SV: "Mountain Fox"
+SV: "Bergs Räv"
 END
 
 // Mission Text
@@ -39649,7 +39649,7 @@ PL: "Command & Conquer Generals\nComing February 2003"
 RU: "Command & Conquer Генералы\nРелиз в феврале 2003"
 AR: "Command & Conquer Generals\nComing February 2003"
 UK: "Command & Conquer Generals\nComing February 2003"
-SV: "Command & Conquer Generals\nComing February 2003"
+SV: "Command & Conquer Generals\nKommer Februari 2003"
 END
 
 MAP:USA06ObjHint2
@@ -39751,7 +39751,7 @@ PL: "OSTRZEŻENIE:\nNadciąga amerykańskie lotnictwo.\nWybuduj wyrzutnie Stinge
 RU: "ВНИМАНИЕ:\nАмериканские воздушные силы на подлете\nПостройте Гнезда стингеров чтобы защитить базу"
 AR: "WARNING:\nAmerican air forces inbound\nBuild Stinger Sites to defend your base"
 UK: "УВАГА:\nАмериканські повітряні сили на підході\nПідготуйте позиції Стінгер, щоб захистити свою базу"
-SV: "WARNING:\nAmerican air forces inbound\nBuild Stinger Sites to defend your base"
+SV: "VARNING:\nAmerikanskt flygvapen på väg\nBygg stingerfästen för att försvara din bas"
 END
 
 // context: Directives for GLA mission
@@ -39768,7 +39768,7 @@ PL: "Cel dodatkowy: m Zniszczyć chiński posterunek szpiegowski."
 RU: "Вторичная цель:\nУничтожить Китайский разведывательный аванпост"
 AR: "Secondary Objective:\nDestroy the Chinese spy outpost"
 UK: "Додаткова мета:\nЗнищити китайський шпигунський форпост"
-SV: "Secondary Objective:\nDestroy the Chinese spy outpost"
+SV: "Sekundärt mål:\nFörstör den kinesiska spionutposten"
 END
 
 // context: Directives for GLA mission
@@ -39785,7 +39785,7 @@ PL: "OSTRZEŻENIE:\nNadlatuje amerykańskie lotnictwo.\nUżyj wyrzutni Stingeró
 RU: "ВНИМАНИЕ:\nАмериканские воздушные силы на подлете\nЧтобы отразить атаку вражеской авиации, используйте Гнезда стингеров и Самоходные зенитки"
 AR: "WARNING:\nAmerican air forces inbound\nUse Stinger Sites and Quad Cannons to shoot down enemy aircraft"
 UK: "УВАГА:\nАмериканські повітряні сили на підході\nВикористовуйте позиції Стінгер і Четверні Гармати, щоб збивати ворожі літаки"
-SV: "WARNING:\nAmerican air forces inbound\nUse Stinger Sites and Quad Cannons to shoot down enemy aircraft"
+SV: "VARNING:\nAmerikanskt flygvapen på väg\nAnvänd stingerfästen och fyrpipigaluftvärnskanoner för att skjuta ner fientliga flygplan"
 END
 
 // GLA08 MISSION TEXT //////////////////////////////////////////////
@@ -39837,7 +39837,7 @@ PL: "CELE MISJI:\nZająć budynek kontroli naziemnej.\nZająć suwnicę rakietow
 RU: "ЦЕЛИ МИССИИ:\nЗахватите центр управления полётами\nЗахватите пусковую установку комплекса"
 AR: "MISSION OBJECTIVES:\nCapture the ground control building\nCapture the rocket launch gantry"
 UK: "ЦІЛІ МІСІЇ:\nЗахопіть будівлю наземного управління\nЗахопіть платформу для запуску ракет"
-SV: "MISSION OBJECTIVES:\nCapture the ground control building\nCapture the rocket launch gantry"
+SV: "UPPDRAGSMÅL:\nErövra markkontrollbyggnaden\nErövra raketuppskjutningsrampen"
 END
 
 // context: Mission objective displayed at the beginning of GLA08
@@ -39854,7 +39854,7 @@ PL: "CEL MISJI:\nZająć budynek kontroli naziemnej."
 RU: "ЦЕЛЬ МИССИИ:\nЗахватите центр управления полетами"
 AR: "MISSION OBJECTIVE:\nCapture the ground control building"
 UK: "МЕТА МІСІЇ:\nЗахопіть будівлю наземного управління"
-SV: "MISSION OBJECTIVE:\nCapture the ground control building"
+SV: "UPPDRAGSMÅL:\nErövra markkontrollbyggnaden"
 END
 
 // context: Mission objective displayed at the beginning of GLA08
@@ -39871,7 +39871,7 @@ PL: "CEL MISJI:\nZająć suwnicę rakietową."
 RU: "ЦЕЛЬ МИССИИ:\nЗахватите пусковую установку комплекса"
 AR: "MISSION OBJECTIVE:\nCapture the rocket launch gantry"
 UK: "МЕТА МІСІЇ:\nЗахопіть платформу для запуску ракет"
-SV: "MISSION OBJECTIVE:\nCapture the rocket launch gantry"
+SV: "UPPDRAGSMÅL:\nErövra raketuppskjutningsrampen"
 END
 
 // context: Mission objective displayed at the beginning of GLA08
@@ -39888,7 +39888,7 @@ PL: "OSTRZEŻENIE:\nNadchodzi uderzenie nieprzyjacielskiej superbroni."
 RU: "ВНИМАНИЕ:\nОжидается применение вражеского супер-оружия"
 AR: "WARNING:\nEnemy superweapon incoming"
 UK: "УВАГА:\nСуперзброя противника напоготові"
-SV: "WARNING:\nEnemy superweapon incoming"
+SV: "VARNING:\nFientlig supervapenattack på väg"
 END
 
 MAP:USA07hint1
@@ -40530,7 +40530,7 @@ PL: "Wykrada pieniądze z nieprzyjacielskich ośrodków zaopatrzeniowych. Nie mo
 RU: "Кража средств из вражеских Центров снабжения. Вы не сможете украсть полную сумму средств, если враг ими не обладает\n\nУровень 1: $1000\nУровень 2: $2000\nУровень 3: $4000\n\nУправление из: Командного центра"
 AR: "وﺪﻌﻠﻟ ﺔﻌﺑﺎﺘﻟا ﺰﯿﮫﺠﺘﻟا ﺰﻛاﺮﻣ ﻦﻣ لاﻮﻣﻷا ﺔﻗﺮﺳ\n\n$١٠٠٠ لوﻷا ﻒﻨﺼﻟا\n$٢٠٠٠ ﻲﻧﺎﺜﻟا ﻒﻨﺼﻟا\n$٤٠٠٠ ﺚﻟﺎﺜﻟا ﻒﻨﺼﻟا\n\nةدﺎﯿﻘﻟا ﺰﻛﺮﻣ : ىﺪﻟ ﻊﺑﺎﺗ"
 UK: "Крадіжка грошей з ворожих центрів постачання. Ви не можете вкрасти більше грошей, ніж є у ворога\n\n1 рівень: $1000\n2 рівень: $2000\n3 рівень: $4000\n\nВикликається з: Командний Центр"
-SV: "Steal money from enemy supply centers. You cannot steal more money than the enemy has\n\nRank 1: $1000\nRank 2: $2000\nRank 3: $4000\n\nDeploy from: Command Center"
+SV: "Stjäl pengar från fiendens förnödenhetscentral. Du kan inte stjäla mer pengar än vad fienden har.\n\nRang 1: $1000\nRang 2: $2000\nRang 3: $4000\n\nAktiveras från Kommandocentralen"
 END
 
 // context: Main Menu button to launch the player into the training mission
@@ -40829,7 +40829,7 @@ PL: "Bieżący plik: %ls"
 RU: "Текущий файл: %ls"
 AR: "%ls : ﻲﻟﺎﺤﻟا ﻒﻠﻤﻟا"
 UK: "Поточний файл: %ls"
-SV: "Current file: %ls"
+SV: "Aktuell fil: %ls"
 END
 
 // context: Minute/second countdown to abort map transfer
@@ -40846,7 +40846,7 @@ PL: "Przerwane w %d:%2.2d"
 RU: "Отмена через %d:%2.2d"
 AR: "%d:%2.2d ﻲﻓ طﺎﺒﺣإ"
 UK: "Розрив через %d:%2.2d"
-SV: "Avbryter i %d:%2.2d"
+SV: "Avbryter om %d:%2.2d"
 END
 
 // context: Map transfer status
@@ -41738,7 +41738,7 @@ PL: "Procent wygranych"
 RU: "Процент Побед"
 AR: "ﺮﺼﻨﻟا لﺪﻌﻣ"
 UK: "Відсоток виграшу"
-SV: "Vin prosent"
+SV: "Vinstprocent"
 END
 
 // context: Label for the most number of games this player has won in a row
@@ -41772,7 +41772,7 @@ PL: "%hs prowadzi QuickMatching."
 RU: "%hs играет Быстрый матч"
 AR: "%hs is QuickMatching"
 UK: "%hs is QuickMatching"
-SV: "%hs is QuickMatching"
+SV: "%hs söker Snabbmatch"
 END
 
 // context: Used to popup the status of a buddy. %hs is replaced by the Buddy's name
@@ -41789,7 +41789,7 @@ PL: "%hs konfiguruje grę."
 RU: "%hs настраивает опции матча"
 AR: "%hs is setting up a game"
 UK: "%hs налаштовує гру"
-SV: "%hs is setting up a game"
+SV: "%hs förbereder ett spel"
 END
 
 // context: Used to popup the status of a buddy. %hs is replaced by the Buddy's name
@@ -41806,7 +41806,7 @@ PL: "%hs rozpoczyna grę."
 RU: "%hs начинает игру"
 AR: "%hs is starting a game"
 UK: "%hs починає гру"
-SV: "%hs is starting a game"
+SV: "%hs startar ett spel"
 END
 
 // context: Used to popup the status of a buddy. %hs is replaced by the Buddy's name
@@ -41823,7 +41823,7 @@ PL: "%hs gra."
 RU: "%hs играет"
 AR: "%hs is playing a game"
 UK: "%hs грає гру"
-SV: "%hs is playing a game"
+SV: "%hs spelar ett spel"
 END
 
 // context: Part of the tooltip where the requirements to build a unit are listed.
@@ -42118,7 +42118,7 @@ PL: "Tworzy formację z wybranych jednostek. Formacja będzie utrzymywana w trak
 RU: "Создать построение из выделенных войск, что позволит сохранять порядок движения и двигаться со скоростью самой медленной единицы в отряде"
 AR: "نﻮﻛﺮﺤﺘﻳ ﺎﻤﻛ ﺎﮫﺑ نﻮﻈﻔﺘﺤﯿﺳ ﻢھو ةدﺪﺤﻤﻟا تاﺪﺣﻮﻠﻟ ﻞﯿﻜﺸﺗ ءﺎﺸﻧإ"
 UK: "Створіть формування з вибраних одиниць, і вони будуть зберігати його під час руху"
-SV: "Create a formation of the selected units and they will retain it as they move"
+SV: "Skapa en formation med de valda tupperna så behåller de den när de rör sig"
 END
 
 // context: Help text for the 'Scatter' command.
@@ -42135,7 +42135,7 @@ PL: "Powoduje rozproszenie wybranych jednostek."
 RU: "Приказать выделенному(ым) объекту(ам) рассеяться"
 AR: "ةدﺪﺤﻤﻟا لﺎﻜﺷﻷا ةﺮﺜﻌﺑ"
 UK: "Розсіяти вибрані об’єкти"
-SV: "Scatter selected object(s)"
+SV: "Sprid ut valda trupp(er)"
 END
 
 OBJECT:TrainWreckBridge
@@ -42151,7 +42151,7 @@ PL: "Zniszczony most kolejowy"
 RU: "Разрушенный Железнодорожный мост"
 AR: "ﻢﻄﺤﻤﻟا ﺭﺎﻄﻘﻟا ﺮﺴﺟ"
 UK: "Міст з аварією потягу"
-SV: "Train Wreck Bridge"
+SV: "Raserad järnvägsbro"
 END
 
 MAP:BarrenBadlands
@@ -42167,7 +42167,7 @@ PL: "Jałowe pustkowia"
 RU: "Бесплодные земли"
 AR: "ﺔﻠﺣﺎﻘﻟا ﺔﺌﯿﺴﻟا ﻲﺿارﻷا"
 UK: "Безплідні землі"
-SV: "Barren Badlands"
+SV: "Ödemarker"
 END
 
 MAP:CraterCanyon
@@ -42183,7 +42183,7 @@ PL: "Kanion i krater"
 RU: "Кратер в Каньоне"
 AR: "Crater Canyon"
 UK: "Кратер Каньйон"
-SV: "Crater Canyon"
+SV: "Kraterkanjon"
 END
 
 MAP:DustDevil
@@ -42817,7 +42817,7 @@ PL: "Fabryka farmaceutyczna"
 RU: "Фармацевтическая фабрика"
 AR: "ﻲﻟﺪﯿﺼﻟا ﻊﻨﺼﻤﻟا"
 UK: "Фармацевтичний завод"
-SV: "Pharmaceutical Factory"
+SV: "Läkemedelsfabrik"
 END
 
 // context: Label for the total number of wins the player has accrued
@@ -43136,7 +43136,7 @@ PL: "Samolot transportowy"
 RU: "Грузовой самолёт"
 AR: "ﻦﺤﺸﻟا ةﺮﺋﺎﻃ"
 UK: "Вантажний літак"
-SV: "Cargo Plane"
+SV: "Transportflygplan"
 END
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -43156,7 +43156,7 @@ PL: "Pekin"
 RU: "Пекин"
 AR: "ﻦﯿﺠﯿﺑ"
 UK: "Пекін"
-SV: "Beijing"
+SV: "Peking"
 END
 
 // Patch104p @fix xezon 29/07/2023 Removes '\n홍콩 재앙' from KO. (#2165)
@@ -43174,7 +43174,7 @@ PL: "Hongkong"
 RU: "Гонконг"
 AR: "ﻎﻧﻮﻛ ﻎﻧﻮھ"
 UK: "Гонконг"
-SV: "Hong Kong"
+SV: "Hongkong"
 END
 
 OBJECT:HubeiProvince
@@ -43190,7 +43190,7 @@ PL: "Zapora Trzech Gardzieli"
 RU: "Дамба Трёх ущелий"
 AR: "يﺎﺑﻮھ ﺔﻈﻓﺎﺤﻣ"
 UK: "Гребля Три ущелини"
-SV: "Three Gorges Dam"
+SV: "De tre ravinernas damm"
 END
 
 OBJECT:Tangula
@@ -43206,7 +43206,7 @@ PL: "Góry Tangla"
 RU: "Горы Тангула"
 AR: "ﺎﻟﻮﻴﺠﻧﺎﺗ ﻝﺎﺒﺟ"
 UK: "Гори Тангула"
-SV: "Tanggula Mountains"
+SV: "Tanggulabergen"
 END
 
 OBJECT:Balykchy
@@ -43350,7 +43350,7 @@ PL: "Jezioro Aralskie, Kazachstan"
 RU: "Аральское море"
 AR: "لارآ ﺮﺤﺑ"
 UK: "Аральське море"
-SV: "Aral Sea"
+SV: "Aralsjön"
 END
 
 OBJECT:Lenger
@@ -43416,7 +43416,7 @@ PL: "Bagdad"
 RU: "Багдад"
 AR: "داﺪﻐﺑ"
 UK: "Багдад"
-SV: "Baghdad"
+SV: "Bagdad"
 END
 
 OBJECT:AlHanad
@@ -43448,7 +43448,7 @@ PL: "Północny Kazachstan"
 RU: "Северный Казахстан"
 AR: "نﺎﺘﺴﺧازﺎﻛ لﺎﻤﺷ"
 UK: "Північний Казахстан"
-SV: "Northern Kazakhstan"
+SV: "Norra Kazakstan"
 END
 
 OBJECT:KazakhstanCoast
@@ -43464,7 +43464,7 @@ PL: "Brzeg J. Aralskiego"
 RU: "Побережье Казахстана"
 AR: "نﺎﺘﺴﺧازﺎﻛ ﻞﺣﺎﺳ"
 UK: "Узбережжя Казахстану"
-SV: "Kazakhstan Coast"
+SV: "Kazakstans kust"
 END
 
 OBJECT:KazakhstanDMZ
@@ -43480,7 +43480,7 @@ PL: "Kazachstan, strefa zdemilit."
 RU: "Демилитаризованная зона Казахстана"
 AR: "دز مإ يد نﺎﺘﺴﺧازﺎﻛ"
 UK: "Демілітаризована зона Казахстану"
-SV: "Kazakhstan DMZ"
+SV: "Kazakhstans demilitariserade zon"
 END
 
 OBJECT:SouthKazkahstan
@@ -43496,7 +43496,7 @@ PL: "Płd.-wsch. Kazachstan"
 RU: "Юго-восточный Казахстан"
 AR: "ﻥﺎﺘﺴﺧاﺯﺎﻛ ﻕﺮﺷ ﺏﻮﻨﺟ"
 UK: "Південний Казахстан"
-SV: "Southeastern Kazakhstan"
+SV: "Sydöstra Kazakstan"
 END
 
 OBJECT:Akmola
@@ -43531,7 +43531,7 @@ PL: "CELE MISJI:\nPrzejmij centrum dowodzenia na wschodzie, aby rozpocząć prod
 RU: "ЦЕЛИ МИССИИ:\nЗахватите Командный центр на востоке, чтобы начать производство войск\nУбейте 200 предателей"
 AR: "MISSION OBJECTIVES:\nClaim the Command Center to the East to begin production\nKill 200 traitors"
 UK: "ЦІЛІ МІСІЇ:\nЗахопити командний центр на сході, щоб почати виробництво\nУбити 200 зрадників"
-SV: "MISSION OBJECTIVES:\nClaim the Command Center to the East to begin production\nKill 200 traitors"
+SV: "UPPDRAGSMÅL:\nTa kontroll över kommandocentralen i öst för att påbörja produktionen\nDöda 200 förrädare"
 END
 
 // context: Mission objective displayed when command center is retrieved in GLA03
@@ -43548,7 +43548,7 @@ PL: "CEL MISJI:\nUżyj ciągników z toksyną, aby zabić 200 zdrajców."
 RU: "ЦЕЛЬ МИССИИ:\nИспользуя Токсиновые тракторы, убейте 200 предателей"
 AR: "MISSION OBJECTIVE:\nUse Toxin Tractors to kill 200 traitors"
 UK: "МЕТА МІСІЇ:\nВикористати токсинові трактори для знищення 200 зрадників"
-SV: "MISSION OBJECTIVE:\nUse Toxin Tractors to kill 200 traitors"
+SV: "UPPDRAGSMÅL:\nAnvänd gifttraktorer för att döda 200 förrädare"
 END
 
 // NEW INTERFACE ADDITIONS
@@ -43652,7 +43652,7 @@ PL: "OSOBA"
 RU: "АККАУНТ"
 AR: "ﺔﯿﺼﺨﺸﻟا"
 UK: "ПЕРСОНА"
-SV: "Statistik"
+SV: "Spelareinformation"
 END
 
 // context: Set the level of quality for the textures to High Quality
@@ -43976,7 +43976,7 @@ PL: "Zaawansowane opcje wyświetlania"
 RU: "РАСШИРЕННЫЕ НАСТРОЙКИ ГРАФИКИ"
 AR: "ﺔﻣﺪﻘﺘﻤﻟا ضﺮﻌﻟا تاداﺪﻋإ"
 UK: "РОЗШИРЕНІ НАЛАШТУВАННЯ ГРАФІКИ"
-SV: ""
+SV: "Avancerade grafikinställningar"
 END
 
 // context: Checkbox on the Advance Display Options menu
@@ -43993,7 +43993,7 @@ PL: "Cienie"
 RU: "Тени"
 AR: "لﻼﻈﻟا"
 UK: "Тіні"
-SV: ""
+SV: "Skuggor"
 END
 
 // context: Checkbox on the Advance Display Options menu
@@ -44027,7 +44027,7 @@ PL: "Za budynkami"
 RU: "Отображать Войска за зданиями"
 AR: "تﺎﻳﺎﻨﺒﻟا ﻒﻠﺧ"
 UK: "Показувати Підрозділи за будівлями"
-SV: ""
+SV: "Bakom byggnader"
 END
 
 // context: Checkbox on the Advance Display Options menu
@@ -44061,7 +44061,7 @@ PL: "Detale"
 RU: "Дополнительные объекты"
 AR: "ﻢﺋﺎﻋﺪﻟا ضﺮﻋ"
 UK: "Показати реквізит"
-SV: ""
+SV: "Visa föremål"
 END
 
 // context: Checkbox on the Advance Display Options menu
@@ -44095,7 +44095,7 @@ PL: "Rodzielczość tekstur"
 RU: "РАЗРЕШЕНИЕ ТЕКСТУР"
 AR: "ردﺎﺼﻤﻟا ﺔﻗد"
 UK: "РОЗД. ЗДАТНІСТЬ ТЕКСТУР"
-SV: ""
+SV: "Texturupplösning"
 END
 
 // context: Label on the Advance Display Options menu
@@ -44112,7 +44112,7 @@ PL: "Wysoka rozdzielczość (wolniej)"
 RU: "Высокое разрешение (Медленнее)"
 AR: "(ﺄﻄﺑأ) ﺔﯿﻟﺎﻋ حﻮﺿو ﺔﺟرد"
 UK: "Висока роздільна здатність (повільніше)"
-SV: ""
+SV: "Hög upplösning (Långsammare)"
 END
 
 // context: Label on the Advance Display Options menu
@@ -44129,7 +44129,7 @@ PL: "Niska rozdzielczość (szybciej)"
 RU: "Низкое разрешение (Быстрее)"
 AR: "( ﺔﻌﻳﺮﺳ ) ﺔﻀﻔﺨﻨﻤﻟا ﺔﻗﺪﻟا"
 UK: "Низька роздільна здатність (швидше)"
-SV: ""
+SV: "Låg upplösning (Snabbare)"
 END
 
 // context: Tooltip for the low res slider on the Advance Display Options Menu
@@ -44163,7 +44163,7 @@ PL: "Poziom punktów"
 RU: "КАЧЕСТВО СПЕЦЭФФЕКТОВ"
 AR: "ﺔﯿﺋﺰﺠﻟا ﺔﻌﺒﻘﻟا"
 UK: "КІЛЬКІСТЬ ЧАСТОК"
-SV: ""
+SV: "Partikelgräns"
 END
 
 // context: Label on the Advance Display Options Menu
@@ -44180,7 +44180,7 @@ PL: "Maksymalny (wolniej)"
 RU: "Высокое качество (Медленнее)"
 AR: "(ﺄﻄﺑأ) ﻰﺼﻗﻷا ﻢﯿﺴﺠﺘﻟا"
 UK: "Максимальна кількість часток (повільніше)"
-SV: ""
+SV: "Maximalt antal partiklar (Långsammare)"
 END
 
 // context: Label on the Advance Display Options Menu
@@ -44197,7 +44197,7 @@ PL: "Minimalny (szybciej)"
 RU: "Низкое качество (Быстрее)"
 AR: "ﺾﻔﺨﻨﻤﻟا ﻢﯿﺴﺠﺘﻟا"
 UK: "Мінімальна кількість часток (швидше)"
-SV: ""
+SV: "Minimalt antal partiklar (Snabbare)"
 END
 
 // Patch104p @fix dmgreen 06/12/2024 Changes US from "More particles can slow the game down" (#2727)
@@ -44248,7 +44248,7 @@ PL: "Własna"
 RU: "Пользовательская"
 AR: "ﺺﺼﺨﻣ"
 UK: "Інше"
-SV: ""
+SV: "Anpassad"
 END
 
 GUI:ToggleOnOff
@@ -44349,7 +44349,7 @@ PL: "Cienie 2D"
 RU: "Двухмерные тени"
 AR: "دﺎﻌﺑﻷا ﺔﯿﺋﺎﻨﺜﻟا لﻼﻈﻟا"
 UK: "2D тіні"
-SV: ""
+SV: "2D Skuggor"
 END
 
 // context: Checkbox on the Advance Display Options menu
@@ -44383,7 +44383,7 @@ PL: "Cienie 3D"
 RU: "Трёхмерные тени"
 AR: "دﺎﻌﺑﻷا ﺔﯿﺛﻼﺜﻟا لﻼﻈﻟا"
 UK: "3D тіні"
-SV: ""
+SV: "3D Skuggor"
 END
 
 // context: Checkbox on the Advance Display Options menu
@@ -44417,7 +44417,7 @@ PL: "Cienie chmur"
 RU: "Тени от облаков"
 AR: "ﺔﺑﺎﺤﺴﻟا لﻼﻇ"
 UK: "Тіні від хмар"
-SV: ""
+SV: "Moln Skuggor"
 END
 
 // context: Checkbox on the Advance Display Options menu
@@ -44451,7 +44451,7 @@ PL: "Dodatkowe oświetlenie"
 RU: "Доп. освещение поверхности"
 AR: "ﺔﯿﻓﺎﺿﻹا ﺔﯿﺿرﻷا ةءﺎﺿﻹا"
 UK: "Додаткове наземне освітлення"
-SV: ""
+SV: "Extra markljus"
 END
 
 // context: Checkbox on the Advance Display Options menu
@@ -44485,7 +44485,7 @@ PL: "Wygładzone krawędzie zbiorników wodnych"
 RU: "Сглаживать водные края"
 AR: "ﺔﻤﻋﺎﻨﻟا ءﺎﻤﻟا دوﺪﺣ"
 UK: "Плавні межі води"
-SV: ""
+SV: "Mjuk vattenkant"
 END
 
 // context: Checkbox on the Advance Display Options menu
@@ -44519,7 +44519,7 @@ PL: "Dodatkowe animacje"
 RU: "Дополнительные анимации"
 AR: "ﺔﯿﻓﺎﺿﻹا ﺔﻛﺮﺤﺘﻤﻟا رﻮﺼﻟا"
 UK: "Додаткові анімації"
-SV: ""
+SV: "Extra animeringar"
 END
 
 // context: Checkbox on the Advance Display Options menu
@@ -44553,7 +44553,7 @@ PL: "Wyłączenie detali"
 RU: "Откл. Динам. Детализацию"
 AR: "ﻞﯿﺼﻔﺘﻟا ﻦﻣ ﻲﻣﺎﻨﻳد ىﻮﺘﺴﻣ ﻞﻄﻋ"
 UK: "Вимкнути динамічний рівень деталізації"
-SV: ""
+SV: "Inaktivera dynamisk detaljnivå"
 END
 
 // Patch104p @fix dmgreen 06/12/2024 Changes US from "Disable automatic detail adjustment. Turn off for improved performance" (#2727)
@@ -44760,7 +44760,7 @@ PL: "Włączenie/wyłączenie. Wyłącz, by przyspieszyć działanie."
 RU: "Вкл./откл. - Отключение опций улучшит производительность"
 AR: "ءادﻷا ﻦﯿﺴﺤﺘﻟ فﺎﻘﻳإ - ﻞﯿﻐﺸﺗ / فﺎﻘﻳإ ﺖﯿﺒﺜﺗ"
 UK: "Увімкнути/вимкнути – Вимкніть, щоб покращити продуктивність"
-SV: ""
+SV: "Aktivera/Inaktivera – Stäng av för bättre prestanda"
 END
 
 // context: Shown at main menu the first time the game is run.
@@ -45036,7 +45036,7 @@ PL: "Zespół nagrań terenowych EA Los Angeles"
 RU: "Команда внестудийных звукозаписей EA Los Angeles"
 AR: "ﺲﯿﻠﺠﻧأ سﻮﻟ دﺮﻟا تﻼﯿﺠﺴﺗ ﻖﻳﺮﻓ"
 UK: "EA Los Angeles Field Recordings Team"
-SV: "EA Los Angeles Field Recordings Team"
+SV: "EA Los Angeles fältinspelningsteam"
 END
 
 CREDITS:TiburonQualityAssuranceSeniorLead
@@ -45052,7 +45052,7 @@ PL: "Główny kierownik kontroli jakości w EA Tiburon"
 RU: "Старший руководитель отдела обеспечения качества EA Tiburon"
 AR: "EA Tiburon Quality Assurance Senior Lead"
 UK: "EA Tiburon Quality Assurance Senior Lead"
-SV: "EA Tiburon Quality Assurance Senior Lead"
+SV: "Senior ansvarig för kvalitetssäkring, EA Tiburon"
 END
 
 CREDITS:TiburonQualityAssuranceProjectLead
@@ -45068,7 +45068,7 @@ PL: "Kierownik kontroli jakości w EA Tiburon"
 RU: "Руководитель проекта по обеспечению качества EA Tiburon"
 AR: "EA Tiburon Quality Assurance Project Lead"
 UK: "EA Tiburon Quality Assurance Project Lead"
-SV: "EA Tiburon Quality Assurance Project Lead"
+SV: "EA Tiburon Projektledare för kvalitetssäkring"
 END
 
 CREDITS:TiburonAssociateQualityAssuranceLeads
@@ -45084,7 +45084,7 @@ PL: "Współpraca kierownicza kontroli jakości w EA Tiburon"
 RU: "Партнёры контроля качества EA Tiburon"
 AR: "EA Tiburon Associate Quality Assurance Leads"
 UK: "EA Tiburon Associate Quality Assurance Leads"
-SV: "EA Tiburon Associate Quality Assurance Leads"
+SV: "EA Tiburon Biträdande kvalitetssäkringsansvariga"
 END
 
 CREDITS:TiburonQualityAssuranceSeniorTesters
@@ -45100,7 +45100,7 @@ PL: "Główni testerzy kontroli jakości w EA Tiburon"
 RU: "Старшие проверяющие контроля качества EA Tiburon"
 AR: "EA Tiburon Quality Assurance Senior Testers"
 UK: "EA Tiburon Quality Assurance Senior Testers"
-SV: "EA Tiburon Quality Assurance Senior Testers"
+SV: "EA Tiburon Senior testare inom kvalitetssäkring"
 END
 
 CREDITS:TiburonQualityAssuranceTesters
@@ -45116,7 +45116,7 @@ PL: "Testerzy kontroli jakości w EA Tiburon"
 RU: "Проверяющие контроля качества EA Tiburon"
 AR: "EA Tiburon Quality Assurance Testers"
 UK: "EA Tiburon Quality Assurance Testers"
-SV: "EA Tiburon Quality Assurance Testers"
+SV: "EA Tiburon testare inom kvalitetssäkring"
 END
 
 CREDITS:EAUKAdditionalQualityAssurance
@@ -45132,7 +45132,7 @@ PL: "Dodatkowa kontrola jakości EAUK"
 RU: "Дополнительный контроль качества EAUK"
 AR: "EAUK Additional Quality Assurance"
 UK: "EAUK Additional Quality Assurance"
-SV: "EAUK Additional Quality Assurance"
+SV: "EAUK ytterligare kvalitetssäkring"
 END
 
 CREDITS:MultiplayerTestParticipants
@@ -45148,7 +45148,7 @@ PL: "Uczestnicy testu gry wieloosobowej"
 RU: "Участники тестирования коллективной игры"
 AR: "Multiplayer Test Participants"
 UK: "Multiplayer Test Participants"
-SV: "Multiplayer Test Participants"
+SV: "Deltagare i flerspelartest"
 END
 
 CREDITS:FocusTesters
@@ -45164,7 +45164,7 @@ PL: "Testerzy fokusowi"
 RU: "Основные участники тестирования"
 AR: "Focus Testers"
 UK: "Focus Testers"
-SV: "Focus Testers"
+SV: "Fokustestare"
 END
 
 CREDITS:NorthAmericaMarketingPartners
@@ -45180,7 +45180,7 @@ PL: "Partnerzy marketingowi w Ameryce Północnej"
 RU: "Партнёры Electronic Arts по маркетингу в северной Америке"
 AR: "North America Marketing Partners"
 UK: "North America Marketing Partners"
-SV: "North America Marketing Partners"
+SV: "Marknadsföringspartners Nordamerika"
 END
 
 CREDITS:ManagingDirectorEurope
@@ -45196,7 +45196,7 @@ PL: "Dyrektor Generalny, Europa"
 RU: "Управляющий директор (Европа)"
 AR: "Managing Director, Europe"
 UK: "Managing Director, Europe"
-SV: "Managing Director, Europe"
+SV: "Verkställande direktör, Europa"
 END
 
 CREDITS:EuropeanMarketingPartners
@@ -45212,7 +45212,7 @@ PL: "Partnerzy marketingowi w Europie"
 RU: "Партнёры Electronic Arts по маркетингу в Европе"
 AR: "European Marketing Partners"
 UK: "European Marketing Partners"
-SV: "European Marketing Partners"
+SV: "Marknadsföringspartners i Europa"
 END
 
 CREDITS:AsiaPacificPresidentandCoach
@@ -45228,7 +45228,7 @@ PL: "Prezes EA Pacific"
 RU: "Президент и инструктор EA Asia Pacific"
 AR: "يدﺎﮫﻟا ﻂﯿﺤﻤﻟاو ﺎﯿﺳآ ﻲﻓ ﻲﺴﯿﺋﺮﻟا ﺐﻳرﺪﺘﻟا"
 UK: "EA Asia Pacific, President and Coach"
-SV: "EA Asia Pacific, President and Coach"
+SV: "EA Asia Pacific, president och coach"
 END
 
 CREDITS:AsiaPacificMarketingPartners
@@ -45244,7 +45244,7 @@ PL: "Partnerzy marketingowi EA Asia Pacific"
 RU: "Партнёры Electronic Arts по маркетингу в Азиатско-тихоокеанском регионе"
 AR: "يدﺎﮫﻟا ﻂﯿﺤﻤﻟاو ﺎﯿﺳآ ﻲﻓ ﻦﯿﯿﻘﻳﻮﺴﺘﻟا ءﺎﻛﺮﺸﻟا"
 UK: "EA Asia Pacific Marketing Partners"
-SV: "EA Asia Pacific Marketing Partners"
+SV: "EA Asia Pacific, marknadsföringspartners"
 END
 
 CREDITS:GamingCommunityPartners
@@ -45260,7 +45260,7 @@ PL: "Partnerzy społeczności graczy"
 RU: "Партнёры игрового сообщества"
 AR: "Gaming Community Partners"
 UK: "Gaming Community Partners"
-SV: "Gaming Community Partners"
+SV: "Spelcommunity-partners"
 END
 
 CREDITS:EADevelopmentExecutives
@@ -45276,7 +45276,7 @@ PL: "Kierownicy rozwoju EA"
 RU: "Руководители разработок EA"
 AR: "ﻦﯿﻳﺬﯿﻔﻨﺘﻟا ﺮﻳﻮﻄﺘﻟا ءارﺪﻣ"
 UK: "EA Development Executives"
-SV: "EA Development Executives"
+SV: "EA-utvecklingschefer"
 END
 
 CREDITS:SpecialThankstotheMaxiscrew
@@ -45292,7 +45292,7 @@ PL: "Specjalne podziękowania dla zespołu Maxisa"
 RU: "Особая благодарность Maxis crew"
 AR: "Special Thanks to the Maxis crew"
 UK: "Special Thanks to the Maxis crew"
-SV: "Special Thanks to the Maxis crew"
+SV: "Ett särskilt tack till Maxis-teamet"
 END
 
 CREDITS:VerySpecialThanks
@@ -45308,7 +45308,7 @@ PL: "Bardzo specjalne podziękowania"
 RU: "Особая благодарность"
 AR: "Very Special Thanks"
 UK: "Very Special Thanks"
-SV: "Very Special Thanks"
+SV: "Ett mycket särskilt tack"
 END
 
 ////////////////////////////////////////////////////
@@ -45327,7 +45327,7 @@ PL: "Gra Command & Conquer (TM) Generals: Zero Hour została stworzona przez"
 RU: "Command & Conquer (TM) Генералы: Час Расплаты разработана"
 AR: "\" ﻂﺳوﻷا قﺮﺸﻟا ﺔﺨﺴﻧ \" تﻻاﺮﻨﺠﻟا يﺪﺤﺗ ﺔﺒﻌﻟ"
 UK: "Command & Conquer (TM) Generals Zero Hour was developed"
-SV: "Command & Conquer (TM) Generals Zero Hour was developed"
+SV: "Command & Conquer (TM) Generals Zero Hour utvecklades"
 END
 
 CREDITS:EAPacificDevTeam
@@ -45359,7 +45359,7 @@ PL: "Członek zarządu odpowiedzialny za produkcję"
 RU: "Исполнительный продюсер"
 AR: "Executive in Charge of Production"
 UK: "Executive in Charge of Production"
-SV: "Executive in Charge of Production"
+SV: "Produktionsansvarig chef"
 END
 
 CREDITS:Producer
@@ -45375,7 +45375,7 @@ PL: "Producent"
 RU: "Продюсер"
 AR: "Producer"
 UK: "Producer"
-SV: "Producer"
+SV: "Producent"
 END
 
 CREDITS:LeadDesigner
@@ -45391,7 +45391,7 @@ PL: "Główny projektant"
 RU: "Главный дизайнер"
 AR: "Lead Designer"
 UK: "Lead Designer"
-SV: "Lead Designer"
+SV: "Huvuddesigner"
 END
 
 CREDITS:TechnicalDirector
@@ -45407,7 +45407,7 @@ PL: "Dyrektor techniczny"
 RU: "Технический директор"
 AR: "Technical Director"
 UK: "Technical Director"
-SV: "Technical Director"
+SV: "Teknisk direktör"
 END
 
 CREDITS:ArtDirector
@@ -45423,7 +45423,7 @@ PL: "Dyrektor artystyczny"
 RU: "Художественный директор"
 AR: "Art Director"
 UK: "Art Director"
-SV: "Art Director"
+SV: "Konstnärlig chef"
 END
 
 CREDITS:ArtProducer
@@ -45439,7 +45439,7 @@ PL: "Producent artystyczny"
 RU: "Художественный продюсер"
 AR: "Art Producer"
 UK: "Art Producer"
-SV: "Art Producer"
+SV: "Konstproducent"
 END
 
 CREDITS:SeniorProducer
@@ -45455,7 +45455,7 @@ PL: "Producent nadzorujący"
 RU: "Старший продюсер"
 AR: "Senior Producer"
 UK: "Senior Producer"
-SV: "Senior Producer"
+SV: "Seniorproducent"
 END
 
 CREDITS:AssociateProducers
@@ -45471,7 +45471,7 @@ PL: "Współpraca producencka"
 RU: "Ассоциированный продюсер"
 AR: "ﻚﻳﺮﺸﻟا ﺞﺘﻨﻤﻟا"
 UK: "Associate Producer"
-SV: "Associate Producer"
+SV: "Associerad producent"
 END
 
 CREDITS:MultiplayerTestProducer
@@ -45487,7 +45487,7 @@ PL: "Producent testów gry wieloosobowej"
 RU: "Продюсер тестирования коллективной игры"
 AR: "Multiplayer Test Producer"
 UK: "Multiplayer Test Producer"
-SV: "Multiplayer Test Producer"
+SV: "Producent för flerspelartest"
 END
 
 CREDITS:SeniorEngineers
@@ -45503,7 +45503,7 @@ PL: "Główni inżynierowie"
 RU: "Старшие инженеры"
 AR: "Senior Engineers"
 UK: "Senior Engineers"
-SV: "Senior Engineers"
+SV: "Senioringenjörer"
 END
 
 CREDITS:Engineers
@@ -45519,7 +45519,7 @@ PL: "Inżynierowie"
 RU: "Инженеры"
 AR: "Engineers"
 UK: "Engineers"
-SV: "Engineers"
+SV: "Ingenjörer"
 END
 
 CREDITS:AdditionalEngineering
@@ -45535,7 +45535,7 @@ PL: "Dodatkowe prace inżynierskie"
 RU: "Дополнительный инжиниринг"
 AR: "ﺔﯿﻓﺎﺿﻹا ﺔﺳﺪﻨﮫﻟا"
 UK: "Additional Engineering"
-SV: "Additional Engineering"
+SV: "Ytterligare ingenjörsarbete"
 END
 
 CREDITS:Designers
@@ -45551,7 +45551,7 @@ PL: "Projektanci"
 RU: "Дизайнеры"
 AR: "Designers"
 UK: "Designers"
-SV: "Designers"
+SV: "Formgivare"
 END
 
 CREDITS:AdditionalDesignInspirationandSupport
@@ -45567,7 +45567,7 @@ PL: "Dodatkowe projekty, inspiracja i pomoc"
 RU: "Дополнительный дизайн, идеи и поддержка"
 AR: "ﻢﻋﺪﻟاو ﻲﻓﺎﺿﻹا ﻢﯿﻤﺼﺘﻟا"
 UK: "Additional Design, Inspiration and Support"
-SV: "Additional Design, Inspiration and Support"
+SV: "Ytterligare design, inspiration och stöd"
 END
 
 CREDITS:AdditionalDesign
@@ -45583,7 +45583,7 @@ PL: "Dodatkowe projekty"
 RU: "Дополнительный дизайн"
 AR: "ﻲﻓﺎﺿﻹا ﻢﯿﻤﺼﺘﻟا"
 UK: "Additional Design"
-SV: "Additional Design"
+SV: "Ytterligare design"
 END
 
 CREDITS:ExternalMultiplayMapCreators
@@ -45599,7 +45599,7 @@ PL: "Niezależni twórcy map gry wieloosobowej"
 RU: "Внешняя команда по созданию карт для коллективной игры"
 AR: "External Multiplay Map Creators"
 UK: "External Multiplay Map Creators"
-SV: "External Multiplay Map Creators"
+SV: "Externa skapare av flerspelarkartor"
 END
 
 CREDITS:Artists
@@ -45615,7 +45615,7 @@ PL: "Graficy"
 RU: "Художники"
 AR: "Artists"
 UK: "Artists"
-SV: "Artists"
+SV: "Artister"
 END
 
 CREDITS:AdditionalArt
@@ -63805,7 +63805,7 @@ PL: "Efekty gorąca"
 RU: "Тепловые эффекты"
 AR: "ةراﺮﺤﻟا تاﺮﯿﺛﺄﺗ"
 UK: "Теплові еффекти"
-SV: ""
+SV: "Värme effekter"
 END
 
 TOOLTIP:HeatEffects
@@ -108446,4 +108446,22 @@ RU: "ПОЛЬЗОВ. КАРТЫ"
 AR: "مهمة مخصصة"
 UK: "ВЛАСНІ МІСІЇ"
 SV: "Extra Uppdrag"
+END
+
+// Patch104p @fix Polypheides 11/06/2025 added missing 1.05 start custom mission button.
+
+GUI:StartCustomMission
+US: "START GAME"
+DE: "START GAME"
+FR: "START GAME"
+ES: "START GAME"
+IT: "START GAME"
+KO: "START GAME"
+ZH: "START GAME"
+BP: "START GAME"
+PL: "START GAME"
+RU: "START GAME"
+AR: "START GAME"
+UK: "START GAME"
+SV: "Starta Spel"
 END
