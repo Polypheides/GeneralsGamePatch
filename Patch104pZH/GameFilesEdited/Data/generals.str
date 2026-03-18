@@ -15791,7 +15791,7 @@ ZH: "中情局情報：&C"
 BP: "Relatório de Inteligência: &C"
 PL: "Wywiad CIA: &C"
 RU: "Разведка ЦРУ: &C"
-AR: "ﺔﻳﺰﻛﺮﻤﻟا تاﺮﺑﺎﺨﻤﻟا ﺔﻟﺎﻛو تارﺎﺒﺨﺘﺳإ"
+AR: "&C ﺔﻳﺰﻛﺮﻤﻟا تاﺮﺑﺎﺨﻤﻟا ﺔﻟﺎﻛو تارﺎﺒﺨﺘﺳإ"
 UK: "Розвідка ЦРУ: &C"
 END
 
@@ -15808,7 +15808,7 @@ ZH: "戰鬥空降：&C"
 BP: "Invasão de Combate: &C"
 PL: "Desant: &D"
 RU: "Боевое десантирование: &C"
-AR: "ﻞﺗﺎﻘﻤﻟا لاﺰﻧﻹا"
+AR: "&C ﻞﺗﺎﻘﻤﻟا لاﺰﻧﻹا"
 UK: "Бойове десантування: &C"
 END
 
@@ -15825,7 +15825,7 @@ ZH: "防禦：&G"
 BP: "Proteger: &G"
 PL: "Straż: &T"
 RU: "Охранять: &G"
-AR: "ﺔﺳاﺮﺤﻟا"
+AR: "&G ﺔﺳاﺮﺤﻟا"
 UK: "Охорона: &G"
 END
 
@@ -15840,7 +15840,7 @@ ZH: "隨行防禦：&C"
 BP: "Proteger Próximo: &R"
 PL: "Straż na obszarze: &O"
 RU: "Охранять без преследования: &C"
-AR: "ﺔﺳاﺮﺤﻟا قﻼﻏإ"
+AR: "&C ﺔﺳاﺮﺤﻟا قﻼﻏإ"
 UK: "Охорона без переслідування: &C"
 END
 
@@ -15855,7 +15855,7 @@ ZH: "空中防禦：&R"
 BP: "Proteção Aérea: &R"
 PL: "Patrol powietrzny: &R"
 RU: "Охрана воздушного пространства: &R"
-AR: "ﻲﻋﺎﻓﺪﻟا ﻥاﺮﻴﻄﻟا"
+AR: "&R ﻲﻋﺎﻓﺪﻟا ﻥاﺮﻴﻄﻟا"
 UK: "Охорона повітря: &R"
 END
 
@@ -15872,7 +15872,7 @@ ZH: "移動攻擊：&A"
 BP: "Mover e Atacar: &A"
 PL: "Ruch ofensywny: &A"
 RU: "Атаковать врагов на пути: &A"
-AR: "ﻡﻮﺠﻬﻟا ﻞﻘﻧ"
+AR: "&A ﻡﻮﺠﻬﻟا ﻞﻘﻧ"
 UK: "Атака у русі: &A"
 END
 
@@ -15889,7 +15889,7 @@ ZH: "停止：&S"
 BP: "Parar: &S"
 PL: "Stop: &S"
 RU: "Стоп: &S"
-AR: "ﻑﺎﻘﻳإ"
+AR: "&S ﻑﺎﻘﻳإ"
 UK: "Стоп: &S"
 END
 
@@ -15904,7 +15904,7 @@ ZH: "路徑點：&T"
 BP: "Coordenadas: &C"
 PL: "Punkt nawigacyjny: &W"
 RU: "Точка маршрута: &W"
-AR: "ﻖﻳﺮﻄﻟا ﺔﻄﻘﻧ"
+AR: "&T ﻖﻳﺮﻄﻟا ﺔﻄﻘﻧ"
 UK: "Точка шляху: &T"
 END
 
@@ -15919,7 +15919,7 @@ ZH: "取消建造：&C"
 BP: "Cancelar Construção: &C"
 PL: "Anuluj budowę: &A"
 RU: "Отменить строительство: &C"
-AR: "ءﺎﺸﻧﻹا ﺔﯿﻠﻤﻋ ءﺎﻐﻟإ"
+AR: "&C ءﺎﺸﻧﻹا ﺔﯿﻠﻤﻋ ءﺎﻐﻟإ"
 UK: "Скасувати будівництво: &C"
 END
 
@@ -15934,7 +15934,7 @@ ZH: "毒害：&C"
 BP: "Contaminar: &C"
 PL: "Skażenie: &K"
 RU: "Заразить: &C"
-AR: "ﺔﺛﻮﻠﻤﻟا ﺓﺪﺣﻮﻟا"
+AR: "&C ﺔﺛﻮﻠﻤﻟا ﺓﺪﺣﻮﻟا"
 UK: "Забруднити: &C"
 END
 
@@ -15949,7 +15949,7 @@ ZH: "火牆：&F"
 BP: "Barreira de Fogo: &F"
 PL: "Ściana ogniowa: &O"
 RU: "Стена пламени: &F"
-AR: "ﻱﺭﺎﻨﻟا ﺭاﺪﺠﻟا"
+AR: "&F ﻱﺭﺎﻨﻟا ﺭاﺪﺠﻟا"
 UK: "Стіна вогню: &F"
 END
 
@@ -15964,7 +15964,7 @@ ZH: "武裝暴民：&M"
 BP: "Armar a Multidão: &M"
 PL: "Uzbrojenie wściekłego tłumu: &U"
 RU: "Вооружить Толпу: &M"
-AR: "ﻦﯿﯿﻧﺪﻤﻟا راﻮﺜﻟا ﺢﯿﻠﺴﺗ"
+AR: "&M ﻦﯿﯿﻧﺪﻤﻟا راﻮﺜﻟا ﺢﯿﻠﺴﺗ"
 UK: "Озброїти натовп: &M"
 END
 
@@ -15982,7 +15982,7 @@ ZH: "武裝暴民：&O"
 BP: "Armar a Multidão: &O"
 PL: "Uzbrojenie wściekłego tłumu: &U"
 RU: "Вооружить Толпу: &O"
-AR: "ﻦﯿﯿﻧﺪﻤﻟا راﻮﺜﻟا ﺢﯿﻠﺴﺗ"
+AR: "&O ﻦﯿﯿﻧﺪﻤﻟا راﻮﺜﻟا ﺢﯿﻠﺴﺗ"
 UK: "Озброїти натовп: &O"
 END
 
@@ -15997,7 +15997,7 @@ ZH: "蓋特砲：&C"
 BP: "Canhão Gattling: &C"
 PL: "Działko Gattling: &G"
 RU: "Пулеметная турель: &C"
-AR: "شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا"
+AR: "&C شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا"
 UK: "Гармата Гатлінга: &C"
 END
 
@@ -16016,7 +16016,7 @@ ZH: "思想強化電塔：&T"
 BP: "Torre de Propaganda: &T"
 PL: "Megafon: &M"
 RU: "Вышка пропаганды: &T"
-AR: "ﻲﻣﻼﻋﻹا جﺮﺒﻟا"
+AR: "&T ﻲﻣﻼﻋﻹا جﺮﺒﻟا"
 UK: "Вежа пропаганди: &T"
 //patch104p-core-end
 //patch104p-optional-begin
@@ -16030,7 +16030,7 @@ ZH: "思想強化電塔：&T"
 BP: "Torre de Alto-Falantes: &T"
 PL: "Megafon: &M"
 RU: "Вышка пропаганды: &T"
-AR: "ﻲﻣﻼﻋﻹا جﺮﺒﻟا"
+AR: "&T ﻲﻣﻼﻋﻹا جﺮﺒﻟا"
 UK: "Вежа пропаганди: &T"
 //patch104p-optional-end
 END
@@ -16046,7 +16046,7 @@ ZH: "戰鬥碉堡：&B"
 BP: "Bunker de Combate: &B"
 PL: "Bunkier bojowy: &B"
 RU: "Боевой бункер: &B"
-AR: "ﺔﻛﺮﻌﻤﻟا ﺄﺒﺨﻣ"
+AR: "&B ﺔﻛﺮﻌﻤﻟا ﺄﺒﺨﻣ"
 UK: "Бойовий бункер: &B"
 END
 
@@ -16061,7 +16061,7 @@ ZH: "火焰炸彈：&F"
 BP: "Bomba Incendiária: &I"
 PL: "Bombardowanie: &W"
 RU: "Сбросить бомбу: &F"
-AR: "ﺔﻗﺭﺎﺤﻟا ﺔﻠﺒﻨﻘﻟا"
+AR: "&F ﺔﻗﺭﺎﺤﻟا ﺔﻠﺒﻨﻘﻟا"
 UK: "Запалювальна бомба: &F"
 END
 
@@ -16076,7 +16076,7 @@ ZH: "建築中：%.0f%%"
 BP: "Construindo: %.0f%%"
 PL: "W budowie: %.0f%%"
 RU: "Строительство: %.0f%%"
-AR: "ءﺎﺸﻧﻹا ﺪﯿﻗ: %.0f%%"
+AR: "%.0f%% : ءﺎﺸﻧﻹا ﺪﯿﻗ:"
 UK: "Будівництво: %.0f%%"
 END
 
@@ -16123,7 +16123,7 @@ ZH: "轟炸作戰計畫：&B"
 BP: "Estratégia - Bombardeio: &B"
 PL: "Strategia bombardowania: &B"
 RU: "Боевая стратегия 'Бомбардировка': &B"
-AR: "ﻒﺼﻘﻟا ﺔﻛﺮﻌﻣ ﺔﻄﺧ"
+AR: "&B ﻒﺼﻘﻟا ﺔﻛﺮﻌﻣ ﺔﻄﺧ"
 UK: "Стратегія \"Бомбардування\": &B"
 END
 
@@ -16140,7 +16140,7 @@ ZH: "防禦作戰計畫：&O"
 BP: "Estratégia - Resistir ao Inimigo: &R"
 PL: "Strategia utrzymania pozycji: &O"
 RU: "Боевая стратегия 'Держать позиции': &O"
-AR: "ﺔﻛﺮﻌﻤﻟا ﻰﻠﻋ ةﺮﻄﯿﺴﻟا ﺔﻄﺧ"
+AR: "&O ﺔﻛﺮﻌﻤﻟا ﻰﻠﻋ ةﺮﻄﯿﺴﻟا ﺔﻄﺧ"
 UK: "Стратегія \"Тримати позиції\": &O"
 END
 
@@ -16159,7 +16159,7 @@ ZH: "偵搜消滅計畫：&D"
 BP: "Estratégia - Procurar e Destruir: &D"
 PL: "Strategia wyszukania i zniszczenia: &D"
 RU: "Боевая стратегия 'Найти и уничтожить': &D"
-AR: "ﺮﯿﻣﺪﺘﻟاو ﺚﺤﺒﻟا ﺔﻄﺧ"
+AR: "&D ﺮﯿﻣﺪﺘﻟاو ﺚﺤﺒﻟا ﺔﻄﺧ"
 UK: "Стратегія \"Знайти та знищити\": &D"
 END
 
@@ -16206,7 +16206,7 @@ ZH: "指揮中心：&C"
 BP: "Centro de Comando: &C"
 PL: "Sztab: &Z"
 RU: "Командный центр: &C"
-AR: "ةدﺎﯿﻘﻟا ﺰﻛﺮﻣ"
+AR: "&C ةدﺎﯿﻘﻟا ﺰﻛﺮﻣ"
 UK: "Командний центр: &C"
 END
 
@@ -16221,7 +16221,7 @@ ZH: "冷融合反應爐：&R"
 BP: "Reator de Fusão a Frio: &R"
 PL: "Reaktor zimnej fuzji: &R"
 RU: "Реактор Холодного синтеза: &R"
-AR: "درﺎﺒﻟا رﺎﮫﺼﻧﻹا ﻞﻋﺎﻔﻣ"
+AR: "&R درﺎﺒﻟا رﺎﮫﺼﻧﻹا ﻞﻋﺎﻔﻣ"
 UK: "Реактор холодного синтезу: &R"
 END
 
@@ -16238,7 +16238,7 @@ ZH: "冷融合反應爐：&R"
 BP: "Reator de Fusão a Frio: &R"
 PL: "Reaktor zimnej fuzji: &R"
 RU: "Реактор Холодного синтеза: &R"
-AR: "درﺎﺒﻟا رﺎﮫﺼﻧﻹا ﻞﻋﺎﻔﻣ"
+AR: "&R درﺎﺒﻟا رﺎﮫﺼﻧﻹا ﻞﻋﺎﻔﻣ"
 UK: "Реактор холодного синтезу: &R"
 END
 
@@ -16253,7 +16253,7 @@ ZH: "兵營：&B"
 BP: "Quartel: &L"
 PL: "Koszary: &K"
 RU: "Казарма: &B"
-AR: "ﺔﻳﺮﻜﺴﻋ ﺔﻨﻜﺛ"
+AR: "&B ﺔﻳﺮﻜﺴﻋ ﺔﻨﻜﺛ"
 UK: "Казарми: &B"
 END
 
@@ -16268,7 +16268,7 @@ ZH: "補給中心：&U"
 BP: "Central de Suprimentos: &U"
 PL: "Ośrodek zaopatrzeniowy: &O"
 RU: "Центр снабжения: &U"
-AR: "ﺰﯿﮫﺠﺘﻟا ﺰﻛﺮﻣ"
+AR: "&U ﺰﯿﮫﺠﺘﻟا ﺰﻛﺮﻣ"
 UK: "Центр постачання: &U"
 END
 
@@ -16283,7 +16283,7 @@ ZH: "保全護欄：&F"
 BP: "Cerca de Segurança: &R"
 PL: "Płot ochronny: &P"
 RU: "Защитное ограждение: &F"
-AR: "ﻲﻨﻣﻷا جﺎﯿﺴﻟا"
+AR: "&F ﻲﻨﻣﻷا جﺎﯿﺴﻟا"
 UK: "Захисна стіна: &F"
 END
 
@@ -16298,7 +16298,7 @@ ZH: "戰車工廠：&A"
 BP: "Fábrica de Armamentos: &A"
 PL: "Fabryka wojenna: &A"
 RU: "Военная фабрика: &A"
-AR: "ﻲﺑﺮﺤﻟا ﻊﻨﺼﻤﻟا"
+AR: "&A ﻲﺑﺮﺤﻟا ﻊﻨﺼﻤﻟا"
 UK: "Військовий завод: &A"
 END
 
@@ -16329,7 +16329,7 @@ ZH: "愛國者飛彈系統：&M"
 BP: "Sistema de Mísseis Patriot: &M"
 PL: "System rakietowy Patriot: &T"
 RU: "Ракетный комплекс \"Пэтриот\": &M"
-AR: "تﻮﻳﺮﺗﺎﺑ خورﺎﺻ مﺎﻈﻧ"
+AR: "&M تﻮﻳﺮﺗﺎﺑ خورﺎﺻ مﺎﻈﻧ"
 UK: "Ракетна система Патріот: &M"
 END
 
@@ -16347,7 +16347,7 @@ ZH: "愛國者飛彈系統：&M"
 BP: "Sistema de Mísseis Patriot: &M"
 PL: "System rakietowy Patriot: &T"
 RU: "Ракетный комплекс \"Пэтриот\": &M"
-AR: "تﻮﻳﺮﺗﺎﺑ خورﺎﺻ مﺎﻈﻧ"
+AR: "&M تﻮﻳﺮﺗﺎﺑ خورﺎﺻ مﺎﻈﻧ"
 UK: "Ракетна система Патріот: &M"
 END
 
@@ -16362,7 +16362,7 @@ ZH: "離子砲：&P"
 BP: "Canhão de Partículas: &P"
 PL: "Miotacz cząstek: &M"
 RU: "Молекулярное оружие: &P"
-AR: "يرﺬﻟا ﻊﻓﺪﻤﻟا"
+AR: "&P يرﺬﻟا ﻊﻓﺪﻤﻟا"
 UK: "Гармата часток: &P"
 END
 
@@ -16379,7 +16379,7 @@ ZH: "離子砲：&P"
 BP: "Canhão de Partículas: &P"
 PL: "Miotacz cząstek: &M"
 RU: "Молекулярное оружие: &P"
-AR: "يرﺬﻟا ﻊﻓﺪﻤﻟا"
+AR: "&P يرﺬﻟا ﻊﻓﺪﻤﻟا"
 UK: "Гармата часток: &P"
 END
 
@@ -16396,7 +16396,7 @@ ZH: "戰略中心：&Y"
 BP: "Central de Estratégia: &T"
 PL: "Ośrodek badań strategicznych: &Y"
 RU: "Стратегический центр: &Y"
-AR: "ﻲﺠﯿﺗاﺮﺘﺳﻹا ﺰﻛﺮﻤﻟا"
+AR: "&Y ﻲﺠﯿﺗاﺮﺘﺳﻹا ﺰﻛﺮﻤﻟا"
 UK: "Стратегічний центр: &Y"
 END
 
@@ -16411,7 +16411,7 @@ ZH: "補給空投區：&Z"
 BP: "Zona de Abastecimento Aéreo: &Z"
 PL: "Strefa zrzutu: &U"
 RU: "Зона доставки снабжения: &Z"
-AR: "تاداﺪﻣﻹا لاﺰﻧإ ﺔﻘﻄﻨﻣ"
+AR: "&Z تاداﺪﻣﻹا لاﺰﻧإ ﺔﻘﻄﻨﻣ"
 UK: "Зона скиду постачання: &Z"
 END
 
@@ -16426,7 +16426,7 @@ ZH: "居留營：&D"
 BP: "Campo de Detenção: &D"
 PL: "Obóz internowania: &I"
 RU: "Лагерь заключенных: &D"
-AR: "لﺎﻘﺘﻋﻹا ﺮﻜﺴﻌﻣ"
+AR: "&D لﺎﻘﺘﻋﻹا ﺮﻜﺴﻌﻣ"
 UK: "Табір полонених: &D"
 END
 
@@ -16441,7 +16441,7 @@ ZH: "十字軍坦克：&C"
 BP: "Crusader: &C"
 PL: "Krzyżowiec: &K"
 RU: "Танк Крестоносец: &C"
-AR: "ﺔﯿﺒﯿﻠﺼﻟا ﺔﺑﺎﺑﺪﻟا"
+AR: "&C ﺔﯿﺒﯿﻠﺼﻟا ﺔﺑﺎﺑﺪﻟا"
 UK: "Хрестоносець: &C"
 END
 
@@ -16456,7 +16456,7 @@ ZH: "帕拉丁坦克：&P"
 BP: "Paladin: &L"
 PL: "Paladyn: &P"
 RU: "Танк Паладин: &P"
-AR: "ﺔﻳرﺰﯿﻠﻟا ﺔﻣﺪﻘﺘﻤﻟا ﺔﺑﺎﺑﺪﻟا"
+AR: "&P ﺔﻳرﺰﯿﻠﻟا ﺔﻣﺪﻘﺘﻤﻟا ﺔﺑﺎﺑﺪﻟا"
 UK: "Паладин: &P"
 END
 
@@ -16473,7 +16473,7 @@ ZH: "帕拉丁坦克：&P"
 BP: "Paladin: &L"
 PL: "Paladyn: &P"
 RU: "Танк Паладин: &P"
-AR: "ﺔﻳرﺰﯿﻠﻟا ﺔﻣﺪﻘﺘﻤﻟا ﺔﺑﺎﺑﺪﻟا"
+AR: "&P ﺔﻳرﺰﯿﻠﻟا ﺔﻣﺪﻘﺘﻤﻟا ﺔﺑﺎﺑﺪﻟا"
 UK: "Паладин: &P"
 END
 
@@ -16490,7 +16490,7 @@ ZH: "遊騎兵：&G"
 BP: "Ranger: &G"
 PL: "Ranger: &F"
 RU: "Рейнджер: &G"
-AR: "يﺪﻨﺟ"
+AR: "&G يﺪﻨﺟ"
 UK: "Рейнджер: &G"
 END
 
@@ -16507,7 +16507,7 @@ ZH: "遊騎兵：&G"
 BP: "Ranger: &G"
 PL: "Ranger: &F"
 RU: "Рейнджер: &G"
-AR: "يﺪﻨﺟ"
+AR: "&G يﺪﻨﺟ"
 UK: "Рейнджер: &G"
 END
 
@@ -16524,7 +16524,7 @@ ZH: "撤退：&V"
 BP: "Evacuar: &V"
 PL: "Ewakuacja: &V"
 RU: "Эвакуация: &V"
-AR: "ةﺪﺣﻮﻟا ءﻼﺧإ"
+AR: "&V ةﺪﺣﻮﻟا ءﻼﺧإ"
 UK: "Евакуація: &V"
 END
 
@@ -16569,7 +16569,7 @@ ZH: "指揮中心：&C"
 BP: "Centro de Comando: &C"
 PL: "Sztab: &Z"
 RU: "Командный центр: &C"
-AR: "ﺓﺩﺎﻴﻘﻟا ﺰﻛﺮﻣ"
+AR: "&C ﺓﺩﺎﻴﻘﻟا ﺰﻛﺮﻣ"
 UK: "Командний центр: &C"
 END
 
@@ -16586,7 +16586,7 @@ ZH: "圈套炸彈：&D"
 BP: "Armadilha de Demolição: &R"
 PL: "Pułapka wybuchowa: &W"
 RU: "Ловушка со взрывчаткой: &D"
-AR: "ﻲﺿرﻷا ﻢﻐﻠﻟا"
+AR: "&D ﻲﺿرﻷا ﻢﻐﻠﻟا"
 UK: "Вибухова пастка: &D"
 END
 
@@ -16603,7 +16603,7 @@ ZH: "圈套炸彈：&D"
 BP: "Armadilha de Demolição Tóxica: &R"
 PL: "Pułapka wybuchowa na toksyny: &W"
 RU: "Ловушка со взрывчаткой и токсинами: &D"
-AR: "ﻲﺿرﻷا ﻢﻐﻠﻟا"
+AR: "&D ﻲﺿرﻷا ﻢﻐﻠﻟا"
 UK: "Токсинна вибухова пастка: &D"
 END
 
@@ -16618,7 +16618,7 @@ ZH: "兵營：&B"
 BP: "Quartel: &L"
 PL: "Koszary: &K"
 RU: "Казарма: &B"
-AR: "ﺔﻳﺮﻜﺴﻌﻟا ﺔﻨﻜﺜﻟا"
+AR: "&B ﺔﻳﺮﻜﺴﻌﻟا ﺔﻨﻜﺜﻟا"
 UK: "Казарми: &B"
 END
 
@@ -16633,7 +16633,7 @@ ZH: "補給站：&U"
 BP: "Armazém de Suprimentos: &U"
 PL: "Skład zaopatrzenia: &D"
 RU: "Центр снабжения: &U"
-AR: "ﻲﻔﺨﻤﻟا ﺰﻴﻬﺠﺘﻟا"
+AR: "&U ﻲﻔﺨﻤﻟا ﺰﻴﻬﺠﺘﻟا"
 UK: "Схованка припасів: &U"
 END
 
@@ -16648,7 +16648,7 @@ ZH: "火焰牆：&B"
 BP: "Barricada em Chamas: &B"
 PL: "Płonąca barykada: &B"
 RU: "Горящая баррикада: &B"
-AR: "يرﺎﻨﻟا ﺰﺟﺎﺤﻟا"
+AR: "&B يرﺎﻨﻟا ﺰﺟﺎﺤﻟا"
 UK: "Палаюча барикада: &B"
 END
 
@@ -16663,7 +16663,7 @@ ZH: "軍火商：&A"
 BP: "Negociante de Armas: &A"
 PL: "Handlarz bronią: &A"
 RU: "Продавец оружия: &A"
-AR: "ﺔﺤﻠﺳﻷا ﺮﺠﺘﻣ"
+AR: "&A ﺔﺤﻠﺳﻷا ﺮﺠﺘﻣ"
 UK: "Торговець зброєю: &A"
 END
 
@@ -16678,7 +16678,7 @@ ZH: "指揮中心：&C"
 BP: "Centro de Comando: &C"
 PL: "Sztab: &Z"
 RU: "Командный центр: &C"
-AR: "ةدﺎﯿﻘﻟا ﺰﻛﺮﻣ"
+AR: "&C ةدﺎﯿﻘﻟا ﺰﻛﺮﻣ"
 UK: "Командний центр: &C"
 END
 
@@ -16695,7 +16695,7 @@ ZH: "指揮中心：&C"
 BP: "Centro de Comando: &C"
 PL: "Sztab: &Z"
 RU: "Командный центр: &C"
-AR: "ةدﺎﯿﻘﻟا ﺰﻛﺮﻣ"
+AR: "&C ةدﺎﯿﻘﻟا ﺰﻛﺮﻣ"
 UK: "Командний центр: &C"
 END
 
@@ -16710,7 +16710,7 @@ ZH: "核子反應爐：&R"
 BP: "Reator Nuclear: &R"
 PL: "Reaktor jądrowy: &R"
 RU: "Ядерный реактор: &R"
-AR: "يوﻮﻨﻟا ﻞﻋﺎﻔﻤﻟا"
+AR: "&R يوﻮﻨﻟا ﻞﻋﺎﻔﻤﻟا"
 UK: "Ядерний реактор: &R"
 END
 
@@ -16725,7 +16725,7 @@ ZH: "兵營：&B"
 BP: "Quartel: &L"
 PL: "Koszary: &K"
 RU: "Казарма: &B"
-AR: "ﺔﻳﺮﻜﺴﻌﻟا تﺎﻨﻜﺜﻟا"
+AR: "&B ﺔﻳﺮﻜﺴﻌﻟا تﺎﻨﻜﺜﻟا"
 UK: "Казарми: &B"
 END
 
@@ -16742,7 +16742,7 @@ ZH: "兵營：&B"
 BP: "Quartel: &L"
 PL: "Koszary: &K"
 RU: "Казарма: &B"
-AR: "ﺔﻳﺮﻜﺴﻌﻟا تﺎﻨﻜﺜﻟا"
+AR: "&B ﺔﻳﺮﻜﺴﻌﻟا تﺎﻨﻜﺜﻟا"
 UK: "Казарми: &B"
 END
 
@@ -16758,7 +16758,7 @@ ZH: "補給中心：&U"
 BP: "Central de Suprimentos: &U"
 PL: "Ośrodek zaopatrzeniowy: &O"
 RU: "Центр снабжения: &U"
-AR: "ﺰﯿﮫﺠﺘﻟا ﺰﻛﺮﻣ"
+AR: "&U ﺰﯿﮫﺠﺘﻟا ﺰﻛﺮﻣ"
 UK: "Центр постачання: &U"
 END
 
@@ -16776,7 +16776,7 @@ ZH: "補給中心：&U"
 BP: "Central de Suprimentos: &U"
 PL: "Ośrodek zaopatrzeniowy: &O"
 RU: "Центр снабжения: &U"
-AR: "ﺰﯿﮫﺠﺘﻟا ﺰﻛﺮﻣ"
+AR: "&U ﺰﯿﮫﺠﺘﻟا ﺰﻛﺮﻣ"
 UK: "Центр постачання: &U"
 END
 
@@ -16791,7 +16791,7 @@ ZH: "混凝土牆：&L"
 BP: "Muralha de Concreto: &M"
 PL: "Mur betonowy: &W"
 RU: "Бетонная стена: &W"
-AR: "ﻲﺘﻨﻤﺳﻹا راﺪﺠﻟا"
+AR: "&L ﻲﺘﻨﻤﺳﻹا راﺪﺠﻟا"
 UK: "Бетонна стіна: &L"
 END
 
@@ -16806,7 +16806,7 @@ ZH: "戰車工廠：&A"
 BP: "Fábrica de Armamentos: &A"
 PL: "Fabryka wojenna: &A"
 RU: "Военная фабрика: &A"
-AR: "ﻲﺑﺮﺤﻟا ﻊﻨﺼﻤﻟا"
+AR: "&A ﻲﺑﺮﺤﻟا ﻊﻨﺼﻤﻟا"
 UK: "Військовий завод: &A"
 END
 
@@ -16823,7 +16823,7 @@ ZH: "戰車工廠：&A"
 BP: "Fábrica de Armamentos: &A"
 PL: "Fabryka wojenna: &A"
 RU: "Военная фабрика: &A"
-AR: "ﻲﺑﺮﺤﻟا ﻊﻨﺼﻤﻟا"
+AR: "&A ﻲﺑﺮﺤﻟا ﻊﻨﺼﻤﻟا"
 UK: "Військовий завод: &A"
 END
 
@@ -16838,7 +16838,7 @@ ZH: "建築推土機：&D"
 BP: "Construtor: &C"
 PL: "Buldożer: &D"
 RU: "Строительный бульдозер: &D"
-AR: "ءﺎﻨﺒﻟا ﺔﺑﺮﻋ"
+AR: "&D ءﺎﻨﺒﻟا ﺔﺑﺮﻋ"
 UK: "Бульдозер: &D"
 END
 
@@ -16853,7 +16853,7 @@ ZH: "工人：&K"
 BP: "Trabalhador: &T"
 PL: "Robotnik: &O"
 RU: "Рабочий: &D"
-AR: "ﻞﻣﺎﻌﻟا"
+AR: "&K ﻞﻣﺎﻌﻟا"
 UK: "Робітник: &K"
 END
 
@@ -16868,7 +16868,7 @@ ZH: "建築推土機：&D"
 BP: "Construtor: &C"
 PL: "Buldożer: &D"
 RU: "Строительный бульдозер: &D"
-AR: "ﺔﯿﻛﺮﯿﻣﻷا ءﺎﻨﺒﻟا ﺔﺑﺮﻋ"
+AR: "&D ﺔﯿﻛﺮﯿﻣﻷا ءﺎﻨﺒﻟا ﺔﺑﺮﻋ"
 UK: "Бульдозер: &D"
 END
 
@@ -16885,7 +16885,7 @@ ZH: "建築推土機：&D"
 BP: "Construtor: &C"
 PL: "Buldożer: &D"
 RU: "Строительный бульдозер: &D"
-AR: "ءﺎﻨﺒﻟا ﺔﺑﺮﻋ"
+AR: "&D ءﺎﻨﺒﻟا ﺔﺑﺮﻋ"
 UK: "Бульдозер: &D"
 END
 
@@ -16900,7 +16900,7 @@ ZH: "天蠍坦克：&S"
 BP: "Escorpião: &S"
 PL: "Skorpion: &S"
 RU: "Танк Скорпион: &S"
-AR: "ﺏﺮﻘﻌﻟا"
+AR: "&S ﺏﺮﻘﻌﻟا"
 UK: "Скорпіон: &S"
 END
 
@@ -16917,7 +16917,7 @@ ZH: "掠奪者坦克：&M"
 BP: "Tanque Marauder: &M"
 PL: "Czołg Grabieżca: &M"
 RU: "Танк Мародёр: &M"
-AR: "ﺔﻴﻣﻮﺠﻬﻟا ﺔﺑﺎﺑﺪﻟا"
+AR: "&M ﺔﻴﻣﻮﺠﻬﻟا ﺔﺑﺎﺑﺪﻟا"
 UK: "Танк Мародер: &M"
 END
 
@@ -16934,7 +16934,7 @@ ZH: "火箭吉普車：&B"
 BP: "Buggy Lança-Foguetes: &B"
 PL: "Pojazd rakietowy: &B"
 RU: "Ракетный багги: &B"
-AR: "ﺦﻳﺭاﻮﺼﻟا ﺔﺑﺮﻋ"
+AR: "&B ﺦﻳﺭاﻮﺼﻟا ﺔﺑﺮﻋ"
 UK: "Ракетний баггі: &B"
 END
 
@@ -16951,7 +16951,7 @@ ZH: "火箭吉普車：&B"
 BP: "Buggy Lança-Foguetes: &B"
 PL: "Pojazd rakietowy: &B"
 RU: "Ракетный багги: &B"
-AR: "ﺦﻳﺭاﻮﺼﻟا ﺔﺑﺮﻋ"
+AR: "&B ﺦﻳﺭاﻮﺼﻟا ﺔﺑﺮﻋ"
 UK: "Ракетний баггі: &B"
 END
 
@@ -16968,7 +16968,7 @@ ZH: "雷達車：&V"
 BP: "Furgão Radar: &F"
 PL: "Furgonetka radarowa: &G"
 RU: "Радарный фургон: &V"
-AR: "ﻉﺎﻠﻄﺘﺳﺈﻟا ﺔﺑﺮﻋ"
+AR: "&V ﻉﺎﻠﻄﺘﺳﺈﻟا ﺔﺑﺮﻋ"
 UK: "Радарний фургон: &V"
 END
 
@@ -16983,7 +16983,7 @@ ZH: "炎黃坦克：&O"
 BP: "Overlord: &O"
 PL: "Imperator: &O"
 RU: "Владыка: &O"
-AR: "ﺔﯿﺑﺮﺤﻟا درﻮﻟ ﺮﻓوأ ﺔﺑﺎﺑد"
+AR: "&O ﺔﯿﺑﺮﺤﻟا درﻮﻟ ﺮﻓوأ ﺔﺑﺎﺑد"
 UK: "Повелитель: &O"
 END
 
@@ -17001,7 +17001,7 @@ ZH: "炎黃坦克：&O"
 BP: "Overlord: &O"
 PL: "Imperator: &O"
 RU: "Владыка: &O"
-AR: "ﺔﯿﺑﺮﺤﻟا درﻮﻟ ﺮﻓوأ ﺔﺑﺎﺑد"
+AR: "&O ﺔﯿﺑﺮﺤﻟا درﻮﻟ ﺮﻓوأ ﺔﺑﺎﺑد"
 UK: "Повелитель: &O"
 END
 
@@ -17018,7 +17018,7 @@ ZH: "核炎黃坦克：&O"
 BP: "Overlord nuclear: &O"
 PL: "Imperator nuklearny: &O"
 RU: "Ядерный Владыка: &O"
-AR: "ﺔﯿﺑﺮﺤﻟا درﻮﻟ ﺮﻓوأ ﺔﺑﺎﺑد"
+AR: "&O ﺔﯿﺑﺮﺤﻟا درﻮﻟ ﺮﻓوأ ﺔﺑﺎﺑد"
 UK: "Ядерний Повелитель: &O"
 END
 
@@ -17033,7 +17033,7 @@ ZH: "蓋特坦克：&G"
 BP: "Tanque Gattling: &G"
 PL: "Czołg gattling: &G"
 RU: "Пулеметный танк: &G"
-AR: "شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا ﺔﺑﺎﺑد"
+AR: "&G شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا ﺔﺑﺎﺑد"
 UK: "Танк Гатлінг: &G"
 END
 
@@ -17051,7 +17051,7 @@ ZH: "蓋特坦克：&A"
 BP: "Tanque Gattling: &A"
 PL: "Czołg gattling: &G"
 RU: "Пулеметный танк: &A"
-AR: "شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا ﺔﺑﺎﺑد"
+AR: "&A شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا ﺔﺑﺎﺑد"
 UK: "Танк Гатлінг: &A"
 END
 
@@ -17066,7 +17066,7 @@ ZH: "反抗軍：&B"
 BP: "Rebelde: &B"
 PL: "Buntownik: &B"
 RU: "Повстанец: &B"
-AR: "ﻲﺋاﺪﻓ"
+AR: "&B ﻲﺋاﺪﻓ"
 UK: "Повстанець: &B"
 END
 
@@ -17081,7 +17081,7 @@ ZH: "紅衛兵：&G"
 BP: "Guarda Vermelho: &G"
 PL: "Czerwonogwardzista: &G"
 RU: "Красногвардеец: &G"
-AR: "ﺮﻤﺣﻷا سرﺎﺤﻟا"
+AR: "&G ﺮﻤﺣﻷا سرﺎﺤﻟا"
 UK: "Червоногвардієць: &G"
 END
 
@@ -17096,7 +17096,7 @@ ZH: "運輸直昇機：&C"
 BP: "Chinook: &C"
 PL: "Chinook: &C"
 RU: "Чинук: &C"
-AR: "كﻮﻨﯿﺷ ﺔﻠﻗﺎﻨﻟا"
+AR: "&C كﻮﻨﯿﺷ ﺔﻠﻗﺎﻨﻟا"
 UK: "Чінук: &C"
 END
 
@@ -17111,7 +17111,7 @@ ZH: "補給卡車：&T"
 BP: "Caminhão de Suprimentos: &T"
 PL: "Ciężarówka zaopatrzeniowa: &T"
 RU: "Грузовик снабжения: &T"
-AR: "ﺰﻴﻬﺠﺘﻟا ﺔﻨﺣﺎﺷ"
+AR: "&T ﺰﻴﻬﺠﺘﻟا ﺔﻨﺣﺎﺷ"
 UK: "Вантажівка постачання: &T"
 END
 
@@ -17126,7 +17126,7 @@ ZH: "補給卡車：&T"
 BP: "Caminhão de Suprimentos: &T"
 PL: "Ciężarówka zaopatrzeniowa: &T"
 RU: "Грузовик снабжения: &T"
-AR: "ﺰﯿﮫﺠﺘﻟا ﺔﻨﺣﺎﺷ"
+AR: "&T ﺰﯿﮫﺠﺘﻟا ﺔﻨﺣﺎﺷ"
 UK: "Вантажівка постачання: &T"
 END
 
@@ -17143,7 +17143,7 @@ ZH: "補給卡車：&T"
 BP: "Caminhão de Suprimentos: &T"
 PL: "Ciężarówka zaopatrzeniowa: &T"
 RU: "Грузовик снабжения: &T"
-AR: "ﺰﯿﮫﺠﺘﻟا ﺔﻨﺣﺎﺷ"
+AR: "&T ﺰﯿﮫﺠﺘﻟا ﺔﻨﺣﺎﺷ"
 UK: "Вантажівка постачання: &T"
 END
 
@@ -17160,7 +17160,7 @@ ZH: "猛禽戰機：&T"
 BP: "Raptor: &R"
 PL: "Raptor: &T"
 RU: "Раптор: &T"
-AR: "رﻮﺘﺑار ﺔﻠﺗﺎﻘﻤﻟا"
+AR: "&T رﻮﺘﺑار ﺔﻠﺗﺎﻘﻤﻟا"
 UK: "Раптор: &T"
 END
 
@@ -17175,7 +17175,7 @@ ZH: "曙光轟炸機：&B"
 BP: "Bombardeiro Aurora: &A"
 PL: "Bombowiec Aurora: &A"
 RU: "Бомбардировщик Аврора: &B"
-AR: "اروروأ ﺔﻠﺒﻨﻗ ﺮﺠﻔﻣ"
+AR: "&B اروروأ ﺔﻠﺒﻨﻗ ﺮﺠﻔﻣ"
 UK: "Бомбардувальник Аврора: &B"
 END
 
@@ -17193,7 +17193,7 @@ ZH: "曙光轟炸機：&B"
 BP: "Bombardeiro Aurora: &A"
 PL: "Bombowiec Aurora: &B"
 RU: "Бомбардировщик Аврора: &B"
-AR: "اروروأ ﺔﻠﺒﻨﻗ ﺮﺠﻔﻣ"
+AR: "&B اروروأ ﺔﻠﺒﻨﻗ ﺮﺠﻔﻣ"
 UK: "Бомбардувальник Аврора: &B"
 END
 
@@ -17210,7 +17210,7 @@ ZH: "隱形戰鬥機：&F"
 BP: "Bombardeiro Invisível: &I"
 PL: "Niewykrywalny bombowiec: &M"
 RU: "Истребитель Стелс: &F"
-AR: "ﺔﯿﺑﺮﺤﻟا ﺢﺒﺸﻟا ﺔﻠﺗﺎﻘﻣ"
+AR: "&F ﺔﯿﺑﺮﺤﻟا ﺢﺒﺸﻟا ﺔﻠﺗﺎﻘﻣ"
 UK: "Літак-невидимка: &F"
 END
 
@@ -17240,7 +17240,7 @@ ZH: "卡曼契：&C"
 BP: "Comanche: &C"
 PL: "Comanche: &C"
 RU: "Команч: &C"
-AR: "ﺶﻧﺎﻣﻮﻛ"
+AR: "&C ﺶﻧﺎﻣﻮﻛ"
 UK: "Команч: &C"
 END
 
@@ -17258,7 +17258,7 @@ ZH: "飛彈防禦兵：&M"
 BP: "Lança-Mísseis: &M"
 PL: "Piechota rakietowa: &I"
 RU: "Ракетный защитник: &M"
-AR: "ﻲﺟ ﻲﺑ رأ ﺦﻳراﻮﺻ فذﺎﻗ"
+AR: "&M ﻲﺟ ﻲﺑ رأ ﺦﻳراﻮﺻ فذﺎﻗ"
 UK: "Захисник з ракетницею: &M"
 END
 
@@ -17273,7 +17273,7 @@ ZH: "尖兵：&P"
 BP: "Batedor Avançado: &V"
 PL: "Tropiciel: &P"
 RU: "Следопыт: &P"
-AR: "صﺎﻨﻘﻟا"
+AR: "&P صﺎﻨﻘﻟا"
 UK: "Слідопит: &P"
 END
 
@@ -17290,7 +17290,7 @@ ZH: "尖兵：&P"
 BP: "Batedor Avançado: &V"
 PL: "Tropiciel: &P"
 RU: "Следопыт: &P"
-AR: "صﺎﻨﻘﻟا"
+AR: "&P صﺎﻨﻘﻟا"
 UK: "Слідопит: &P"
 END
 
@@ -17307,7 +17307,7 @@ ZH: "貝頓上校：&N"
 BP: "Coronel Burton: &B"
 PL: "Pułkownik Burton: &B"
 RU: "Полковник Бартон: &N"
-AR: "ﻦﺗﺮﯿﺑ ﺪﯿﻘﻌﻟا"
+AR: "&N ﻦﺗﺮﯿﺑ ﺪﯿﻘﻌﻟا"
 UK: "Полковник Бартон: &N"
 END
 
@@ -17325,7 +17325,7 @@ ZH: "貝頓上校：&N"
 BP: "Coronel Burton: &N"
 PL: "Pułkownik Burton: &B"
 RU: "Полковник Бартон: &N"
-AR: "ﻦﺗﺮﯿﺑ ﺪﯿﻘﻌﻟا"
+AR: "&N ﻦﺗﺮﯿﺑ ﺪﯿﻘﻌﻟا"
 UK: "Полковник Бартон: &N"
 END
 
@@ -17355,7 +17355,7 @@ ZH: "戰斧飛彈：&T"
 BP: "Tomahawk: &T"
 PL: "Tomahawk: &T"
 RU: "Установка Томагавк: &T"
-AR: "كﻮھﺎﻣﻮﺗ"
+AR: "&T كﻮھﺎﻣﻮﺗ"
 UK: "Томагавк: &T"
 END
 
@@ -17372,7 +17372,7 @@ ZH: "戰斧飛彈：&T"
 BP: "Tomahawk: &T"
 PL: "Tomahawk: &T"
 RU: "Установка Томагавк: &T"
-AR: "كﻮھﺎﻣﻮﺗ"
+AR: "&T كﻮھﺎﻣﻮﺗ"
 UK: "Томагавк: &T"
 END
 
@@ -17387,7 +17387,7 @@ ZH: "救護車：&A"
 BP: "Ambulância: &A"
 PL: "Ambulans: &A"
 RU: "Медицинский Хаммер: &A"
-AR: "فﺎﻌﺳﻹا ﺔﺑﺮﻋ"
+AR: "&A فﺎﻌﺳﻹا ﺔﺑﺮﻋ"
 UK: "Швидка допомога: &A"
 END
 
@@ -17402,7 +17402,7 @@ ZH: "汗馬車：&V"
 BP: "Jipe: &J"
 PL: "Humvee: &V"
 RU: "Хаммер: &V"
-AR: "ﺔﻠﺗﺎﻘﻤﻟا ﺔﺑﺮﻌﻟا"
+AR: "&V ﺔﻠﺗﺎﻘﻤﻟا ﺔﺑﺮﻌﻟا"
 UK: "Хаммер: &V"
 END
 
@@ -17417,7 +17417,7 @@ ZH: "攻擊蜂型機：&B"
 BP: "Drone de Combate: &C"
 PL: "Robot bojowy: &B"
 RU: "Боевой беспилотный аппарат: &B"
-AR: "ﺔﺷﺎﺷﺮﻟا ةﺮﺋﺎﻄﻟا"
+AR: "&B ﺔﺷﺎﺷﺮﻟا ةﺮﺋﺎﻄﻟا"
 UK: "Бойовий дрон: &B"
 END
 
@@ -17432,7 +17432,7 @@ ZH: "偵搜蜂型機：&D"
 BP: "Drone de Reconhecimento: &D"
 PL: "Robot zwiadowczy: &D"
 RU: "Разведывательный беспилотный аппарат: &D"
-AR: "ﺔﻓﺎﺸﻜﻟا ةﺮﺋﺎﻄﻟا"
+AR: "&D ﺔﻓﺎﺸﻜﻟا ةﺮﺋﺎﻄﻟا"
 UK: "Дрон розвідник: &D"
 END
 
@@ -17447,7 +17447,7 @@ ZH: "米格機：&G"
 BP: "MiG: &G"
 PL: "MiG: &G"
 RU: "МиГ: &G"
-AR: "ﺔﯿﺑﺮﺤﻟا ﻲﺟ يأ مﻹا ﺔﻠﺗﺎﻘﻣ"
+AR: "&G ﺔﯿﺑﺮﺤﻟا ﻲﺟ يأ مﻹا ﺔﻠﺗﺎﻘﻣ"
 UK: "МіГ: &G"
 END
 
@@ -17464,7 +17464,7 @@ ZH: "核米格機：&G"
 BP: "MiG Nuclear: &G"
 PL: "MiG atomowy: &G"
 RU: "Тактический Ядерный МиГ: &G"
-AR: "ﺔﯿﺑﺮﺤﻟا ﻲﺟ يأ مﻹا ﺔﻠﺗﺎﻘﻣ"
+AR: "&G ﺔﯿﺑﺮﺤﻟا ﻲﺟ يأ مﻹا ﺔﻠﺗﺎﻘﻣ"
 UK: "Ядерний МіГ: &G"
 END
 
@@ -17481,7 +17481,7 @@ ZH: "米格機：&G"
 BP: "MiG: &G"
 PL: "MiG: &G"
 RU: "МиГ: &G"
-AR: "ﺔﯿﺑﺮﺤﻟا ﻲﺟ يأ مﻹا ﺔﻠﺗﺎﻘﻣ"
+AR: "&G ﺔﯿﺑﺮﺤﻟا ﻲﺟ يأ مﻹا ﺔﻠﺗﺎﻘﻣ"
 UK: "МіГ: &G"
 END
 
@@ -17498,7 +17498,7 @@ ZH: "黑蓮花：&B"
 BP: "Black Lotus: &B"
 PL: "Czarny Lotos: &L"
 RU: "Черный Лотос: &B"
-AR: "ءادﻮﺴﻟا ﺲﺗﻮﻠﻟا ةﺎﺘﻓ"
+AR: "&B ءادﻮﺴﻟا ﺲﺗﻮﻠﻟا ةﺎﺘﻓ"
 UK: "Чорний Лотос: &B"
 END
 
@@ -17515,7 +17515,7 @@ ZH: "黑蓮花：&B"
 BP: "Black Lotus: &B"
 PL: "Czarny Lotos: &L"
 RU: "Черный Лотос: &B"
-AR: "ءادﻮﺴﻟا ﺲﺗﻮﻠﻟا ةﺎﺘﻓ"
+AR: "&B ءادﻮﺴﻟا ﺲﺗﻮﻠﻟا ةﺎﺘﻓ"
 UK: "Чорний Лотос: &B"
 END
 
@@ -17530,7 +17530,7 @@ ZH: "坦克獵人：&T"
 BP: "Caçador de Tanques: &T"
 PL: "Tropiciel czołgów: &T"
 RU: "Охотник за танками: &T"
-AR: "تﺎﺑﺎﺑﺪﻟا دﺎﯿﺻ"
+AR: "&T تﺎﺑﺎﺑﺪﻟا دﺎﯿﺻ"
 UK: "Мисливець на танки: &T"
 END
 
@@ -17547,7 +17547,7 @@ ZH: "坦克獵人：&T"
 BP: "Caçador de Tanques: &T"
 PL: "Tropiciel czołgów: &T"
 RU: "Охотник за танками: &T"
-AR: "تﺎﺑﺎﺑﺪﻟا دﺎﯿﺻ"
+AR: "&T تﺎﺑﺎﺑﺪﻟا دﺎﯿﺻ"
 UK: "Мисливець на танки: &T"
 END
 
@@ -17580,7 +17580,7 @@ ZH: "駭客：&A"
 BP: "Hacker: &A"
 PL: "Haker: &A"
 RU: "Хакер: &A"
-AR: "ﺮﺗﻮﯿﺒﻤﻜﻟا ﺺﻟ"
+AR: "&A ﺮﺗﻮﯿﺒﻤﻜﻟا ﺺﻟ"
 UK: "Хакер: &A"
 END
 
@@ -17597,7 +17597,7 @@ ZH: "駭客：&A"
 BP: "Hacker: &A"
 PL: "Haker: &A"
 RU: "Хакер: &A"
-AR: "ﺮﺗﻮﯿﺒﻤﻜﻟا ﺺﻟ"
+AR: "&A ﺮﺗﻮﯿﺒﻤﻜﻟا ﺺﻟ"
 UK: "Хакер: &A"
 END
 
@@ -17612,7 +17612,7 @@ ZH: "碉堡：&K"
 BP: "Bunker: &K"
 PL: "Bunkier: &B"
 RU: "Бункер: &K"
-AR: "ﻲﻋﺎﻓﺪﻟا ﺄﺒﺨﻤﻟا"
+AR: "&K ﻲﻋﺎﻓﺪﻟا ﺄﺒﺨﻤﻟا"
 UK: "Бункер: &K"
 END
 
@@ -17629,7 +17629,7 @@ ZH: "碉堡：&K"
 BP: "Bunker: &K"
 PL: "Bunkier: &B"
 RU: "Бункер: &K"
-AR: "ﻲﻋﺎﻓﺪﻟا ﺄﺒﺨﻤﻟا"
+AR: "&K ﻲﻋﺎﻓﺪﻟا ﺄﺒﺨﻤﻟا"
 UK: "Бункер: &K"
 END
 
@@ -17644,7 +17644,7 @@ ZH: "思想強化中心：&P"
 BP: "Central de Propaganda: &P"
 PL: "Ośrodek propagandowy: &P"
 RU: "Центр пропаганды: &P"
-AR: "ﻲﻣﻼﻋﻹا ﺰﻛﺮﻤﻟا"
+AR: "&P ﻲﻣﻼﻋﻹا ﺰﻛﺮﻤﻟا"
 UK: "Центр пропаганди: &P"
 END
 
@@ -17659,7 +17659,7 @@ ZH: "機場：&F"
 BP: "Base Aérea: &B"
 PL: "Lotnisko: &L"
 RU: "Аэродром: &F"
-AR: "ﻲﺑﺮﺤﻟا رﺎﻄﻤﻟا"
+AR: "&F ﻲﺑﺮﺤﻟا رﺎﻄﻤﻟا"
 UK: "Аеродром: &F"
 END
 
@@ -17676,7 +17676,7 @@ ZH: "機場：&F"
 BP: "Base Aérea: &B"
 PL: "Lotnisko: &L"
 RU: "Аэродром: &F"
-AR: "ﻲﺑﺮﺤﻟا رﺎﻄﻤﻟا"
+AR: "&F ﻲﺑﺮﺤﻟا رﺎﻄﻤﻟا"
 UK: "Аеродром: &F"
 END
 
@@ -17691,7 +17691,7 @@ ZH: "機場：&F"
 BP: "Base Aérea: &B"
 PL: "Lotnisko: &L"
 RU: "Аэродром: &F"
-AR: "رﺎﻄﻤﻟا"
+AR: "&F رﺎﻄﻤﻟا"
 UK: "Аеродном: &F"
 END
 
@@ -17708,7 +17708,7 @@ ZH: "蓋特機砲：&G"
 BP: "Canhão Gattling: &G"
 PL: "Działko Gattling: &G"
 RU: "Пулеметная турель: &G"
-AR: "شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا"
+AR: "&G شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا"
 UK: "Гармата Гатлінг: &G"
 END
 
@@ -17725,7 +17725,7 @@ ZH: "蓋特機砲：&G"
 BP: "Canhão Gattling: &G"
 PL: "Działko Gattling: &G"
 RU: "Пулеметная турель: &G"
-AR: "شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا"
+AR: "&G شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا"
 UK: "Гармата Гатлінг: &G"
 END
 
@@ -17740,7 +17740,7 @@ ZH: "核彈：&M"
 BP: "Míssil Nuclear: &M"
 PL: "Rakieta atomowa: &M"
 RU: "Шахта Ядерной ракеты: &M"
-AR: "يوﻮﻨﻟا خورﺎﺼﻟا"
+AR: "&M يوﻮﻨﻟا خورﺎﺼﻟا"
 UK: "Ядерна ракета: &M"
 END
 
@@ -17759,7 +17759,7 @@ ZH: "核彈：&I"
 BP: "Míssil Nuclear: &N"
 PL: "Rakieta atomowa: &J"
 RU: "Шахта Ядерной ракеты: &I"
-AR: "يوﻮﻨﻟا خورﺎﺼﻟا"
+AR: "&I يوﻮﻨﻟا خورﺎﺼﻟا"
 UK: "Ядерна ракета: &I"
 END
 
@@ -17776,7 +17776,7 @@ ZH: "廣播塔：&T"
 BP: "Torre de Alto-Falantes: &T"
 PL: "Megafon: &F"
 RU: "Вышка пропаганды: &T"
-AR: "ﻲﻋاذﻹا جﺮﺒﻟا"
+AR: "&T ﻲﻋاذﻹا جﺮﺒﻟا"
 UK: "Гучномовець: &T"
 END
 
@@ -17793,7 +17793,7 @@ ZH: "廣播塔：&T"
 BP: "Torre de Alto-Falantes: &T"
 PL: "Megafon: &F"
 RU: "Вышка пропаганды: &T"
-AR: "ﻲﻋاذﻹا جﺮﺒﻟا"
+AR: "&T ﻲﻋاذﻹا جﺮﺒﻟا"
 UK: "Гучномовець: &T"
 END
 
@@ -17808,7 +17808,7 @@ ZH: "地獄火加農砲：&I"
 BP: "Canhão Inferno: &I"
 PL: "Działo piekielne: &I"
 RU: "Самоходное орудие Инферно: &I"
-AR: "ﻲﻤﯿﺤﺠﻟا ﻊﻓﺪﻤﻟا"
+AR: "&I ﻲﻤﯿﺤﺠﻟا ﻊﻓﺪﻤﻟا"
 UK: "Гармата Інферно: &I"
 END
 
@@ -17825,7 +17825,7 @@ ZH: "核子加農砲：&U"
 BP: "Canhão Nuclear: &U"
 PL: "Działo atomowe: &A"
 RU: "Самоходное Ядерное орудие: &U"
-AR: "يوﻮﻨﻟا ﻊﻓﺪﻤﻟا"
+AR: "&U يوﻮﻨﻟا ﻊﻓﺪﻤﻟا"
 UK: "Ядерна гармата: &U"
 END
 
@@ -17842,7 +17842,7 @@ ZH: "運兵車：&T"
 BP: "Transporte Vermelho: &T"
 PL: "Transporter opancerzony: &T"
 RU: "Бронетранспортёр: &T"
-AR: "ﺔﻔﺣاﺰﻟا ﺔﻳﺮﻜﺴﻌﻟا قﺮﻔﻟا"
+AR: "&T ﺔﻔﺣاﺰﻟا ﺔﻳﺮﻜﺴﻌﻟا قﺮﻔﻟا"
 UK: "БТР: &T"
 END
 
@@ -17873,7 +17873,7 @@ ZH: "火龍坦克：&D"
 BP: "Tanque Dragon: &D"
 PL: "Czołg Smok: &K"
 RU: "Танк Дракон: &D"
-AR: "ﺔﯿﺑﺮﺤﻟا ﻦﯿﻨﺘﻟا ﺔﺑﺎﺑد"
+AR: "&D ﺔﯿﺑﺮﺤﻟا ﻦﯿﻨﺘﻟا ﺔﺑﺎﺑد"
 UK: "Танк Дракон: &D"
 END
 
@@ -17890,7 +17890,7 @@ ZH: "火龍坦克：&D"
 BP: "Tanque Dragon: &D"
 PL: "Czołg Smok: &K"
 RU: "Танк Дракон: &D"
-AR: "ﺔﯿﺑﺮﺤﻟا ﻦﯿﻨﺘﻟا ﺔﺑﺎﺑد"
+AR: "&D ﺔﯿﺑﺮﺤﻟا ﻦﯿﻨﺘﻟا ﺔﺑﺎﺑد"
 UK: "Танк Дракон: &D"
 END
 
@@ -17924,7 +17924,7 @@ ZH: "恐怖份子：&T"
 BP: "Terrorista: &T"
 PL: "Terrorysta: &T"
 RU: "Террорист: &T"
-AR: "يدﺎﮫﺸﺘﺳﻹا"
+AR: "&T يدﺎﮫﺸﺘﺳﻹا"
 UK: "Терорист: &T"
 END
 
@@ -17939,7 +17939,7 @@ ZH: "火箭兵：&G"
 BP: "Rebelde c/ RPG: &G"
 PL: "Żołnierz z bazuką: &O"
 RU: "Гранатометчик: &G"
-AR: "RPG ـﻟا فذﺎﻗ ﻮﻀﻋ"
+AR: "&G RPG  ـﻟا فذﺎﻗ ﻮﻀﻋ"
 UK: "Солдат з РПГ: &G"
 END
 
@@ -17956,7 +17956,7 @@ ZH: "地道網路系統：&N"
 BP: "Rede de Túneis: &I"
 PL: "Sieć tuneli: &N"
 RU: "Сеть туннелей: &N"
-AR: "ﺔﯿﺿرﻷا قﺎﻔﻧﻷا ﺔﻜﺒﺷ"
+AR: "&N ﺔﯿﺿرﻷا قﺎﻔﻧﻷا ﺔﻜﺒﺷ"
 UK: "Мережа тунелів: &N"
 END
 
@@ -17973,7 +17973,7 @@ ZH: "地道網路系統：&N"
 BP: "Rede de Túneis: &I"
 PL: "Sieć tuneli: &N"
 RU: "Сеть туннелей: &N"
-AR: "ﺔﯿﺿرﻷا قﺎﻔﻧﻷا ﺔﻜﺒﺷ"
+AR: "&N ﺔﯿﺿرﻷا قﺎﻔﻧﻷا ﺔﻜﺒﺷ"
 UK: "Мережа тунелів: &N"
 END
 
@@ -17988,7 +17988,7 @@ ZH: "皇宮：&P"
 BP: "Palácio: &P"
 PL: "Pałac: &P"
 RU: "Дворец: &P"
-AR: "ﺮﺼﻘﻟا"
+AR: "&P ﺮﺼﻘﻟا"
 UK: "Палац: &P"
 END
 
@@ -18003,7 +18003,7 @@ ZH: "黑市：&M"
 BP: "Mercado Negro: &M"
 PL: "Czarny rynek: &R"
 RU: "Чёрный рынок: &M"
-AR: "ءادﻮﺴﻟا قﻮﺴﻟا"
+AR: "&M ءادﻮﺴﻟا قﻮﺴﻟا"
 UK: "Чорний ринок: &M"
 END
 
@@ -18020,7 +18020,7 @@ ZH: "針刺飛彈陣地：&T"
 BP: "Bateria Stinger: &T"
 PL: "Wyrzutnia Stingerów: &T"
 RU: "Гнездо стингеров: &T"
-AR: "ةدﺎﻀﻤﻟا ﺔﯿﻋﺎﻓﺪﻟا ةﺪﺣﻮﻟا"
+AR: "&T ةدﺎﻀﻤﻟا ﺔﯿﻋﺎﻓﺪﻟا ةﺪﺣﻮﻟا"
 UK: "Позиція Стінгер: &T"
 END
 
@@ -18039,7 +18039,7 @@ ZH: "生化死雨風暴：&O"
 BP: "Tempestade SCUD: &D"
 PL: "Deszcz SCUD-ów: &C"
 RU: "Залповая установка СКАД: &O"
-AR: "دﻮﻜﺳ ﺦﻳراﻮﺻ"
+AR: "&O دﻮﻜﺳ ﺦﻳراﻮﺻ"
 UK: "СКАД Шторм: &O"
 END
 
@@ -18056,7 +18056,7 @@ ZH: "生化死雨風暴：&O"
 BP: "Tempestade SCUD: &D"
 PL: "Deszcz SCUD-ów: &C"
 RU: "Залповая установка СКАД: &O"
-AR: "دﻮﻜﺳ ﺦﻳراﻮﺻ"
+AR: "&O دﻮﻜﺳ ﺦﻳراﻮﺻ"
 UK: "СКАД Шторм: &O"
 END
 
@@ -18071,7 +18071,7 @@ ZH: "監獄：&R"
 BP: "Prisão: &R"
 PL: "Więzienie: &W"
 RU: "Тюрьма: &R"
-AR: "ﻦﺠﺴﻟا"
+AR: "&R ﻦﺠﺴﻟا"
 UK: "В'язниця: &R"
 END
 
@@ -18086,7 +18086,7 @@ ZH: "毒素車：&A"
 BP: "Trator Tóxico: &A"
 PL: "Ciągnik z toksyną: &Y"
 RU: "Токсиновый трактор: &A"
-AR: "ﻡﺎﺴﻟا ﺭاﺮﺠﻟا"
+AR: "&A ﻡﺎﺴﻟا ﺭاﺮﺠﻟا"
 UK: "Токсиновий трактор: &A"
 END
 
@@ -18103,7 +18103,7 @@ ZH: "戰神坦克：&B"
 BP: "Battlemaster: &B"
 PL: "Pancerna Pięść: &P"
 RU: "Мастер боя: &B"
-AR: "ﺔﻛﺮﻌﻤﻟا ﺪﯿﺳ ةﺎﺑﺎﺑد"
+AR: "&B ﺔﻛﺮﻌﻤﻟا ﺪﯿﺳ ةﺎﺑﺎﺑد"
 UK: "Майстер Битви: &B"
 END
 
@@ -18120,7 +18120,7 @@ ZH: "核戰神坦克：&B"
 BP: "Battlemaster nuclear: &B"
 PL: "Pancerna Pięść nuklearny: &P"
 RU: "Ядерный Мастер боя: &B"
-AR: "ﺔﻛﺮﻌﻤﻟا ﺪﯿﺳ ةﺎﺑﺎﺑد"
+AR: "&B ﺔﻛﺮﻌﻤﻟا ﺪﯿﺳ ةﺎﺑﺎﺑد"
 UK: "Ядерний Майстер Битви: &B"
 END
 
@@ -18135,7 +18135,7 @@ ZH: "衝鋒車：&T"
 BP: "Técnico: &T"
 PL: "Pick-up: &P"
 RU: "Техничка: &T"
-AR: "ﺔﻠﺗﺎﻘﻤﻟا ﺓﺭﺎﻴﺴﻟا"
+AR: "&T ﺔﻠﺗﺎﻘﻤﻟا ﺓﺭﺎﻴﺴﻟا"
 UK: "Технічка: &T"
 END
 
@@ -18152,7 +18152,7 @@ ZH: "劫持犯：&I"
 BP: "Sequestrador: &D"
 PL: "Porywacz: &P"
 RU: "Угонщик: &I"
-AR: "ﻒﻄﺘﺨﻤﻟا"
+AR: "&I ﻒﻄﺘﺨﻤﻟا"
 UK: "Викрадач: &I"
 END
 
@@ -18167,7 +18167,7 @@ ZH: "賈曼卡爾：&J"
 BP: "Jarmen Kell: &J"
 PL: "Jarmen Kell: &J"
 RU: "Джармен Келл: &J"
-AR: "ﻦﯿﻣرﺎﺟ ﻞﺗﺎﻘﻟا"
+AR: "&J ﻦﯿﻣرﺎﺟ ﻞﺗﺎﻘﻟا"
 UK: "Джармен Келл: &J"
 END
 
@@ -18184,7 +18184,7 @@ ZH: "炸藥賈曼卡爾：&J"
 BP: "Jarmen Kell de Demolição: &J"
 PL: "Jarmen Kell demolka: &J"
 RU: "Джармен Келл со взрывчаткой: &J"
-AR: "ﻦﯿﻣرﺎﺟ ﻞﺗﺎﻘﻟا"
+AR: "&J ﻦﯿﻣرﺎﺟ ﻞﺗﺎﻘﻟا"
 UK: "Підривний Джармен Келл: &J"
 END
 
@@ -18201,7 +18201,7 @@ ZH: "賈曼卡爾：&J"
 BP: "Jarmen Kell: &J"
 PL: "Jarmen Kell: &J"
 RU: "Джармен Келл: &J"
-AR: "ﻦﯿﻣرﺎﺟ ﻞﺗﺎﻘﻟا"
+AR: "&J ﻦﯿﻣرﺎﺟ ﻞﺗﺎﻘﻟا"
 UK: "Джармен Келл: &J"
 END
 
@@ -18219,7 +18219,7 @@ ZH: "狂暴暴民：&Y"
 BP: "Multidão Revoltada: &Y"
 PL: "Wściekły tłum: &W"
 RU: "Разъяренная толпа: &Y"
-AR: "راﻮﺜﻟا"
+AR: "&Y راﻮﺜﻟا"
 UK: "Розлючений натовп: &Y"
 END
 
@@ -18236,7 +18236,7 @@ ZH: "狂暴暴民：&Y"
 BP: "Multidão Revoltada: &Y"
 PL: "Wściekły tłum: &W"
 RU: "Разъяренная толпа: &Y"
-AR: "راﻮﺜﻟا"
+AR: "&Y راﻮﺜﻟا"
 UK: "Розлючений натовп: &Y"
 END
 
@@ -18251,7 +18251,7 @@ ZH: "四管加農砲：&U"
 BP: "Canhão Quádruplo: &U"
 PL: "Działko czterolufowe: &U"
 RU: "Самоходная зенитка: &U"
-AR: "ﺔﺣﺎﺴﻟا ﻊﻓﺪﻣ"
+AR: "&U ﺔﺣﺎﺴﻟا ﻊﻓﺪﻣ"
 UK: "Четверна Гармата: &U"
 END
 
@@ -18266,7 +18266,7 @@ ZH: "炸彈卡車：&O"
 BP: "Caminhão Bomba: &O"
 PL: "Ciężarówka z bombą: &O"
 RU: "Грузовик со взрывчаткой: &O"
-AR: "ﻞﺑﺎﻨﻘﻟا ﺔﻨﺣﺎﺷ"
+AR: "&O ﻞﺑﺎﻨﻘﻟا ﺔﻨﺣﺎﺷ"
 UK: "Вантажівка з вибухівкою: &O"
 END
 
@@ -18281,7 +18281,7 @@ ZH: "生化飛彈發射車：&L"
 BP: "Lançador SCUD: &L"
 PL: "Wyrzutnia SCUD-ów: &W"
 RU: "Пусковая установка СКАД: &L"
-AR: "ﺩﻮﻜﺳ ﺦﻳﺭاﻮﺻ ﺔﻓﺫﺎﻗ"
+AR: "&L ﺩﻮﻜﺳ ﺦﻳﺭاﻮﺻ ﺔﻓﺫﺎﻗ"
 UK: "Пускова установка СКАД: &L"
 END
 
@@ -18298,7 +18298,7 @@ ZH: "高等訓練：&A"
 BP: "Treinamento Avançado: &A"
 PL: "Zaawansowany trening: &A"
 RU: "Продвинутое обучение: &A"
-AR: "مﺪﻘﺘﻤﻟا ﺐﻳرﺪﺘﻟا"
+AR: "&A مﺪﻘﺘﻤﻟا ﺐﻳرﺪﺘﻟا"
 UK: "Покращене тренування: &A"
 END
 
@@ -18315,7 +18315,7 @@ ZH: "高等訓練：&A"
 BP: "Treinamento Avançado: &A"
 PL: "Zaawansowany trening: &A"
 RU: "Продвинутое обучение: &A"
-AR: "مﺪﻘﺘﻤﻟا ﺐﻳرﺪﺘﻟا"
+AR: "&A مﺪﻘﺘﻤﻟا ﺐﻳرﺪﺘﻟا"
 UK: "Покращене тренування: &A"
 END
 
@@ -18330,7 +18330,7 @@ ZH: "蜂型機裝甲：&R"
 BP: "Blindagem Drone: &N"
 PL: "Pancerz robota: &R"
 RU: "Улучшение Брони беспилотных аппаратов: &R"
-AR: "رﺎﯿﻃ نوﺪﺑ تاﺮﺋﺎﻄﻟا عرد"
+AR: "&R رﺎﯿﻃ نوﺪﺑ تاﺮﺋﺎﻄﻟا عرد"
 UK: "Броня дронів: &R"
 END
 
@@ -18348,7 +18348,7 @@ ZH: "蜂型機裝甲：&R"
 BP: "Blindagem Drone: &R"
 PL: "Pancerz robota: &R"
 RU: "Улучшение Брони беспилотных аппаратов: &R"
-AR: "رﺎﯿﻃ نوﺪﺑ تاﺮﺋﺎﻄﻟا عرد"
+AR: "&R رﺎﯿﻃ نوﺪﺑ تاﺮﺋﺎﻄﻟا عرد"
 UK: "Броня дронів: &R"
 END
 
@@ -18366,7 +18366,7 @@ ZH: "埋放地雷：&L"
 BP: "Campo Minado: &M"
 PL: "Miny: &M"
 RU: "Заминировать: &M"
-AR: "ﺔﯿﺿرﻷا مﺎﻐﻟﻷا"
+AR: "&L ﺔﯿﺿرﻷا مﺎﻐﻟﻷا"
 UK: "Міни: &L"
 //patch104p-core-end
 //patch104p-optional-begin
@@ -18380,7 +18380,7 @@ ZH: "埋放地雷：&M"
 BP: "Campo Minado: &M"
 PL: "Miny: &M"
 RU: "Заминировать: &M"
-AR: "ﺔﯿﺿرﻷا مﺎﻐﻟﻷا"
+AR: "&M ﺔﯿﺿرﻷا مﺎﻐﻟﻷا"
 UK: "Міни: &M"
 //patch104p-optional-end
 END
@@ -18399,7 +18399,7 @@ ZH: "埋放地雷：&M"
 BP: "Campo Minado: &M"
 PL: "Miny: &M"
 RU: "Заминировать: &M"
-AR: "ﺔﯿﺿرﻷا مﺎﻐﻟﻷا"
+AR: "&M ﺔﯿﺿرﻷا مﺎﻐﻟﻷا"
 UK: "Міни: &M"
 END
 
@@ -18414,7 +18414,7 @@ ZH: "雷達：&R"
 BP: "Radar: &R"
 PL: "Radar: &R"
 RU: "Радар: &R"
-AR: "راداﺮﻟا"
+AR: "&R راداﺮﻟا"
 UK: "Радар: &R"
 END
 
@@ -18429,7 +18429,7 @@ ZH: "偵搜蜂型機：&C"
 BP: "Drones de Reconhecimento: &C"
 PL: "Roboty zwiadowcze: &C"
 RU: "Разведывательные беспилотные аппараты: &C"
-AR: "ﺔﻓﺎﺸﻜﻟا تاﺮﺋﺎﻄﻟا"
+AR: "&C ﺔﻓﺎﺸﻜﻟا تاﺮﺋﺎﻄﻟا"
 UK: "Дрони-розвідники: &C"
 END
 
@@ -18446,7 +18446,7 @@ ZH: "核能控制棒：&C"
 BP: "Barras de Controle: &C"
 PL: "Pręty sterujące: &C"
 RU: "Стержни управления: &C"
-AR: "ﺔﻗﺎﻄﻟا ىﻮﺘﺴﻣ ﻊﻓر"
+AR: "&C ﺔﻗﺎﻄﻟا ىﻮﺘﺴﻣ ﻊﻓر"
 UK: "Регулюючі стрижні: &C"
 END
 
@@ -18461,7 +18461,7 @@ ZH: "雷射飛彈：&L"
 BP: "Sistema de Mira Laser: &L"
 PL: "Pociski laserowe: &L"
 RU: "Ракеты с лазерным наведением: &L"
-AR: "رﺰﯿﻠﻟا ﻒﺋاﺬﻗ"
+AR: "&L رﺰﯿﻠﻟا ﻒﺋاﺬﻗ"
 UK: "Ракети з лазерним наведенням: &L"
 END
 
@@ -18478,7 +18478,7 @@ ZH: "雷射飛彈：&L"
 BP: "Sistema de Mira Laser: &L"
 PL: "Pociski laserowe: &L"
 RU: "Ракеты с лазерным наведением: &L"
-AR: "رﺰﯿﻠﻟا ﻒﺋاﺬﻗ"
+AR: "&L رﺰﯿﻠﻟا ﻒﺋاﺬﻗ"
 UK: "Ракети з лазерним наведенням: &L"
 END
 
@@ -18493,7 +18493,7 @@ ZH: "額外燃料：&F"
 BP: "Combustível Extra: &E"
 PL: "Dodatkowe paliwo: &P"
 RU: "Дополнительное горючие: &F"
-AR: "ﻲﻓﺎﺿﻹا دﻮﻗﻮﻟا"
+AR: "&F ﻲﻓﺎﺿﻹا دﻮﻗﻮﻟا"
 UK: "Додаткове паливо: &F"
 END
 
@@ -18510,7 +18510,7 @@ ZH: "閃光彈：&F"
 BP: "Granadas Flash Bang: &F"
 PL: "Granaty oślepiające: &G"
 RU: "Светошумовые гранаты: &F"
-AR: "ﺔﯿﺋﻮﻀﻟا ﻞﺑﺎﻨﻘﻟا"
+AR: "&F ﺔﯿﺋﻮﻀﻟا ﻞﺑﺎﻨﻘﻟا"
 UK: "Світлошумові гранати: &F"
 END
 
@@ -18527,7 +18527,7 @@ ZH: "閃光彈：&F"
 BP: "Granadas Flash Bang: &F"
 PL: "Granaty oślepiające: &G"
 RU: "Светошумовые гранаты: &F"
-AR: "ﺔﯿﺋﻮﻀﻟا ﻞﺑﺎﻨﻘﻟا"
+AR: "&F ﺔﯿﺋﻮﻀﻟا ﻞﺑﺎﻨﻘﻟا"
 UK: "Світлошумові гранати: &F"
 END
 
@@ -18544,7 +18544,7 @@ ZH: "複合式裝甲：&P"
 BP: "Blindagem Composta: &P"
 PL: "Pancerz kompozytowy: &P"
 RU: "Композитная броня: &P"
-AR: "ﺐﻛﺮﻤﻟا عرﺪﻟا"
+AR: "&P ﺐﻛﺮﻤﻟا عرﺪﻟا"
 UK: "Композитна броня: &P"
 END
 
@@ -18562,7 +18562,7 @@ ZH: "複合式裝甲：&C"
 BP: "Blindagem Composta: &C"
 PL: "Pancerz kompozytowy: &P"
 RU: "Композитная броня: &C"
-AR: "ﺐﻛﺮﻤﻟا عرﺪﻟا"
+AR: "&C ﺐﻛﺮﻤﻟا عرﺪﻟا"
 UK: "Композитна броня: &C"
 END
 
@@ -18577,7 +18577,7 @@ ZH: "巡航飛彈：&M"
 BP: "Mísseis Cruise: &M"
 PL: "Pociski samosterujące: &M"
 RU: "Управление траекторией ракет: &M"
-AR: "زوﺮﻛ ﺦﻳراﻮﺻ"
+AR: "&M زوﺮﻛ ﺦﻳراﻮﺻ"
 UK: "Крилаті ракети: &M"
 END
 
@@ -18609,7 +18609,7 @@ ZH: "托式飛彈：&I"
 BP: "Míssil TOW: &W"
 PL: "Pocisk TOW: &I"
 RU: "Ракета ТОУ: &I"
-AR: "TOW ﺔﻔﻳﺬﻗ"
+AR: "&I TOW ﺔﻔﻳﺬﻗ"
 UK: "Ракети ТОУ: &I"
 END
 
@@ -18624,7 +18624,7 @@ ZH: "火箭發射匣：&P"
 BP: "Pods de Foguetes: &F"
 PL: "Zasobniki rakietowe: &Z"
 RU: "Навесные ракеты: &P"
-AR: "ﺔﯿﺧورﺎﺻ تﺎﻔﻨﻋز"
+AR: "&P ﺔﯿﺧورﺎﺻ تﺎﻔﻨﻋز"
 UK: "Ракетні блоки: &P"
 END
 
@@ -18655,7 +18655,7 @@ ZH: "雷達：&A"
 BP: "Radar: &A"
 PL: "Radar: &A"
 RU: "Радар: &A"
-AR: "راداﺮﻟا"
+AR: "&A راداﺮﻟا"
 UK: "Радар: &A"
 END
 
@@ -18672,7 +18672,7 @@ ZH: "雷達：&A"
 BP: "Radar: &A"
 PL: "Radar: &A"
 RU: "Радар: &A"
-AR: "راداﺮﻟا"
+AR: "&A راداﺮﻟا"
 UK: "Радар: &A"
 END
 
@@ -18687,7 +18687,7 @@ ZH: "民族精神：&N"
 BP: "Nacionalismo: &N"
 PL: "Nacjonalizm: &N"
 RU: "Национализм: &N"
-AR: "ﺔﯿﻣﻮﻘﻟا"
+AR: "&N ﺔﯿﻣﻮﻘﻟا"
 UK: "Націоналізм: &N"
 END
 
@@ -18704,7 +18704,7 @@ ZH: "民族精神：&N"
 BP: "Nacionalismo: &N"
 PL: "Nacjonalizm: &N"
 RU: "Национализм: &N"
-AR: "ﺔﯿﻣﻮﻘﻟا"
+AR: "&N ﺔﯿﻣﻮﻘﻟا"
 UK: "Націоналізм: &N"
 END
 
@@ -18719,7 +18719,7 @@ ZH: "反坦克手榴彈：&A"
 BP: "Granadas Antitanque: &A"
 PL: "Granaty przeciwczołgowe: &A"
 RU: "Противотанковые гранаты: &A"
-AR: "تﺎﺑﺎﺑﺪﻠﻟ ةدﺎﻀﻤﻟا ﻞﺑﺎﻨﻘﻟا"
+AR: "&A تﺎﺑﺎﺑﺪﻠﻟ ةدﺎﻀﻤﻟا ﻞﺑﺎﻨﻘﻟا"
 UK: "Протитанкові гранати: &A"
 END
 
@@ -18734,7 +18734,7 @@ ZH: "劫持載具：&V"
 BP: "Invasão de Veículos: &V"
 PL: "Hakowanie pojazdu: &P"
 RU: "Обезвредить технику: &V"
-AR: "ﺔﺑﺮﻌﻟا رﺎﺠﺌﺘﺳإ"
+AR: "&V ﺔﺑﺮﻌﻟا رﺎﺠﺌﺘﺳإ"
 UK: "Злам техніки: &V"
 END
 
@@ -18749,7 +18749,7 @@ ZH: "紅外線護目鏡：&I"
 BP: "Óculos Infravermelhos: &I"
 PL: "Gogle termowizyjne: &I"
 RU: "ИК-очки: &I"
-AR: "ﺔﯿﻗاﻮﻟا IR تارﺎﻈﻧ"
+AR: "&I ﺔﯿﻗاﻮﻟا IR تارﺎﻈﻧ"
 UK: "ІЧ окуляри: &I"
 END
 
@@ -18766,7 +18766,7 @@ ZH: "黑色汽油彈：&N"
 BP: "Napalm Negro: &N"
 PL: "Czarny napalm: &N"
 RU: "Чёрный напалм: &N"
-AR: "دﻮﺳﻷا ﻢﻟﺎﺑﺎﻨﻟا"
+AR: "&N دﻮﺳﻷا ﻢﻟﺎﺑﺎﻨﻟا"
 UK: "Чорний напалм: &N"
 END
 
@@ -18783,7 +18783,7 @@ ZH: "黑色汽油彈：&N"
 BP: "Napalm Negro: &N"
 PL: "Czarny napalm: &N"
 RU: "Чёрный напалм: &N"
-AR: "دﻮﺳﻷا ﻢﻟﺎﺑﺎﻨﻟا"
+AR: "&N دﻮﺳﻷا ﻢﻟﺎﺑﺎﻨﻟا"
 UK: "Чорний напалм: &N"
 END
 
@@ -18798,7 +18798,7 @@ ZH: "鍊砲：&C"
 BP: "Correia de Balas: &C"
 PL: "CKM-y: &C"
 RU: "Цепные пулеметы: &C"
-AR: "ةﺪﯿﻘﻤﻟا ﺔﺤﻠﺳﻷا"
+AR: "&C ةﺪﯿﻘﻤﻟا ﺔﺤﻠﺳﻷا"
 UK: "Ланцюгові гармати: &C"
 END
 
@@ -18815,7 +18815,7 @@ ZH: "鍊砲：&C"
 BP: "Correia de Balas: &C"
 PL: "CKM-y: &C"
 RU: "Цепные пулеметы: &C"
-AR: "ةﺪﯿﻘﻤﻟا ﺔﺤﻠﺳﻷا"
+AR: "&C ةﺪﯿﻘﻤﻟا ﺔﺤﻠﺳﻷا"
 UK: "Ланцюгові гармати: &C"
 END
 
@@ -18832,7 +18832,7 @@ ZH: "潛意識訊息：&B"
 BP: "Mensagens Subliminares: &B"
 PL: "Oddziaływanie podprogowe: &P"
 RU: "Подсознательное вещание: &B"
-AR: "يرﺎﻌﺸﺘﺳإ ﻼﻟا لﺎﺳرﻹا"
+AR: "&B يرﺎﻌﺸﺘﺳإ ﻼﻟا لﺎﺳرﻹا"
 UK: "Підсвідомі повідомлення: &B"
 END
 
@@ -18849,7 +18849,7 @@ ZH: "潛意識訊息：&B"
 BP: "Mensagens Subliminares: &B"
 PL: "Oddziaływanie podprogowe: &P"
 RU: "Подсознательное вещание: &B"
-AR: "يرﺎﻌﺸﺘﺳإ ﻼﻟا لﺎﺳرﻹا"
+AR: "&B يرﺎﻌﺸﺘﺳإ ﻼﻟا لﺎﺳرﻹا"
 UK: "Підсвідомі повідомлення: &B"
 END
 
@@ -18864,7 +18864,7 @@ ZH: "鈾殼：&U"
 BP: "Munição Radioativa: &U"
 PL: "Pociski uranowe: &U"
 RU: "Урановые снаряды: &U"
-AR: "مﻮﯿﻧارﻮﻳ ﻒﺋاﺬﻗ"
+AR: "&U مﻮﯿﻧارﻮﻳ ﻒﺋاﺬﻗ"
 UK: "Уранові снаряди: &U"
 END
 
@@ -18881,7 +18881,7 @@ ZH: "鈾殼：&U"
 BP: "Munição Radioativa: &U"
 PL: "Pociski uranowe: &U"
 RU: "Урановые снаряды: &U"
-AR: "مﻮﯿﻧارﻮﻳ ﻒﺋاﺬﻗ"
+AR: "&U مﻮﯿﻧارﻮﻳ ﻒﺋاﺬﻗ"
 UK: "Уранові снаряди: &U"
 END
 
@@ -18898,7 +18898,7 @@ ZH: "核子坦克：&T"
 BP: "Tanques Nucleares: &T"
 PL: "Czołgi atomowe: &C"
 RU: "Ядерная силовая установка: &T"
-AR: "ﺔﻳوﻮﻨﻟا تﺎﺑﺎﺑﺪﻟا"
+AR: "&T ﺔﻳوﻮﻨﻟا تﺎﺑﺎﺑﺪﻟا"
 UK: "Ядерні танки: &T"
 END
 
@@ -18915,7 +18915,7 @@ ZH: "核子坦克：&T"
 BP: "Tanques Nucleares: &T"
 PL: "Czołgi atomowe: &C"
 RU: "Ядерная силовая установка: &T"
-AR: "ﺔﻳوﻮﻨﻟا تﺎﺑﺎﺑﺪﻟا"
+AR: "&T ﺔﻳوﻮﻨﻟا تﺎﺑﺎﺑﺪﻟا"
 UK: "Ядерні танки: &T"
 END
 
@@ -18930,7 +18930,7 @@ ZH: "昏迷彈：&B"
 BP: "Balas de Borracha: &B"
 PL: "Pociski ogłuszające: &O"
 RU: "Оглушающие пули: &B"
-AR: "ﻞھﺬﻤﻟا صﺎﺻﺮﻟا"
+AR: "B& ﻞھﺬﻤﻟا صﺎﺻﺮﻟا"
 UK: "Оглушаючі кулі: &B"
 END
 
@@ -18945,7 +18945,7 @@ ZH: "雷達：&R"
 BP: "Radar: &R"
 PL: "Radar: &R"
 RU: "Радар: &R"
-AR: "راداﺮﻟا"
+AR: "&R راداﺮﻟا"
 UK: "Радар: &R"
 END
 
@@ -18962,7 +18962,7 @@ ZH: "雷達掃瞄：&C"
 BP: "Varredura de Radar: &V"
 PL: "Skan radarowy: &D"
 RU: "Сканирование радаром: &C"
-AR: "راداﺮﻟﺎﺑ ﺺﺤﻓ"
+AR: "&C راداﺮﻟﺎﺑ ﺺﺤﻓ"
 UK: "Радарне сканування: &C"
 END
 
@@ -18977,7 +18977,7 @@ ZH: "天蠍坦克火箭：&K"
 BP: "Foguete Escorpião: &G"
 PL: "Rakieta Skorpion: &K"
 RU: "Ракета для Скорпиона: &K"
-AR: "ﺏﺮﻘﻌﻟا ﺥﻭﺭﺎﺻ"
+AR: "&K ﺏﺮﻘﻌﻟا ﺥﻭﺭﺎﺻ"
 UK: "Ракети для Скорпіона: &K"
 END
 
@@ -18995,7 +18995,7 @@ ZH: "吉普車彈藥：&A"
 BP: "Munição p/ Buggy: &G"
 PL: "Zasobnik amunicyjny: &B"
 RU: "Боеприпасы для багги: &A"
-AR: "تﺎﺑﺮﻌﻟا ةﺮﯿﺧذ"
+AR: "&A تﺎﺑﺮﻌﻟا ةﺮﯿﺧذ"
 UK: "Боєзапас баггі: &A"
 END
 
@@ -19012,7 +19012,7 @@ ZH: "吉普車彈藥：&A"
 BP: "Munição p/ Buggy: &G"
 PL: "Zasobnik amunicyjny: &B"
 RU: "Боеприпасы для багги: &A"
-AR: "تﺎﺑﺮﻌﻟا ةﺮﯿﺧذ"
+AR: "&A تﺎﺑﺮﻌﻟا ةﺮﯿﺧذ"
 UK: "Боєзапас баггі: &A"
 END
 
@@ -19030,7 +19030,7 @@ ZH: "生化炸彈：&B"
 BP: "Bomba Biológica: &B"
 PL: "Biobomba: &B"
 RU: "Биологическая бомба: &B"
-AR: "ﺔﻳﻮﯿﺣ ﻞﺑﺎﻨﻗ"
+AR: "&B ﺔﻳﻮﯿﺣ ﻞﺑﺎﻨﻗ"
 UK: "Біобомба: &B"
 END
 
@@ -19049,7 +19049,7 @@ ZH: "載具偽裝：&C"
 BP: "Disfarçar: &C"
 PL: "Zamaskuj się jako pojazd: &C"
 RU: "Замаскироваться под другую технику: &C"
-AR: "ﺔﺑﺮﻌﻛ ﺮﻜﻨﺘﻟا"
+AR: "&D ﺔﺑﺮﻌﻛ ﺮﻜﻨﺘﻟا"
 UK: "Маскування під транспорт: &D"
 //patch104p-core-end
 //patch104p-optional-begin
@@ -19063,7 +19063,7 @@ ZH: "載具偽裝：&C"
 BP: "Disfarçar: &C"
 PL: "Zamaskuj się jako pojazd: &C"
 RU: "Замаскироваться под другую технику: &C"
-AR: "ﺔﺑﺮﻌﻛ ﺮﻜﻨﺘﻟا"
+AR: "&C ﺔﺑﺮﻌﻛ ﺮﻜﻨﺘﻟا"
 UK: "Маскування під транспорт: &C"
 //patch104p-optional-end
 END
@@ -19079,7 +19079,7 @@ ZH: "高爆炸彈：&O"
 BP: "Bomba de Alto-Explosivo: &M"
 PL: "Bomba krusząca: &O"
 RU: "Увеличение мощности взрывчатки: &O"
-AR: "ﺔﻳﻮﻘﻟا ةﺮﺠﻔﺘﻤﻟا ﺔﻠﺒﻨﻘﻟا"
+AR: "&O ﺔﻳﻮﻘﻟا ةﺮﺠﻔﺘﻤﻟا ﺔﻠﺒﻨﻘﻟا"
 UK: "Потужна вибухівка: &O"
 END
 
@@ -19097,7 +19097,7 @@ ZH: "炭疽菌試驗：&A"
 BP: "Antraz Beta: &A"
 PL: "Wąglik beta: &A"
 RU: "Сибирская язва Бета: &A"
-AR: "ﺔﯿﺒﻳﺮﺠﺘﻟا ﺔﯿﻣﻮﺛﺮﺠﻟا ﺔﻠﺒﻨﻘﻟا"
+AR: "&A ﺔﯿﺒﻳﺮﺠﺘﻟا ﺔﯿﻣﻮﺛﺮﺠﻟا ﺔﻠﺒﻨﻘﻟا"
 UK: "Сибірська виразка Бета: &A"
 //patch104p-core-end
 //patch104p-optional-begin
@@ -19111,7 +19111,7 @@ ZH: "炭疽菌試驗：&X"
 BP: "Antraz Beta: &A"
 PL: "Wąglik beta: &A"
 RU: "Сибирская язва Бета: &X"
-AR: "ﺔﯿﺒﻳﺮﺠﺘﻟا ﺔﯿﻣﻮﺛﺮﺠﻟا ﺔﻠﺒﻨﻘﻟا"
+AR: "&X ﺔﯿﺒﻳﺮﺠﺘﻟا ﺔﯿﻣﻮﺛﺮﺠﻟا ﺔﻠﺒﻨﻘﻟا"
 UK: "Сибірська виразка Бета: &X"
 //patch104p-optional-end
 END
@@ -19130,7 +19130,7 @@ ZH: "炭疽菌試驗：&X"
 BP: "Antraz Beta: &A"
 PL: "Wąglik beta: &A"
 RU: "Сибирская язва Бета: &X"
-AR: "ﺔﯿﺒﻳﺮﺠﺘﻟا ﺔﯿﻣﻮﺛﺮﺠﻟا ﺔﻠﺒﻨﻘﻟا"
+AR: "&X ﺔﯿﺒﻳﺮﺠﺘﻟا ﺔﯿﻣﻮﺛﺮﺠﻟا ﺔﻠﺒﻨﻘﻟا"
 UK: "Сибірська виразка Бета: &X"
 END
 
@@ -19147,7 +19147,7 @@ ZH: "毒素匣：&T"
 BP: "Munição Tóxica: &T"
 PL: "Pociski z toksyną: &T"
 RU: "Токсиновые снаряды: &T"
-AR: "ﺔﻣﺎﺴﻟا ﻒﺋاﺬﻘﻟا"
+AR: "&T ﺔﻣﺎﺴﻟا ﻒﺋاﺬﻘﻟا"
 UK: "Токсинові снаряди: &T"
 END
 
@@ -19164,7 +19164,7 @@ ZH: "廢棄物修理：&J"
 BP: "Reparos de Combate: &E"
 PL: "Naprawa złomu: &N"
 RU: "Ремонт обломками: &J"
-AR: "ضﺎﻘﻧﻷا ﺢﯿﻠﺼﺗ"
+AR: "&J ضﺎﻘﻧﻷا ﺢﯿﻠﺼﺗ"
 UK: "Ремонт мотлохом: &J"
 END
 
@@ -19181,7 +19181,7 @@ ZH: "廢棄物修理：&J"
 BP: "Reparos de Combate: &E"
 PL: "Naprawa złomu: &N"
 RU: "Ремонт обломками: &J"
-AR: "ضﺎﻘﻧﻷا ﺢﯿﻠﺼﺗ"
+AR: "&J ضﺎﻘﻧﻷا ﺢﯿﻠﺼﺗ"
 UK: "Ремонт мотлохом: &J"
 END
 
@@ -19196,7 +19196,7 @@ ZH: "穿甲彈：&B"
 BP: "Balas Perfurantes de Blindagem: &B"
 PL: "Pociski ppanc: &P"
 RU: "Бронебойные пули: &B"
-AR: "AP عﻮﻧ ﻦﻣ صﺎﺻر"
+AR: "&B AP عﻮﻧ ﻦﻣ صﺎﺻر"
 UK: "Бронебійні кулі: &B"
 END
 
@@ -19213,7 +19213,7 @@ ZH: "穿甲彈：&B"
 BP: "Balas Perfurantes de Blindagem: &B"
 PL: "Pociski ppanc: &P"
 RU: "Бронебойные пули: &B"
-AR: "AP عﻮﻧ ﻦﻣ صﺎﺻر"
+AR: "&B AP عﻮﻧ ﻦﻣ صﺎﺻر"
 UK: "Бронебійні кулі: &B"
 END
 
@@ -19230,7 +19230,7 @@ ZH: "穿甲火箭：&R"
 BP: "Foguetes Perfurantes de Blindagem: &P"
 PL: "Rakiety ppanc: &R"
 RU: "Бронебойные ракеты: &R"
-AR: "ﺲﻳﺮﺑ ﺪﺘﯿﺷﻮﺳأ ﺦﻳراﻮﺻ"
+AR: "&R ﺲﻳﺮﺑ ﺪﺘﯿﺷﻮﺳأ ﺦﻳراﻮﺻ"
 UK: "Бронебійні ракети: &R"
 END
 
@@ -19247,7 +19247,7 @@ ZH: "穿甲火箭：&R"
 BP: "Foguetes Perfurantes de Blindagem: &P"
 PL: "Rakiety ppanc: &R"
 RU: "Бронебойные ракеты: &R"
-AR: "ﺲﻳﺮﺑ ﺪﺘﯿﺷﻮﺳأ ﺦﻳراﻮﺻ"
+AR: "&R ﺲﻳﺮﺑ ﺪﺘﯿﺷﻮﺳأ ﺦﻳراﻮﺻ"
 UK: "Бронебійні ракети: &R"
 END
 
@@ -19262,7 +19262,7 @@ ZH: "偽裝：&C"
 BP: "Camuflagem: &C"
 PL: "Kamuflaż: &K"
 RU: "Камуфляж: &C"
-AR: "ﻪﻳﻮﻤﺘﻟا"
+AR: "&C ﻪﻳﻮﻤﺘﻟا"
 UK: "Камуфляж: &C"
 END
 
@@ -19277,7 +19277,7 @@ ZH: "鎮定劑飛鏢：&T"
 BP: "Dardos Tranquilizantes: &T"
 PL: "Strzałki usypiające: &T"
 RU: "Дротики с транквилизатором: &T"
-AR: "Tranq حﺎﻣر"
+AR: "&T Tranq حﺎﻣر"
 UK: "Дротики з транквілізатором: &T"
 END
 
@@ -19292,7 +19292,7 @@ ZH: "集合點：&R"
 BP: "Ponto de Encontro: &P"
 PL: "Punkt zborny: &R"
 RU: "Точка сбора: &R"
-AR: "ﺮﺻﺎﻨﻌﻟاو تاﺪﺣﻮﻟا عﺎﻤﺘﺟإ ﺔﻄﻘﻧ"
+AR: "&R ﺮﺻﺎﻨﻌﻟاو تاﺪﺣﻮﻟا عﺎﻤﺘﺟإ ﺔﻄﻘﻧ"
 UK: "Точка збору: &R"
 END
 
@@ -19322,7 +19322,7 @@ ZH: "超量發電：&O"
 BP: "Sobrecarregar: &O"
 PL: "Przeciążenie: &R"
 RU: "Перегрузка: &O"
-AR: "ﺔﻗﺎﻄﻟا ىﻮﺘﺴﻣ ﻊﻓر"
+AR: "&O ﺔﻗﺎﻄﻟا ىﻮﺘﺴﻣ ﻊﻓر"
 UK: "Перевантаження: &O"
 END
 
@@ -19337,7 +19337,7 @@ ZH: "火焰：&L"
 BP: "Lança-Chamas: &L"
 PL: "Miotacz ognia: &M"
 RU: "Пламя: &L"
-AR: "ﺐﻬﻠﻟا"
+AR: "&L ﺐﻬﻠﻟا"
 UK: "Вогонь: &L"
 END
 
@@ -19353,7 +19353,7 @@ ZH: "抓起囚犯：&P"
 BP: "Capturar Prisioneiro: &P"
 PL: "Odebranie więźnia: &O"
 RU: "Забрать Заключенного: &P"
-AR: "ﻊﻓر\nﻦﯿﺠﺴﻟا"
+AR: "&P ﻊﻓر\nﻦﯿﺠﺴﻟا"
 UK: "Підібрати ув'язненого: &P"
 END
 
@@ -19368,7 +19368,7 @@ ZH: "返回：&R"
 BP: "Voltar: &V"
 PL: "Powrót: &R"
 RU: "Возврат: &R"
-AR: "ةدﻮﻋ"
+AR: "&R ةدﻮﻋ"
 UK: "Повернути: &R"
 END
 
@@ -19383,7 +19383,7 @@ ZH: "發射火箭：&F"
 BP: "Foguete Incendiário: &F"
 PL: "Odpalenie rakiety: &O"
 RU: "Выстрелить ракетой: &F"
-AR: "ﺔﻳرﺎﻨﻟا ﺦﻳراﻮﺼﻟا"
+AR: "&F ﺔﻳرﺎﻨﻟا ﺦﻳراﻮﺼﻟا"
 UK: "Вогонь ракетами: &F"
 END
 
@@ -19398,7 +19398,7 @@ ZH: "炭疽菌彈頭：&N"
 BP: "Ogiva de Antraz: &N"
 PL: "Głowica wąglikowa: &W"
 RU: "Химическая боеголовка: &N"
-AR: "ﻲﻣﻮﺛﺮﺠﻟا ﻲﺑﺮﺤﻟا سأﺮﻟا"
+AR: "&N ﻲﻣﻮﺛﺮﺠﻟا ﻲﺑﺮﺤﻟا سأﺮﻟا"
 UK: "Боєголовка з сибірською виразкою: &N"
 END
 
@@ -19413,7 +19413,7 @@ ZH: "高爆彈頭：&P"
 BP: "Ogiva Explosiva: &O"
 PL: "Głowica wybuchowa: &Y"
 RU: "Фугасная боеголовка: &P"
-AR: "ﺮﺠﻔﺘﻤﻟا ﻲﺑﺮﺤﻟا ﺱﺃﺮﻟا"
+AR: "&P ﺮﺠﻔﺘﻤﻟا ﻲﺑﺮﺤﻟا ﺱﺃﺮﻟا"
 UK: "Вибухова боєголовка: &P"
 END
 
@@ -19428,7 +19428,7 @@ ZH: "發射20釐米加農砲：&F"
 BP: "Disparar Canhão 20mm: &D"
 PL: "Ostrzał z działka 20mm: &O"
 RU: "Использовать 20мм орудие: &F"
-AR: "ﺮﺘﻤﻴﻠﻣ ٠٢ ﻊﻓﺪﻣ"
+AR: "&F ﺮﺘﻤﻴﻠﻣ ٠٢ ﻊﻓﺪﻣ"
 UK: "Вогонь з 20-мм гармати: &F"
 END
 
@@ -19443,7 +19443,7 @@ ZH: "發射飛彈：&M"
 BP: "Disparar Mísseis: &M"
 PL: "Ostrzał pociskami: &M"
 RU: "Стрелять ракетами: &M"
-AR: "ﺔﻗﺭﺎﺣ ﻒﺋاﺬﻗ"
+AR: "&M ﺔﻗﺭﺎﺣ ﻒﺋاﺬﻗ"
 UK: "Вогонь проти-танковими ракетами: &M"
 END
 
@@ -19458,7 +19458,7 @@ ZH: "發射火箭：&R"
 BP: "Disparar Foguetes: &F"
 PL: "Ostrzał rakietowy: &R"
 RU: "Заградительный огонь ракетами: &R"
-AR: "ﺔﯿﺧورﺎﺼﻟا ﺔﺤﻨﺟﻷا"
+AR: "&R ﺔﯿﺧورﺎﺼﻟا ﺔﺤﻨﺟﻷا"
 UK: "Випустити ракети: &R"
 END
 
@@ -19473,7 +19473,7 @@ ZH: "發射汽油彈：&N"
 BP: "Lançar Napalm: &N"
 PL: "Zrzut napalmu: &N"
 RU: "Сбросить Напалм: &N"
-AR: "يرﺎﻨﻟا ﻢﻟﺎﺑﺎﻨﻟا"
+AR: "&N يرﺎﻨﻟا ﻢﻟﺎﺑﺎﻨﻟا"
 UK: "Вогонь напалмом: &N"
 END
 
@@ -19488,7 +19488,7 @@ ZH: "油氣彈：&B"
 BP: "Bomba Incendiária: &I"
 PL: "Bomba zapalająca: &Z"
 RU: "Топливная бомба: &F"
-AR: "ﺮﺗﺎﻛ يﺰﻳﺪﻟا ﺔﻠﺒﻨﻗ"
+AR: "&B ﺮﺗﺎﻛ يﺰﻳﺪﻟا ﺔﻠﺒﻨﻗ"
 UK: "Вакуумна бомба: &B"
 END
 
@@ -19505,7 +19505,7 @@ ZH: "核彈：&N"
 BP: "Míssil Nuclear: &I"
 PL: "Rakieta atomowa: &T"
 RU: "Удар Ядерной ракетой: &N"
-AR: "يوﻮﻨﻟا خورﺎﺼﻟا"
+AR: "&N يوﻮﻨﻟا خورﺎﺼﻟا"
 UK: "Ядерна ракета: &N"
 END
 
@@ -19523,7 +19523,7 @@ ZH: "核彈：&I"
 BP: "Míssil Nuclear: &I"
 PL: "Rakieta atomowa: &T"
 RU: "Удар Ядерной ракетой: &I"
-AR: "يوﻮﻨﻟا خورﺎﺼﻟا"
+AR: "&I يوﻮﻨﻟا خورﺎﺼﻟا"
 UK: "Ядерна ракета: &I"
 END
 
@@ -19538,7 +19538,7 @@ ZH: "生化死雨風暴：&U"
 BP: "Tempestade SCUD: &D"
 PL: "Deszcz SCUD-ów: &S"
 RU: "Залп ракетами СКАД: &U"
-AR: "دﻮﻜﺳ ﺦﻳراﻮﺻ ةﺪﻋﺎﻗ"
+AR: "&U دﻮﻜﺳ ﺦﻳراﻮﺻ ةﺪﻋﺎﻗ"
 UK: "СКАД Шторм: &U"
 END
 
@@ -19555,7 +19555,7 @@ ZH: "生化死雨風暴：&U"
 BP: "Tempestade SCUD: &D"
 PL: "Deszcz SCUD-ów: &S"
 RU: "Залп ракетами СКАД: &U"
-AR: "دﻮﻜﺳ ﺦﻳراﻮﺻ ةﺪﻋﺎﻗ"
+AR: "&U دﻮﻜﺳ ﺦﻳراﻮﺻ ةﺪﻋﺎﻗ"
 UK: "СКАД Шторм: &U"
 END
 
@@ -19570,7 +19570,7 @@ ZH: "汽油彈攻擊：&N"
 BP: "Bombardeio de Napalm: &N"
 PL: "Nalot napalmowy: &N"
 RU: "Атака Напалмом: &N"
-AR: "ﻢﻟﺎﺑﺎﻨﻟا ﺔﺑﺮﺿ"
+AR: "&N ﻢﻟﺎﺑﺎﻨﻟا ﺔﺑﺮﺿ"
 UK: "Напалмовий удар: &N"
 END
 
@@ -19585,7 +19585,7 @@ ZH: "A10 飛彈攻擊：&A"
 BP: "Ataque Aéreo A-10: &A"
 PL: "Nalot A10: &A"
 RU: "Атака Штурмовиком А10: &A"
-AR: "ﻲﺑﺮﺤﻟا ناﺮﯿﻄﻟا مﻮﺠھ"
+AR: "&A ﻲﺑﺮﺤﻟا ناﺮﯿﻄﻟا مﻮﺠھ"
 UK: "Ракетний удар A10: &A"
 END
 
@@ -19603,7 +19603,7 @@ ZH: "金牌駭客：&C"
 BP: "Assalto Hacker: &K"
 PL: "e-Kradzież pieniędzy: &C"
 RU: "Взлом средств: &C"
-AR: "ﻲﻟﺎﻤﻟا ﺪﯿﺻﺮﻟا ﺔﻗﺮﺳ"
+AR: "&C ﻲﻟﺎﻤﻟا ﺪﯿﺻﺮﻟا ﺔﻗﺮﺳ"
 UK: "Крадіжка грошей з інтернету: &C"
 END
 
@@ -19621,7 +19621,7 @@ ZH: "突擊：&A"
 BP: "Emboscada Rebelde: &A"
 PL: "Zasadzka: &A"
 RU: "Засада: &A"
-AR: "ﻦﻴﻤﻜﻟا"
+AR: "&A ﻦﻴﻤﻜﻟا"
 UK: "Засідка: &A"
 END
 
@@ -19653,7 +19653,7 @@ ZH: "炭疽菌炸彈：&B"
 BP: "Bomba de Antraz: &B"
 PL: "Bomba wąglikowa: &B"
 RU: "Бомба с Сибирской язвой: &B"
-AR: "ﺔﯿﻣﻮﺛﺮﺠﻟا ﺔﻠﺒﻨﻘﻟا"
+AR: "&B ﺔﯿﻣﻮﺛﺮﺠﻟا ﺔﻠﺒﻨﻘﻟا"
 UK: "Бомба з сибірською виразкою: &B"
 END
 
@@ -19671,7 +19671,7 @@ ZH: "空降部隊：&O"
 BP: "Pára-Quedistas: &R"
 PL: "Desant: &T"
 RU: "Парашютный десант: &P"
-AR: "ﻲﻠﻈﻤﻟا لازﻹا"
+AR: "&O ﻲﻠﻈﻤﻟا لازﻹا"
 UK: "Парашутний десант: &O"
 END
 
@@ -19691,7 +19691,7 @@ ZH: "地毯式炸彈轟炸：&T"
 BP: "Bombardeio de Saturação: &G"
 PL: "Nalot dywanowy: &F"
 RU: "Ковровая бомбардировка: &T"
-AR: "ﻒﺜﻜﻤﻟا ﻒﺼﻘﻟا"
+AR: "&T ﻒﺜﻜﻤﻟا ﻒﺼﻘﻟا"
 UK: "Килимове бомбардування: &T"
 END
 
@@ -19708,7 +19708,7 @@ ZH: "地毯式炸彈轟炸：&T"
 BP: "Bombardeio de Saturação: &G"
 PL: "Nalot dywanowy: &F"
 RU: "Ковровая бомбардировка: &T"
-AR: "ﻒﺜﻜﻤﻟا ﻒﺼﻘﻟا"
+AR: "&T ﻒﺜﻜﻤﻟا ﻒﺼﻘﻟا"
 UK: "Килимове бомбардування: &T"
 END
 
@@ -19726,7 +19726,7 @@ ZH: "集束地雷：&I"
 BP: "Minas de Fragmentação: &F"
 PL: "Miny kasetowe: &K"
 RU: "Кассетные мины: &L"
-AR: "ﺔﻳدﻮﻘﻨﻌﻟا مﺎﻐﻟﻷا"
+AR: "&I ﺔﻳدﻮﻘﻨﻌﻟا مﺎﻐﻟﻷا"
 UK: "Касетні міни: &I"
 END
 
@@ -19743,7 +19743,7 @@ ZH: "集束地雷：&I"
 BP: "Minas de Fragmentação: &F"
 PL: "Miny kasetowe: &K"
 RU: "Кассетные мины: &L"
-AR: "ﺔﻳدﻮﻘﻨﻌﻟا مﺎﻐﻟﻷا"
+AR: "&I ﺔﻳدﻮﻘﻨﻌﻟا مﺎﻐﻟﻷا"
 UK: "Касетні міни: &I"
 END
 
@@ -19764,7 +19764,7 @@ ZH: "電磁波脈衝：&U"
 BP: "Pulso E.M.: &U"
 PL: "Impuls Elmagn: &P"
 RU: "Электромагнитный импульс: &U"
-AR: "EMP عﺎﻓد مﺎﻈﻧ"
+AR: "&U EMP عﺎﻓد مﺎﻈﻧ"
 UK: "Електромагнітний імпульс: &U"
 END
 
@@ -19781,7 +19781,7 @@ ZH: "電磁波脈衝：&U"
 BP: "Pulso E.M.: &U"
 PL: "Impuls Elmagn: &P"
 RU: "Электромагнитный импульс: &U"
-AR: "EMP عﺎﻓد مﺎﻈﻧ"
+AR: "&U EMP عﺎﻓد مﺎﻈﻧ"
 UK: "Електромагнітний імпульс: &U"
 END
 
@@ -19796,7 +19796,7 @@ ZH: "自走砲攻擊：&B"
 BP: "Barragem de Artilharia: &B"
 PL: "Ostrzał artyleryjski: &O"
 RU: "Заградительный огонь Артиллерии: &B"
-AR: "ﻲﻌﻓﺪﻤﻟا ﻒﺼﻘﻟا"
+AR: "&B ﻲﻌﻓﺪﻤﻟا ﻒﺼﻘﻟا"
 UK: "Артилерійський обстріл: &B"
 END
 
@@ -19813,7 +19813,7 @@ ZH: "自走砲攻擊：&B"
 BP: "Barragem de Artilharia: &B"
 PL: "Ostrzał artyleryjski: &O"
 RU: "Заградительный огонь Артиллерии: &B"
-AR: "ﻲﻌﻓﺪﻤﻟا ﻒﺼﻘﻟا"
+AR: "&B ﻲﻌﻓﺪﻤﻟا ﻒﺼﻘﻟا"
 UK: "Артилерійський обстріл: &B"
 END
 
@@ -19843,7 +19843,7 @@ ZH: "間諜衛星：&S"
 BP: "Satélite Espião: &S"
 PL: "Satelita szpiegowski: &S"
 RU: "Спутник разведки: &S"
-AR: "ﻲﻋﺎﻨﻄﺻﻹا ﺲﺴﺠﺘﻟا ﺮﻤﻗ"
+AR: "&S ﻲﻋﺎﻨﻄﺻﻹا ﺲﺴﺠﺘﻟا ﺮﻤﻗ"
 UK: "Супутник-шпигун: &S"
 END
 
@@ -19860,7 +19860,7 @@ ZH: "偵察蜂型機：&Y"
 BP: "Drone Espião: &D"
 PL: "Robot szpiegowski: &O"
 RU: "Беспилотный аппарат шпион: &Y"
-AR: "ﺲﺴﺠﺘﻟا ةﺮﺋﺎﻃ"
+AR: "&Y ﺲﺴﺠﺘﻟا ةﺮﺋﺎﻃ"
 UK: "Дрон-шпигун: &Y"
 END
 
@@ -19875,7 +19875,7 @@ ZH: "雷達掃瞄：&C"
 BP: "Varredura de Radar: &V"
 PL: "Skan radarowy: &D"
 RU: "Сканирование радара: &C"
-AR: "راداﺮﻟا ﺺﺤﻓ"
+AR: "&C راداﺮﻟا ﺺﺤﻓ"
 UK: "Радарне сканування: &C"
 END
 
@@ -19890,7 +19890,7 @@ ZH: "叛軍：&D"
 BP: "Desertor: &D"
 PL: "Dezerter: &D"
 RU: "Дезертир: &D"
-AR: "ﺶﯿﺠﻟا ﻦﻋ ﻖﺸﻨﻤﻟا"
+AR: "&D ﺶﯿﺠﻟا ﻦﻋ ﻖﺸﻨﻤﻟا"
 UK: "Перебіжчик: &D"
 END
 
@@ -19905,7 +19905,7 @@ ZH: "刺刀：&B"
 BP: "Baioneta: &B"
 PL: "Bagnet: &B"
 RU: "Штык-нож: &B"
-AR: "ﺔﺑﺮﺤﻟا"
+AR: "&B ﺔﺑﺮﺤﻟا"
 UK: "Багнет: &B"
 END
 
@@ -19922,7 +19922,7 @@ ZH: "狙擊攻擊：&N"
 BP: "Eliminar Tripulação: &N"
 PL: "Atak snajperski: &N"
 RU: "Снайперская атака: &N"
-AR: "صﺎﻨﻘﻟا مﻮﺠﮫﻟا"
+AR: "&N صﺎﻨﻘﻟا مﻮﺠﮫﻟا"
 UK: "Снайперська атака: &N"
 END
 
@@ -19937,7 +19937,7 @@ ZH: "佔領建築：&C"
 BP: "Capturar Estrutura: &C"
 PL: "Zajmij budynek: &Z"
 RU: "Захват здания: &C"
-AR: "ءﺎﺸﻧﻹا ﺔﯿﻠﻤﻋ ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
+AR: "&C ءﺎﺸﻧﻹا ﺔﯿﻠﻤﻋ ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
 UK: "Захопити будівлю: &C"
 END
 
@@ -19954,7 +19954,7 @@ ZH: "劫持載具：&V"
 BP: "Invasão de Veículos: &V"
 PL: "Hakowanie pojazdu: &P"
 RU: "Обезвредить технику: &V"
-AR: "ﺔﺑﺮﻌﻟا رﺎﺠﺌﺘﺳإ"
+AR: "&V ﺔﺑﺮﻌﻟا رﺎﺠﺌﺘﺳإ"
 UK: "Вимкнути машину: &V"
 END
 
@@ -19969,7 +19969,7 @@ ZH: "金牌駭客：&K"
 BP: "Assalto Hacker: &A"
 PL: "e-Kradzież pieniędzy: &K"
 RU: "Кража средств: &K"
-AR: "ﻲﻟﺎﻤﻟا ﺪﯿﺻﺮﻟا ﺔﻗﺮﺳ"
+AR: "&K ﻲﻟﺎﻤﻟا ﺪﯿﺻﺮﻟا ﺔﻗﺮﺳ"
 UK: "Крадіжка грошей: &K"
 END
 
@@ -19984,7 +19984,7 @@ ZH: "駭客網際網路：&I"
 BP: "Invasão pela Internet: &I"
 PL: "Hakowanie Internetu: &I"
 RU: "Кража средств в интернете: &I"
-AR: "ﺖﻧﺮﺘﻧﻹا ﺺﻟ"
+AR: "&I ﺖﻧﺮﺘﻧﻹا ﺺﻟ"
 UK: "Зламувати інтернет: &I"
 END
 
@@ -19999,7 +19999,7 @@ ZH: "使建築失效：&D"
 BP: "Desativar Instalação: &D"
 PL: "Wyłączenie budynku: &D"
 RU: "Вывести здание из строя: &D"
-AR: "ﺀﺎﻨﺒﻟا ﻞﻴﻄﻌﺗ"
+AR: "&D ﺀﺎﻨﺒﻟا ﻞﻴﻄﻌﺗ"
 UK: "Вимкнути будівлю: &D"
 END
 
@@ -20014,7 +20014,7 @@ ZH: "汽車炸彈：&C"
 BP: "Carro Bomba: &C"
 PL: "Bomba samochodowa: &C"
 RU: "Автомобиль со взрывчаткой: &C"
-AR: "ﺔﺨﺨﻔﻤﻟا ةرﺎﯿﺴﻟا"
+AR: "&C ﺔﺨﺨﻔﻤﻟا ةرﺎﯿﺴﻟا"
 UK: "Авто з вибухівкою: &C"
 END
 
@@ -20033,7 +20033,7 @@ ZH: "劫持：&J"
 BP: "Sequestrar: &R"
 PL: "Porwij: &P"
 RU: "Угнать: &J"
-AR: "ﻒﻄﺘﺨﻤﻟا"
+AR: "&J ﻒﻄﺘﺨﻤﻟا"
 UK: "Викрасти: &J"
 END
 
@@ -20048,7 +20048,7 @@ ZH: "TNT攻擊：&T"
 BP: "Ataque c/ TNT: &T"
 PL: "Atak dynamitem: &Y"
 RU: "Заряд взрывчатки: &T"
-AR: "TNT مﻮﺠھ: &T"
+AR: "&T TNT مﻮﺠھ"
 UK: "ТНТ атака: &T"
 END
 
@@ -20079,7 +20079,7 @@ ZH: "雷射飛彈攻擊：&L"
 BP: "Ataque c/ Mísseis Laser: &L"
 PL: "Atak pociskami laserowymi: &L"
 RU: "Лазерное наведение ракет: &L"
-AR: "ﻲﺧورﺎﺼﻟا رﺰﯿﻠﻟا مﻮﺠھ"
+AR: "&L ﻲﺧورﺎﺼﻟا رﺰﯿﻠﻟا مﻮﺠھ"
 UK: "Лазерне наведення ракет: &L"
 END
 
@@ -20094,7 +20094,7 @@ ZH: "匕首攻擊：&K"
 BP: "Ataque c/ Faca: &C"
 PL: "Atak nożem: &K"
 RU: "Атака ножом: &K"
-AR: "ﻦﯿﻜﺴﻟﺎﺑ مﻮﺠﮫﻟا"
+AR: "&K ﻦﯿﻜﺴﻟﺎﺑ مﻮﺠﮫﻟا"
 UK: "Атака ножем: &K"
 END
 
@@ -20110,7 +20110,7 @@ ZH: "攀爬懸崖：&C"
 BP: "Escalar Penhasco: &C"
 PL: "Wspinaczka na urwisko: &C"
 RU: "Взобраться на скалу: &C"
-AR: "ﻊﻔﺗﺮﻣ رﺪﺤﻨﻣ"
+AR: "&C ﻊﻔﺗﺮﻣ رﺪﺤﻨﻣ"
 UK: "Піднятися на скелю: &C"
 END
 
@@ -20127,7 +20127,7 @@ ZH: "設定定時炸彈：&T"
 BP: "Plantar Carga c/ Timer: &T"
 PL: "Ładunek z zapalnikiem czasowym: &C"
 RU: "Заряд взрывчатки с таймером: &T"
-AR: "ﺖﻗﺆﻤﻟا ﻢﻐﻠﻟا ﺔﻔﻠﻜﺗ"
+AR: "&T ﺖﻗﺆﻤﻟا ﻢﻐﻠﻟا ﺔﻔﻠﻜﺗ"
 UK: "Заряд з таймером: &T"
 END
 
@@ -20142,7 +20142,7 @@ ZH: "設定遙控炸彈：&R"
 BP: "Plantar Carga Remota: &R"
 PL: "Ładunek z zapalnikiem radiowym: &R"
 RU: "Заряд радиоуправляемой взрывчатки: &R"
-AR: "ﺪﯿﻌﺒﻟا ضﺮﻌﻟا ﺔﻔﻠﻜﺗ"
+AR: "&R ﺪﯿﻌﺒﻟا ضﺮﻌﻟا ﺔﻔﻠﻜﺗ"
 UK: "Заряд з дистанційним підривом: &R"
 END
 
@@ -20165,7 +20165,7 @@ ZH: "引爆炸彈：&D"
 BP: "Detonar Explosivos: &D"
 PL: "Detonacja ładunków: &D"
 RU: "Взорвать заряды: &D"
-AR: "ﺕﺎﻨﺤﺸﻟا ﺮﻴﺠﻔﺗ"
+AR: "&D ﺕﺎﻨﺤﺸﻟا ﺮﻴﺠﻔﺗ"
 UK: "Підірвати заряди: &D"
 END
 
@@ -20183,7 +20183,7 @@ ZH: "引爆核武：&N"
 BP: "Detonar Bomba Nuclear: &N"
 PL: "Detonacja bomby atomowej: &Y"
 RU: "Взорвать Ядерную бомбу: &N"
-AR: "ﻱﻭﻮﻨﻟا ﺥﻭﺭﺎﺼﻟا ﺮﻴﺠﻔﺗ"
+AR: "&N ﻱﻭﻮﻨﻟا ﺥﻭﺭﺎﺼﻟا ﺮﻴﺠﻔﺗ"
 UK: "Підірвати ядерну бомбу: &N"
 //patch104p-core-end
 //patch104p-optional-begin
@@ -20197,7 +20197,7 @@ ZH: "引爆核武：&D"
 BP: "Detonar Bomba Nuclear: &D"
 PL: "Detonacja bomby atomowej: &D"
 RU: "Взорвать Ядерную бомбу: &D"
-AR: "ﻱﻭﻮﻨﻟا ﺥﻭﺭﺎﺼﻟا ﺮﻴﺠﻔﺗ"
+AR: "&D ﻱﻭﻮﻨﻟا ﺥﻭﺭﺎﺼﻟا ﺮﻴﺠﻔﺗ"
 UK: "Підірвати ядерну бомбу: &D"
 //patch104p-optional-end
 END
@@ -20213,7 +20213,7 @@ ZH: "手動控制：&M"
 BP: "Controle Manual: &M"
 PL: "Sterowanie ręczne: &W"
 RU: "Ручное управление: &M"
-AR: "يوﺪﯿﻟا ﻢﻜﺤﺘﻟا"
+AR: "&M يوﺪﯿﻟا ﻢﻜﺤﺘﻟا"
 UK: "Ручне управління: &M"
 END
 
@@ -20228,7 +20228,7 @@ ZH: "感應式：&P"
 BP: "Detonador de Proximidade: &P"
 PL: "Zapalnik zbliżeniowy: &Z"
 RU: "Контактный взрыватель: &P"
-AR: "ﺮﮫﺼﻤﻟا بﺮﻗ"
+AR: "&P ﺮﮫﺼﻤﻟا بﺮﻗ"
 UK: "Безконтактний запобіжник: &P"
 END
 
@@ -20248,7 +20248,7 @@ ZH: "引爆：&D"
 BP: "Detonar! &D"
 PL: "Detonuj! &J"
 RU: "Взорвать! &D"
-AR: "ﺮﺠﻔﻤﻟا"
+AR: "&D ﺮﺠﻔﻤﻟا"
 UK: "Підірвати: &D"
 //patch104p-core-end
 //patch104p-optional-begin
@@ -20262,7 +20262,7 @@ ZH: "引爆：&D"
 BP: "Detonar! &D"
 PL: "Detonuj! &D"
 RU: "Взорвать! &D"
-AR: "ﺮﺠﻔﻤﻟا"
+AR: "&D ﺮﺠﻔﻤﻟا"
 UK: "Підірвати: &D"
 //patch104p-optional-end
 END
@@ -20280,7 +20280,7 @@ ZH: "緊急修復：&E"
 BP: "Reparos de Emergência: &E"
 PL: "Naprawa pojazdów: &E"
 RU: "Экстренный ремонт: &E"
-AR: "ﺔﻳﺭﻮﻓ ﺔﻧﺎﻴﺻ"
+AR: "&E ﺔﻳﺭﻮﻓ ﺔﻧﺎﻴﺻ"
 UK: "Аварійний ремонт: &E"
 END
 
@@ -20295,7 +20295,7 @@ ZH: "發射離子砲：&P"
 BP: "Disparar Canhão de Partículas: &P"
 PL: "Uruchomienie Miotacza cząstek: &M"
 RU: "Запуск Молекулярного оружия: &P"
-AR: "يرﺬﻟا ﻊﻓﺪﻤﻟا"
+AR: "&P يرﺬﻟا ﻊﻓﺪﻤﻟا"
 UK: "Гармата часток: &P"
 END
 
@@ -20313,7 +20313,7 @@ ZH: "發射離子砲：&P"
 BP: "Disparar Canhão de Partículas: &P"
 PL: "Uruchomienie Miotacza cząstek: &C"
 RU: "Запуск Молекулярного оружия: &P"
-AR: "يرﺬﻟا ﻊﻓﺪﻤﻟا"
+AR: "&P يرﺬﻟا ﻊﻓﺪﻤﻟا"
 UK: "Гармата часток: &P"
 END
 
@@ -20454,7 +20454,7 @@ ZH: "清理毒素：&C"
 BP: "Limpar Toxinas: &L"
 PL: "Detoksykacja: &C"
 RU: "Очистить от заражения: &C"
-AR: "ﻡﻮﻤﺴﻟا ﻒﻴﻈﻨﺗ"
+AR: "&C ﻡﻮﻤﺴﻟا ﻒﻴﻈﻨﺗ"
 UK: "Знезараження зони: &C"
 END
 
@@ -32783,7 +32783,7 @@ ZH: "米格機裝甲：&A"
 BP: "Blindagem MiG: &D"
 PL: "Pancerz MiG-a: &A"
 RU: "Броня для МиГов: &A"
-AR: "MIG ةﺮﺋﺎﻃ عرد"
+AR: "&A MIG ةﺮﺋﺎﻃ عرد"
 UK: "Броня МіГ: &A"
 END
 
@@ -32800,7 +32800,7 @@ ZH: "米格機裝甲：&A"
 BP: "Blindagem MiG: &D"
 PL: "Pancerz MiG-a: &A"
 RU: "Броня для МиГов: &A"
-AR: "MIG ةﺮﺋﺎﻃ عرد"
+AR: "&A MIG ةﺮﺋﺎﻃ عرد"
 UK: "Броня МіГ: &A"
 END
 
@@ -32817,7 +32817,7 @@ ZH: "機關槍：&M"
 BP: "Metralhadora: &M"
 PL: "Karabin maszynowy: &M"
 RU: "Пулемёт: &M"
-AR: "شﺎﺷﺮﻟا"
+AR: "&M شﺎﺷﺮﻟا"
 UK: "Кулемет: &M"
 END
 
@@ -32833,7 +32833,7 @@ ZH: "機關槍：&M"
 BP: "Metralhadora: &M"
 PL: "Karabin maszynowy: &M"
 RU: "Пулемёт: &M"
-AR: "شﺎﺷﺮﻟا"
+AR: "&M شﺎﺷﺮﻟا"
 UK: "Кулемет: &M"
 END
 
@@ -32849,7 +32849,7 @@ ZH: "機關槍：&M"
 BP: "Metralhadora: &M"
 PL: "Karabin maszynowy: &M"
 RU: "Пулемёт: &M"
-AR: "شﺎﺷﺮﻟا"
+AR: "&M شﺎﺷﺮﻟا"
 UK: "Кулемет: &M"
 END
 
@@ -32866,7 +32866,7 @@ ZH: "閃光彈：&F"
 BP: "Granada Flash Bang: &F"
 PL: "Granat oślepiający: &G"
 RU: "Светошумовая граната: &F"
-AR: "ةﺮﺠﻔﺘﻤﻟا ﺔﻠﺒﻨﻘﻟا"
+AR: "&F ةﺮﺠﻔﺘﻤﻟا ﺔﻠﺒﻨﻘﻟا"
 UK: "Світлошумова граната: &F"
 END
 
@@ -32881,7 +32881,7 @@ ZH: "鎮定劑飛鏢模式：&T"
 BP: "Modo Dardos Tranquilizantes: &T"
 PL: "Tryb strzałek usypiających: &T"
 RU: "Режим дротиков с транквилизатором: &T"
-AR: "Tranq تﻼﺒﻧ ﻂﻤﻧ"
+AR: "&T Tranq تﻼﺒﻧ ﻂﻤﻧ"
 UK: "Режим дротиків: &T"
 END
 
@@ -32896,7 +32896,7 @@ ZH: "捕捉囚犯模式：&P"
 BP: "Modo Levar Prisioneiro: &P"
 PL: "Tryb brania więźnia: &W"
 RU: "Режим захвата пленных: &P"
-AR: "ﺮﯿﺳﻷا ﺬﺧأ ﻂﻤﻧ"
+AR: "&P ﺮﯿﺳﻷا ﺬﺧأ ﻂﻤﻧ"
 UK: "Режим захоплення в'язня: &P"
 END
 
@@ -34221,7 +34221,7 @@ ZH: "拆除地雷：&L"
 BP: "Desarmar Minas: &N"
 PL: "Rozminowanie: &V"
 RU: "Разминировать: &L"
-AR: "ﻡﺎﻐﻟﺄﻟا ﺢﺴﻣ"
+AR: "&L ﻡﺎﻐﻟﺄﻟا ﺢﺴﻣ"
 UK: "Прибрати міни: &L"
 END
 
@@ -34380,7 +34380,7 @@ ZH: "佔領建築物：&C"
 BP: "Capturar Estrutura: &C"
 PL: "Zajmij budynek: &Z"
 RU: "Захват здания: &C"
-AR: "ةﺂﺸﻨﻤﻟا ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
+AR: "&C ةﺂﺸﻨﻤﻟا ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
 UK: "Захоплення будівель: &C"
 END
 
@@ -34397,7 +34397,7 @@ ZH: "佔領建築物：&C"
 BP: "Capturar Estrutura: &C"
 PL: "Zajmij budynek: &Z"
 RU: "Захват здания: &C"
-AR: "ةﺂﺸﻨﻤﻟا ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
+AR: "&C ةﺂﺸﻨﻤﻟا ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
 UK: "Захоплення будівель: &C"
 END
 
@@ -34412,7 +34412,7 @@ ZH: "佔領建築物：&C"
 BP: "Capturar Estrutura: &C"
 PL: "Zajmij budynek: &Z"
 RU: "Захват здания: &C"
-AR: "ةﺂﺸﻨﻤﻟا ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
+AR: "&C ةﺂﺸﻨﻤﻟا ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
 UK: "Захоплення будівель: &C"
 END
 
@@ -34427,7 +34427,7 @@ ZH: "佔領建築物：&C"
 BP: "Capturar Estrutura: &C"
 PL: "Zajmij budynek: &Z"
 RU: "Захват здания: &C"
-AR: "تﺄﺸﻨﻤﻟا ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
+AR: "&C تﺄﺸﻨﻤﻟا ﻰﻠﻋ ءﻼﯿﺘﺳﻹا"
 UK: "Захоплення будівель: &C"
 END
 
@@ -34449,7 +34449,7 @@ ZH: "立即引爆：&N"
 BP: "Detonar Agora! &I"
 PL: "Detonuj! &N"
 RU: "Взорвать! &N"
-AR: "! ﻥﺂﻟا ﺮﻴﺠﻔﺗ"
+AR: "&N ! ﻥﺂﻟا ﺮﻴﺠﻔﺗ"
 UK: "Підірвати зараз: &N"
 //patch104p-core-end
 //patch104p-optional-begin
@@ -34463,7 +34463,7 @@ ZH: "立即引爆：&D"
 BP: "Detonar Agora! &D"
 PL: "Detonuj! &D"
 RU: "Взорвать! &D"
-AR: "! ﻥﺂﻟا ﺮﻴﺠﻔﺗ"
+AR: "&D ! ﻥﺂﻟا ﺮﻴﺠﻔﺗ"
 UK: "Підірвати зараз: &D"
 //patch104p-optional-end
 END
@@ -47180,7 +47180,7 @@ ZH: "通訊資料下載：&D"
 BP: "Download das Comunicações: &D"
 PL: "Komunikacja i pobieranie: &D"
 RU: "Скачать Записи Переговоров: &D"
-AR: "تﻻﺎﺼﺗﻹا ﻞﯿﻤﺤﺗ"
+AR: "&D تﻻﺎﺼﺗﻹا ﻞﯿﻤﺤﺗ"
 UK: "Завантаження комунакацій: &D"
 END
 
@@ -47216,7 +47216,7 @@ ZH: "思想強化電塔：&T"
 BP: "Torre de Propaganda: &T"
 PL: "Megafon: &M"
 RU: "Вышка пропаганды: &T"
-AR: "ﻲﻣﻼﻋﻹا جﺮﺒﻟا"
+AR: "&T ﻲﻣﻼﻋﻹا جﺮﺒﻟا"
 UK: "Вежа пропаганди: &T"
 //patch104p-core-end
 //patch104p-optional-begin
@@ -47230,7 +47230,7 @@ ZH: "思想強化電塔：&T"
 BP: "Torre de Alto-Falantes: &T"
 PL: "Megafon: &M"
 RU: "Вышка пропаганды: &T"
-AR: "ﻲﻣﻼﻋﻹا جﺮﺒﻟا"
+AR: "&T ﻲﻣﻼﻋﻹا جﺮﺒﻟا"
 UK: "Вежа пропаганди: &T"
 //patch104p-optional-end
 END
@@ -47246,7 +47246,7 @@ ZH: "戰鬥碉堡：&B"
 BP: "Bunker de Combate: &B"
 PL: "Bunkier bojowy: &B"
 RU: "Боевой бункер: &B"
-AR: "ﺔﻛﺮﻌﻤﻟا ﺄﺒﺨﻣ"
+AR: "&B ﺔﻛﺮﻌﻤﻟا ﺄﺒﺨﻣ"
 UK: "Бойовий бункер: &B"
 END
 
@@ -47261,7 +47261,7 @@ ZH: "蓋特機砲：&C"
 BP: "Canhão Gattling: &C"
 PL: "Działko Gattling: &G"
 RU: "Пулеметная турель: &C"
-AR: "شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا"
+AR: "&C شﺎﺷﺮﻟا ﻊﻓﺪﻤﻟا"
 UK: "Гармата Гатлінга: &C"
 END
 
@@ -47279,7 +47279,7 @@ ZH: "核子炸彈：&N"
 BP: "Bomba Nuclear: &N"
 PL: "Atomówka: &N"
 RU: "Ядерная бомба: &N"
-AR: "ﺔﻳوﻮﻨﻟا ﺔﻠﺒﻨﻘﻟا"
+AR: "&N ﺔﻳوﻮﻨﻟا ﺔﻠﺒﻨﻘﻟا"
 UK: "Ядерна бомба: &N"
 END
 
@@ -47296,7 +47296,7 @@ ZH: "火力基地：&I"
 BP: "Base de Foguetes: &O"
 PL: "Baza ogniowa: &G"
 RU: "Оборонительная платформа: &I"
-AR: "رﺎﻧ قﻼﻃإ ةﺪﻋﺎﻗ"
+AR: "&I رﺎﻧ قﻼﻃإ ةﺪﻋﺎﻗ"
 UK: "Вогнева база: &I"
 END
 
@@ -47311,7 +47311,7 @@ ZH: "砲兵陣地：&R"
 BP: "Plataforma de Artilharia: &R"
 PL: "Platforma artyleryjska: &L"
 RU: "Артиллерийская платформа: &R"
-AR: "ﺔﯿﻌﻓﺪﻣ ﺔﺼﻨﻣ"
+AR: "&R ﺔﯿﻌﻓﺪﻣ ﺔﺼﻨﻣ"
 UK: "Артилерійська платформа: &R"
 END
 
@@ -47326,7 +47326,7 @@ ZH: "復仇者支援車：&G"
 BP: "Vingador: &G"
 PL: "Mściciel: &M"
 RU: "Мститель: &G"
-AR: "ﺔﯿﻣﺎﻘﺘﻧﻹا ﺔﺑﺎﺑﺪﻟا"
+AR: "&G ﺔﯿﻣﺎﻘﺘﻧﻹا ﺔﺑﺎﺑﺪﻟا"
 UK: "Месник: &G"
 END
 
@@ -47344,7 +47344,7 @@ ZH: "復仇者支援車：&G"
 BP: "Vingador: &G"
 PL: "Mściciel: &J"
 RU: "Мститель: &G"
-AR: "ﺔﯿﻣﺎﻘﺘﻧﻹا ﺔﺑﺎﺑﺪﻟا"
+AR: "&G ﺔﯿﻣﺎﻘﺘﻧﻹا ﺔﺑﺎﺑﺪﻟا"
 UK: "Месник: &G"
 END
 
@@ -47359,7 +47359,7 @@ ZH: "微波坦克：&M"
 BP: "Tanque de Microondas: &M"
 PL: "Czołg mikrofalowy: &F"
 RU: "Микроволновый танк: &M"
-AR: "ﻒﻳوﺮﻜﻳﺎﻤﻟا ﺔﺑﺎﺑد"
+AR: "&M ﻒﻳوﺮﻜﻳﺎﻤﻟا ﺔﺑﺎﺑد"
 UK: "Мікрохвильовий танк: &M"
 END
 
@@ -47407,7 +47407,7 @@ ZH: "假指揮中心：&C"
 BP: "Centro de Comando Falso: &C"
 PL: "Fałszywy sztab: &Z"
 RU: "Ложный Командный центр: &C"
-AR: "ﻒﻳﺰﻤﻟا ةدﺎﯿﻘﻟا ﺰﻛﺮﻣ"
+AR: "&C ﻒﻳﺰﻤﻟا ةدﺎﯿﻘﻟا ﺰﻛﺮﻣ"
 UK: "Фальшивий командний центр: &C"
 END
 
@@ -47426,7 +47426,7 @@ ZH: "假兵營：&B"
 BP: "Quartel Falso: &L"
 PL: "Fałszywe koszary: &K"
 RU: "Ложная Казарма: &B"
-AR: "ﺔﻔﻳﺰﻤﻟا ﺔﻳﺮﻜﺴﻌﻟا ﺔﻨﻜﺜﻟا"
+AR: "&B ﺔﻔﻳﺰﻤﻟا ﺔﻳﺮﻜﺴﻌﻟا ﺔﻨﻜﺜﻟا"
 UK: "Фальшиві казарми: &B"
 END
 
@@ -47444,7 +47444,7 @@ ZH: "假補給站：&U"
 BP: "Armazém de Suprimentos Falso: &U"
 PL: "Fałszywy skład zaopatrzenia: &D"
 RU: "Ложный Склад снабжения: &U"
-AR: "ﻒﻳﺰﻤﻟا ﻲﻔﺨﻤﻟا ﺰﯿﮫﺠﺘﻟا"
+AR: "&U ﻒﻳﺰﻤﻟا ﻲﻔﺨﻤﻟا ﺰﯿﮫﺠﺘﻟا"
 UK: "Фальшивий склад припасів: &U"
 END
 
@@ -47462,7 +47462,7 @@ ZH: "假軍火商：&A"
 BP: "Negociante de Armas Falso: &A"
 PL: "Fałszywy handlarz bronią: &A"
 RU: "Ложный Продавец оружия: &A"
-AR: "ﻒﻳﺰﻤﻟا ﺔﺤﻠﺳﻷا ﺮﺠﺘﻣ"
+AR: "&A ﻒﻳﺰﻤﻟا ﺔﺤﻠﺳﻷا ﺮﺠﺘﻣ"
 UK: "Фальшивий торговець зброєю: &A"
 END
 
@@ -47479,7 +47479,7 @@ ZH: "網際網路中心：&I"
 BP: "Central de Internet: &I"
 PL: "Ośrodek internetowy: &I"
 RU: "Интернет-центр: &I"
-AR: "ﺖﻧﺮﺘﻧﻹا ﺰﻛﺮﻣ"
+AR: "&I ﺖﻧﺮﺘﻧﻹا ﺰﻛﺮﻣ"
 UK: "Інтернет центр: &I"
 END
 
@@ -47498,7 +47498,7 @@ ZH: "戰鬥摩托車：&Y"
 BP: "Moto de Combate: &C"
 PL: "Motor bojowy: &T"
 RU: "Боевой мотоцикл: &Y"
-AR: "ﺔﻠﺗﺎﻘﻤﻟا ﺔﺟاﺭﺪﻟا"
+AR: "&Y ﺔﻠﺗﺎﻘﻤﻟا ﺔﺟاﺭﺪﻟا"
 UK: "Бойовий мотоцикл: &Y"
 END
 
@@ -47517,7 +47517,7 @@ ZH: "戰鬥摩托車：&Y"
 BP: "Moto de Combate: &Y"
 PL: "Motor bojowy: &Y"
 RU: "Боевой мотоцикл: &Y"
-AR: "ﺔﻠﺗﺎﻘﻤﻟا ﺔﺟاﺭﺪﻟا"
+AR: "&Y ﺔﻠﺗﺎﻘﻤﻟا ﺔﺟاﺭﺪﻟا"
 UK: "Бойовий мотоцикл: &Y"
 END
 
@@ -47535,7 +47535,7 @@ ZH: "帝王坦克：&O"
 BP: "Overlord Emperor: &O"
 PL: "Cesarz: &O"
 RU: "Император-Владыка: &O"
-AR: "ﺔﻳرﻮﻃاﺮﺒﻣﻹا ﺔﺑﺎﺑﺪﻟا"
+AR: "&O ﺔﻳرﻮﻃاﺮﺒﻣﻹا ﺔﺑﺎﺑﺪﻟا"
 UK: "Імператор: &O"
 END
 
@@ -47550,7 +47550,7 @@ ZH: "破壞者：&S"
 BP: "Sabotador: &S"
 PL: "Sabotażysta: &Y"
 RU: "Диверсант: &S"
-AR: "ﻱﺭﺎﺤﺘﻧﺈﻟا"
+AR: "&S ﻱﺭﺎﺤﺘﻧﺈﻟا"
 UK: "Саботажник: &S"
 END
 
@@ -47565,7 +47565,7 @@ ZH: "思想強化士兵：&P"
 BP: "Soldado de Propaganda: &P"
 PL: "Propagandysta: &P"
 RU: "Радио Пропагандист: &P"
-AR: "ﺔﯿﻣﻼﻋﻹا ﺔﻗﺮﻔﻟا ﺮﺼﻨﻋ"
+AR: "&P ﺔﯿﻣﻼﻋﻹا ﺔﻗﺮﻔﻟا ﺮﺼﻨﻋ"
 UK: "Пропагандист: &P"
 END
 
@@ -47583,7 +47583,7 @@ ZH: "蓋特機槍兵：&G"
 BP: "Minicanhão: &G"
 PL: "Komandos: &G"
 RU: "Пулемётчик: &G"
-AR: "ﺮﻐﺼﻤﻟا لﻮﻤﺤﻤﻟا ﻊﻓﺪﻤﻟا ﺮﺼﻨﻋ"
+AR: "&G ﺮﻐﺼﻤﻟا لﻮﻤﺤﻤﻟا ﻊﻓﺪﻤﻟا ﺮﺼﻨﻋ"
 UK: "Кулеметник: &G"
 END
 
@@ -47602,7 +47602,7 @@ ZH: "猛禽王戰機：&T"
 BP: "King Raptor: &R"
 PL: "Królewski Raptor: &T"
 RU: "Королевский Раптор: &T"
-AR: "ﺔﯿﻜﻠﻤﻟا رﻮﺘﺑار ﺔﻠﺗﺎﻘﻣ"
+AR: "&T ﺔﯿﻜﻠﻤﻟا رﻮﺘﺑار ﺔﻠﺗﺎﻘﻣ"
 UK: "Королівський Раптор: &T"
 END
 
@@ -47619,7 +47619,7 @@ ZH: "猛禽王戰機：&T"
 BP: "King Raptor: &R"
 PL: "Królewski Raptor: &T"
 RU: "Королевский Раптор: &T"
-AR: "ﺔﯿﻜﻠﻤﻟا رﻮﺘﺑار ﺔﻠﺗﺎﻘﻣ"
+AR: "&T ﺔﯿﻜﻠﻤﻟا رﻮﺘﺑار ﺔﻠﺗﺎﻘﻣ"
 UK: "Королівський Раптор: &T"
 END
 
@@ -47638,7 +47638,7 @@ ZH: "阿爾發曙光轟炸機：&B"
 BP: "Bombardeiro Aurora Alpha: &A"
 PL: "Aurora Alfa: &A"
 RU: "Бомбардировщик Аврора Альфа: &B"
-AR: "اروروأ ﺎﻔﻟأ ﺔﻠﺒﻨﻗ ﺮﺠﻔﻣ"
+AR: "&B اروروأ ﺎﻔﻟأ ﺔﻠﺒﻨﻗ ﺮﺠﻔﻣ"
 UK: "Бомбардувальник Аврора Альфа: &B"
 END
 
@@ -47653,7 +47653,7 @@ ZH: "阿爾發曙光轟炸機：&B"
 BP: "Aurora Alfa: &A"
 PL: "Aurora Alfa: &A"
 RU: "Аврора Альфа: &B"
-AR: "اروروأ ﺎﻔﻟأ"
+AR: "&A اروروأ ﺎﻔﻟأ"
 UK: "Аврора Альфа: &A"
 END
 
@@ -47670,7 +47670,7 @@ ZH: "狙擊手：&S"
 BP: "Atirador de Elite: &A"
 PL: "Snajper: &S"
 RU: "Снайпер: &S"
-AR: "ﺹﺎﻨﻘﻟا"
+AR: "&S ﺹﺎﻨﻘﻟا"
 UK: "Снайпер: &S"
 END
 
@@ -47688,7 +47688,7 @@ ZH: "無人哨兵機：&S"
 BP: "Drone Sentinela: &S"
 PL: "Robot strażniczy: &S"
 RU: "Сторожевой беспилотный аппарат: &S"
-AR: "ﺔﺳاﺮﺤﻟا ةﺮﺋﺎﻃ"
+AR: "&S ﺔﺳاﺮﺤﻟا ةﺮﺋﺎﻃ"
 UK: "Вартовий дрон: &S"
 END
 
@@ -47705,7 +47705,7 @@ ZH: "無人哨兵機：&S"
 BP: "Drone Sentinela: &S"
 PL: "Robot strażniczy: &S"
 RU: "Сторожевой беспилотный аппарат: &S"
-AR: "ﺔﺳاﺮﺤﻟا ةﺮﺋﺎﻃ"
+AR: "&S ﺔﺳاﺮﺤﻟا ةﺮﺋﺎﻃ"
 UK: "Вартовий дрон: &S"
 END
 
@@ -47720,7 +47720,7 @@ ZH: "地獄火蜂型機：&F"
 BP: "Drone Hellfire: &F"
 PL: "Robot rakietowy: &R"
 RU: "Ракетный беспилотный аппарат 'Хеллфайр': &F"
-AR: "ﺔﯿﺣﺎﻨﺠﻟا ةﺮﺋﺎﻄﻟا"
+AR: "&F ﺔﯿﺣﺎﻨﺠﻟا ةﺮﺋﺎﻄﻟا"
 UK: "Дрон Хелфайр: &F"
 END
 
@@ -47735,7 +47735,7 @@ ZH: "點防禦蜂型機：&P"
 BP: "Drone de Defesa: &F"
 PL: "Robot obrony punktowej: &P"
 RU: "Оборонительный беспилотный аппарат: &P"
-AR: "ﺔﯿﻋﺎﻓﺪﻟا ةﺮﺋﺎﻄﻟا"
+AR: "&P ﺔﯿﻋﺎﻓﺪﻟا ةﺮﺋﺎﻄﻟا"
 UK: "Дрон лазерного захисту: &P"
 END
 
@@ -47750,7 +47750,7 @@ ZH: "螺旋直昇機：&X"
 BP: "Hélix: &X"
 PL: "Helisa: &I"
 RU: "Хеликс: &X"
-AR: "لﻮﻤﺤﻤﻟا ﻲﺒﻟﻮﻠﻟا ﻊﻓﺪﻤﻟا"
+AR: "&X لﻮﻤﺤﻤﻟا ﻲﺒﻟﻮﻠﻟا ﻊﻓﺪﻤﻟا"
 UK: "Хелікс: &X"
 END
 
@@ -47767,7 +47767,7 @@ ZH: "核螺旋直昇機：&X"
 BP: "Hélix Nuclear: &X"
 PL: "Helisa atomowa: &I"
 RU: "Ядерный Хеликс: &X"
-AR: "لﻮﻤﺤﻤﻟا ﻲﺒﻟﻮﻠﻟا ﻊﻓﺪﻤﻟا"
+AR: "&X لﻮﻤﺤﻤﻟا ﻲﺒﻟﻮﻠﻟا ﻊﻓﺪﻤﻟا"
 UK: "Ядерний Хелікс: &X"
 END
 
@@ -47784,7 +47784,7 @@ ZH: "螺旋直昇機：&X"
 BP: "Hélix: &X"
 PL: "Helisa: &I"
 RU: "Хеликс: &X"
-AR: "لﻮﻤﺤﻤﻟا ﻲﺒﻟﻮﻠﻟا ﻊﻓﺪﻤﻟا"
+AR: "&X لﻮﻤﺤﻤﻟا ﻲﺒﻟﻮﻠﻟا ﻊﻓﺪﻤﻟا"
 UK: "Хелікс: &X"
 END
 
@@ -47800,7 +47800,7 @@ ZH: "核武獵人：&T"
 BP: "Caçador de Armas Nucleares: &T"
 PL: "Tropiciel atomowy: &T"
 RU: "Ядерный Охотник за танками: &T"
-AR: "يوﻮﻨﻟا دﺎﯿﺼﻟا"
+AR: "&T يوﻮﻨﻟا دﺎﯿﺼﻟا"
 UK: "Ядерний мисливець: &U"
 END
 
@@ -47815,7 +47815,7 @@ ZH: "洲際彈道飛彈：&I"
 BP: "ICBM: &I"
 PL: "BRakM: &B"
 RU: "МБР: &I"
-AR: "ICBM"
+AR: "&I ICBM"
 UK: "МБР: &I"
 END
 
@@ -47830,7 +47830,7 @@ ZH: "前哨監聽車：&S"
 BP: "Posto Avançado de Escuta: &S"
 PL: "Posterunek nasłuchowy: &S"
 RU: "Мобильный аванпост: &S"
-AR: "ﻊﻤﺘﺴﻤﻟا ﻲﻣﺎﻣﻷا ﺮﻔﺨﻤﻟا"
+AR: "&S ﻊﻤﺘﺴﻤﻟا ﻲﻣﺎﻣﻷا ﺮﻔﺨﻤﻟا"
 UK: "Аванпост прослуховування: &S"
 END
 
@@ -47848,7 +47848,7 @@ ZH: "假黑市：&M"
 BP: "Mercado Negro Falso: &M"
 PL: "Fałszywy czarny rynek: &R"
 RU: "Ложный Чёрный рынок: &M"
-AR: "ﺔﻔﻳﺰﻤﻟا ءادﻮﺴﻟا قﻮﺴﻟا"
+AR: "&M ﺔﻔﻳﺰﻤﻟا ءادﻮﺴﻟا قﻮﺴﻟا"
 UK: "Фальшивий чорний ринок: &M"
 END
 
@@ -47863,7 +47863,7 @@ ZH: "戰斧風暴：&T"
 BP: "Tempestade Tomahawnk: &T"
 PL: "Deszcz Tomahawków: &T"
 RU: "Залповая установка Томагавк: &T"
-AR: "كﻮھﺎﻣﻮﺘﻟا مﻮﺠھ"
+AR: "&T كﻮھﺎﻣﻮﺘﻟا مﻮﺠھ"
 UK: "Томагавк Шторм: &T"
 END
 
@@ -47880,7 +47880,7 @@ ZH: "電子干擾坦克：&E"
 BP: "Tanque ECM: &E"
 PL: "Czołg ECM: &E"
 RU: "Электромагнитный танк: &E"
-AR: "ﺔﻛﺮﺘﺸﻤﻟا ﺔﯿﺑروﻷا قﻮﺴﻟا ﺔﺑﺎﺑد"
+AR: "&E ﺔﻛﺮﺘﺸﻤﻟا ﺔﯿﺑروﻷا قﻮﺴﻟا ﺔﺑﺎﺑد"
 UK: "Танк РЕБ: &E"
 END
 
@@ -47898,7 +47898,7 @@ ZH: "戰鬥巴士：&E"
 BP: "Ônibus de Combate: &E"
 PL: "Autobus bojowy: &A"
 RU: "Боевой автобус: &E"
-AR: "ﺔﻛﺮﻌﻤﻟا ﺔﻠﻗﺎﻧ"
+AR: "&E ﺔﻛﺮﻌﻤﻟا ﺔﻠﻗﺎﻧ"
 UK: "Бойовий автобус: &E"
 END
 
@@ -47915,7 +47915,7 @@ ZH: "無人哨兵機機槍：&N"
 BP: "Arma do Drone Sentinela: &N"
 PL: "Działko robota strażniczego: &D"
 RU: "Вооружение для сторожевого бесп. аппарата: &N"
-AR: "ﺔﯿﻟﻵا ﺔﺳاﺮﺤﻟا ةﺮﺋﺎﻃ ﺔﯿﻗﺪﻨﺑ"
+AR: "&N ﺔﯿﻟﻵا ﺔﺳاﺮﺤﻟا ةﺮﺋﺎﻃ ﺔﯿﻗﺪﻨﺑ"
 UK: "Кулемет сторожового дрона: &N"
 END
 
@@ -47932,7 +47932,7 @@ ZH: "無人哨兵機機槍：&N"
 BP: "Arma do Drone Sentinela: &N"
 PL: "Działko robota strażniczego: &D"
 RU: "Вооружение для сторожевого бесп. аппарата: &N"
-AR: "ﺔﯿﻟﻵا ﺔﺳاﺮﺤﻟا ةﺮﺋﺎﻃ ﺔﯿﻗﺪﻨﺑ"
+AR: "&N ﺔﯿﻟﻵا ﺔﺳاﺮﺤﻟا ةﺮﺋﺎﻃ ﺔﯿﻗﺪﻨﺑ"
 UK: "Кулемет сторожового дрона: &N"
 END
 
@@ -47950,7 +47950,7 @@ ZH: "四管加農炮狙擊：&C"
 BP: "Canhão Quádruplo de Precisão: &C"
 PL: "Snajperka czterolufowa: &C"
 RU: "Противопехотные пули: &C"
-AR: "Quan ﻊﻓﺪﻤﻟا ﺺﻨﻗ"
+AR: "&C Quan ﻊﻓﺪﻤﻟا ﺺﻨﻗ"
 UK: "Снайперська Четверна Гармата: &C"
 END
 
@@ -47965,7 +47965,7 @@ ZH: "補給線：&U"
 BP: "Linhas de Suprimento: &U"
 PL: "Linie zaopatrzeniowe: &L"
 RU: "Линия снабжения: &U"
-AR: "ﺰﯿﮫﺠﺘﻟا طﻮﻄﺧ"
+AR: "&U ﺰﯿﮫﺠﺘﻟا طﻮﻄﺧ"
 UK: "Лінії постачання: &U"
 END
 
@@ -47983,7 +47983,7 @@ ZH: "炸彈之母：&M"
 BP: "Mãe de Todas as Bombas: &M"
 PL: "Bomba nad bombami: &M"
 RU: "Сверхмощная Фугасная Авиабомба: &M"
-AR: "ﻞﺑﺎﻨﻘﻟا ﺔﻓﺎﻛ ةﺪﻟﻮﻣ - ﺢﺒﺸﻟا ﺔﻠﺗﺎﻘﻣ"
+AR: "&M ﻞﺑﺎﻨﻘﻟا ﺔﻓﺎﻛ ةﺪﻟﻮﻣ - ﺢﺒﺸﻟا ﺔﻠﺗﺎﻘﻣ"
 UK: "Мати всіх бомб: &M"
 END
 
@@ -48000,7 +48000,7 @@ ZH: "轉變為指揮中心：&B"
 BP: "Tornar Verdadeiro o Centro de Comando: &T"
 PL: "Przekształć w prawdziwy sztab: &P"
 RU: "Перестроить в настоящий Командный центр: &B"
-AR: "ﻲﻘﯿﻘﺣ ةدﺎﯿﻗ ﺰﻛﺮﻣ ﺢﺒﺻأ"
+AR: "&B ﻲﻘﯿﻘﺣ ةدﺎﯿﻗ ﺰﻛﺮﻣ ﺢﺒﺻأ"
 UK: "Перетворити на справжній командний центр: &B"
 END
 
@@ -48017,7 +48017,7 @@ ZH: "轉變為兵營：&B"
 BP: "Tornar Verdadeiro o Quartel: &T"
 PL: "Przekształć w prawdziwe koszary: &P"
 RU: "Перестроить в настоящую Казарму: &B"
-AR: "ﺔﯿﻘﯿﻘﺣ تﺎﻨﻜﺛ ﺖﺤﺒﺻأ"
+AR: "&B ﺔﯿﻘﯿﻘﺣ تﺎﻨﻜﺛ ﺖﺤﺒﺻأ"
 UK: "Перетворити на справжню казарму: &B"
 END
 
@@ -48034,7 +48034,7 @@ ZH: "轉變為軍火商：&B"
 BP: "Tornar Verdadeiro o Negociante de Armas: &T"
 PL: "Przekształć w prawdziwego handlarza bronią: &P"
 RU: "Перестроить в настоящего Торговца оружием: &B"
-AR: "ﻲﻘﻴﻘﺣ ﺔﺤﻠﺳﺃ ﺮﺟﺎﺗ ﺖﺤﺒﺻﺃ"
+AR: "&B ﻲﻘﻴﻘﺣ ﺔﺤﻠﺳﺃ ﺮﺟﺎﺗ ﺖﺤﺒﺻﺃ"
 UK: "Перетворити на справжнього торговця зброєю: &B"
 END
 
@@ -48051,7 +48051,7 @@ ZH: "轉變為補給站：&B"
 BP: "Tornar Verdadeiro o Armazém de Suprimentos: &T"
 PL: "Przekształć w prawdziwy skład zaopatrzenia: &P"
 RU: "Перестроить в настоящий Склад снабжения: &B"
-AR: "ﻲﻘﯿﻘﺣ ﻲﻔﺨﻣ ﺰﯿﮫﺠﺗ ﺢﺒﺻأ"
+AR: "&B ﻲﻘﯿﻘﺣ ﻲﻔﺨﻣ ﺰﯿﮫﺠﺗ ﺢﺒﺻأ"
 UK: "Перетворити на справжню схованку припасів: &B"
 END
 
@@ -48068,7 +48068,7 @@ ZH: "轉變為黑市：&B"
 BP: "Tornar Verdadeiro o Mercado Negro: &T"
 PL: "Przekształć w prawdziwy czarny rynek: &P"
 RU: "Перестроить в настоящий Чёрный рынок: &B"
-AR: "ﺔﯿﻘﯿﻘﺣ ءادﻮﺳ قﻮﺳ ﺖﺤﺒﺻأ"
+AR: "&B ﺔﯿﻘﯿﻘﺣ ءادﻮﺳ قﻮﺳ ﺖﺤﺒﺻأ"
 UK: "Перетворити на справжній чорний ринок: &B"
 END
 
@@ -48085,7 +48085,7 @@ ZH: "碉堡殺手：&U"
 BP: "Destruidores de Bunker: &B"
 PL: "Niszczyciele bunkrów: &U"
 RU: "Противобункерные ракеты: &U"
-AR: "ﺔﻤﻄﺤﻤﻟا ﺊﺑﺎﺨﻤﻟا"
+AR: "&U ﺔﻤﻄﺤﻤﻟا ﺊﺑﺎﺨﻤﻟا"
 UK: "Вбивці бункерів: &U"
 END
 
@@ -48102,7 +48102,7 @@ ZH: "反制裝置：&O"
 BP: "Contramedidas: &O"
 PL: "Przeciwśrodki: &O"
 RU: "Контрмеры: &O"
-AR: "ةدﺎﻀﻤﻟا تاءاﺮﺟﻹا"
+AR: "&O ةدﺎﻀﻤﻟا تاءاﺮﺟﻹا"
 UK: "Теплові пастки: &O"
 END
 
@@ -48119,7 +48119,7 @@ ZH: "反制裝置：&O"
 BP: "Contramedidas: &O"
 PL: "Przeciwśrodki: &O"
 RU: "Контрмеры: &O"
-AR: "ةدﺎﻀﻤﻟا تاءاﺮﺟﻹا"
+AR: "&O ةدﺎﻀﻤﻟا تاءاﺮﺟﻹا"
 UK: "Теплові пастки: &O"
 END
 
@@ -48136,7 +48136,7 @@ ZH: "生化防護衣：&I"
 BP: "Instalações Químicas: &I"
 PL: "Kombinezony chemiczne: &I"
 RU: "Костюмы химзащиты: &I"
-AR: "ﺔﯿﺋﺎﯿﻤﯿﻜﻟا ةدﺎﻀﻤﻟا ﺲﺑﻼﻤﻟا"
+AR: "&I ﺔﯿﺋﺎﯿﻤﯿﻜﻟا ةدﺎﻀﻤﻟا ﺲﺑﻼﻤﻟا"
 UK: "Костюми хімзахисту: &I"
 END
 
@@ -48153,7 +48153,7 @@ ZH: "生化防護衣：&I"
 BP: "Instalações Químicas: &I"
 PL: "Kombinezony chemiczne: &I"
 RU: "Костюмы химзащиты: &I"
-AR: "ﺔﯿﺋﺎﯿﻤﯿﻜﻟا ةدﺎﻀﻤﻟا ﺲﺑﻼﻤﻟا"
+AR: "&I ﺔﯿﺋﺎﯿﻤﯿﻜﻟا ةدﺎﻀﻤﻟا ﺲﺑﻼﻤﻟا"
 UK: "Костюми хімзахисту: &I"
 END
 
@@ -48170,7 +48170,7 @@ ZH: "衛星侵入1：&A"
 BP: "Satélite Espião I: &A"
 PL: "Łącze hakerskie I: &A"
 RU: "Кража данных со спутника I: &A"
-AR: "لوﻷا ﻲﻋﺎﻨﺼﻟا ﺮﻤﻘﻟا رﺎﺠﺌﺘﺳإ"
+AR: "&A لوﻷا ﻲﻋﺎﻨﺼﻟا ﺮﻤﻘﻟا رﺎﺠﺌﺘﺳإ"
 UK: "Злам Супутника I: &A"
 END
 
@@ -48185,7 +48185,7 @@ ZH: "衛星侵入2：&A"
 BP: "Satélite Espião II: &A"
 PL: "Łącze hakerskie II: &A"
 RU: "Кража данных со спутника II: &A"
-AR: "ﻲﻧﺎﺜﻟا ﻲﻋﺎﻨﺼﻟا ﺮﻤﻘﻟا رﺎﺠﺌﺘﺳإ"
+AR: "&A ﻲﻧﺎﺜﻟا ﻲﻋﺎﻨﺼﻟا ﺮﻤﻘﻟا رﺎﺠﺌﺘﺳإ"
 UK: "Злам Супутника II: &S"
 END
 
@@ -48200,7 +48200,7 @@ ZH: "愛國主義：&P"
 BP: "Fanatismo: &F"
 PL: "Fanatyzm: &F"
 RU: "Патриотизм: &P"
-AR: "ﺔﯿﻨﻃﻮﻟا"
+AR: "&P ﺔﯿﻨﻃﻮﻟا"
 UK: "Патріотизм: &P"
 END
 
@@ -48217,7 +48217,7 @@ ZH: "武器級鈾砲彈：&U"
 BP: "Classificar Armas de Munição Radioativa: &M"
 PL: "Pociski uranowe: &U"
 RU: "Вооружить урановыми снарядами: &U"
-AR: "ﺔﺟرﺪﺘﻤﻟا مﻮﯿﻧارﻮﻳ ﻒﺋاﺬﻗ"
+AR: "&U ﺔﺟرﺪﺘﻤﻟا مﻮﯿﻧارﻮﻳ ﻒﺋاﺬﻗ"
 UK: "Уранові снаряди: &U"
 END
 
@@ -48232,7 +48232,7 @@ ZH: "自動裝填：&A"
 BP: "Autocarregador: &A"
 PL: "Autoładowarka: &A"
 RU: "Автозарядка снарядов: &A"
-AR: "ﻲﻟﻵا ﻞﻤﺤﻤﻟا"
+AR: "&A ﻲﻟﻵا ﻞﻤﺤﻤﻟا"
 UK: "Автозаряджання: &A"
 END
 
@@ -48250,7 +48250,7 @@ ZH: "中子砲彈：&S"
 BP: "Munição de Neutrônio: &N"
 PL: "Pociski neutronowe: &S"
 RU: "Нейтронные снаряды: &S"
-AR: "نوﺮﺗﻮﯿﻨﻟا ﻒﺋاﺬﻗ"
+AR: "&S نوﺮﺗﻮﯿﻨﻟا ﻒﺋاﺬﻗ"
 UK: "Нейтронні снаряди: &S"
 END
 
@@ -48267,7 +48267,7 @@ ZH: "融合反應爐：&F"
 BP: "Reatores de Fusão: &F"
 PL: "Reaktory termojądrowe: &T"
 RU: "Термоядерные реакторы: &F"
-AR: "رﺎﮫﺼﻧﻹا تﻼﻋﺎﻔﻣ"
+AR: "&F رﺎﮫﺼﻧﻹا تﻼﻋﺎﻔﻣ"
 UK: "Реактор синтезу: &F"
 END
 
@@ -48314,7 +48314,7 @@ ZH: "汽油彈：&N"
 BP: "Bomba de Napalm: &N"
 PL: "Bomba napalmowa: &N"
 RU: "Бомба с Напалмом: &N"
-AR: "ﻢﻟﺎﺑﺎﻨﻟا ﺔﻠﺒﻨﻗ"
+AR: "&N ﻢﻟﺎﺑﺎﻨﻟا ﺔﻠﺒﻨﻗ"
 UK: "Напалмова бомба: &N"
 END
 
@@ -48329,7 +48329,7 @@ ZH: "防禦建築：&E"
 BP: "Estrutura Fortificada: &E"
 PL: "Wzmocniona struktura: &Z"
 RU: "Укрепление зданий: &E"
-AR: "تﺂﺸﻨﻤﻟا ﻦﯿﺼﺤﺗ"
+AR: "&E تﺂﺸﻨﻤﻟا ﻦﯿﺼﺤﺗ"
 UK: "Укріплені будівлі: &E"
 END
 
@@ -48347,7 +48347,7 @@ ZH: "詭雷：&O"
 BP: "Armadilha Explosiva: &R"
 PL: "Pułapka bombowa: &U"
 RU: "Растяжка: &O"
-AR: "ةﺮﺠﻔﺘﻤﻟا ﺖﯿﻣﺎﻨﻳﺪﻟا ﻊﺑﺎﺻأ"
+AR: "&O ةﺮﺠﻔﺘﻤﻟا ﺖﯿﻣﺎﻨﻳﺪﻟا ﻊﺑﺎﺻأ"
 UK: "Міна-пастка: &O"
 END
 
@@ -48368,7 +48368,7 @@ ZH: "立即引爆：&N"
 BP: "Detonar Agora! &A"
 PL: "Detonuj! &N"
 RU: "Взорвать! &N"
-AR: "! ﻥﺂﻟا ﺮﻴﺠﻔﺗ"
+AR: "&N ! ﻥﺂﻟا ﺮﻴﺠﻔﺗ"
 UK: "Підірвати зараз: &N"
 //patch104p-core-end
 //patch104p-optional-begin
@@ -48382,7 +48382,7 @@ ZH: "立即引爆：&D"
 BP: "Detonar Agora! &D"
 PL: "Detonuj! &D"
 RU: "Взорвать! &D"
-AR: "! ﻥﺂﻟا ﺮﻴﺠﻔﺗ"
+AR: "&D ! ﻥﺂﻟا ﺮﻴﺠﻔﺗ"
 UK: "Підірвати зараз: &D"
 //patch104p-optional-end
 END
@@ -48400,7 +48400,7 @@ ZH: "變換為假建築：&F"
 BP: "Alternar para Estruturas Falsas: &F"
 PL: "Przełączenie na fałszywe budynki: &F"
 RU: "Строительство Ложных зданий: &F"
-AR: "ﺔﻔﻳﺰﻤﻟا تﺄﺸﻨﻤﻠﻟ لﺎﻘﺘﻧﻹا"
+AR: "&F ﺔﻔﻳﺰﻤﻟا تﺄﺸﻨﻤﻠﻟ لﺎﻘﺘﻧﻹا"
 UK: "Перейти до фальшивих будівель: &F"
 END
 
@@ -48422,7 +48422,7 @@ ZH: "變換為真建築：&R"
 BP: "Alternar para Estruturas de Verdade: &V"
 PL: "Przełączenie na prawdziwe budynki: &F"
 RU: "Строительство Настоящих зданий: &R"
-AR: "ﺔﯿﻘﯿﻘﺤﻟا تﺄﺸﻨﻤﻠﻟ لﺎﻘﺘﻧﻹا"
+AR: "&R ﺔﯿﻘﯿﻘﺤﻟا تﺄﺸﻨﻤﻠﻟ لﺎﻘﺘﻧﻹا"
 UK: "Перейти до реальних будівель: &R"
 //patch104p-core-end
 //patch104p-optional-begin
@@ -48436,7 +48436,7 @@ ZH: "變換為真建築：&F"
 BP: "Alternar para Estruturas de Verdade: &F"
 PL: "Przełączenie na prawdziwe budynki: &F"
 RU: "Строительство Настоящих зданий: &F"
-AR: "ﺔﯿﻘﯿﻘﺤﻟا تﺄﺸﻨﻤﻠﻟ لﺎﻘﺘﻧﻹا"
+AR: "&F ﺔﯿﻘﯿﻘﺤﻟا تﺄﺸﻨﻤﻠﻟ لﺎﻘﺘﻧﻹا"
 UK: "Перейти до реальних будівель: &F"
 //patch104p-optional-end
 END
@@ -48454,7 +48454,7 @@ ZH: "高爆炸藥陷阱：&D"
 BP: "Armadilhas de Demolição de Alto-Explosivo: &D"
 PL: "Pułapki wybuchowe dużej mocy: &D"
 RU: "Усиленная Ловушка со взрывчаткой: &D"
-AR: "ﺮﺠﻔﺘﻤﻟا ﻲﺿرﻷا ﻢﻐﻠﻟا"
+AR: "&D ﺮﺠﻔﺘﻤﻟا ﻲﺿرﻷا ﻢﻐﻠﻟا"
 UK: "Посилені підривні пастки: &D"
 END
 
@@ -48471,7 +48471,7 @@ ZH: "偽裝網：&N"
 BP: "Rede de Camuflagem: &R"
 PL: "Siatka maskująca: &C"
 RU: "Маскировочная сетка: &N"
-AR: "هﻮﻤﻤﻟا ﻊﻓﺪﻤﻟا"
+AR: "&N هﻮﻤﻤﻟا ﻊﻓﺪﻤﻟا"
 UK: "Маскувальна сітка: &N"
 END
 
@@ -48490,7 +48490,7 @@ ZH: "炭疽菌伽瑪：&X"
 BP: "Antraz Gama: &Z"
 PL: "Wąglik gamma: &G"
 RU: "Сибирская язва Гамма: &X"
-AR: "ﺔﯿﻣﻮﺛﺮﺠﻟا ﺎﻣﺎﻏ ﺔﻠﺒﻨﻗ"
+AR: "&X ﺔﯿﻣﻮﺛﺮﺠﻟا ﺎﻣﺎﻏ ﺔﻠﺒﻨﻗ"
 UK: "Сибірська виразка Гамма: &X"
 //patch104p-core-end
 //patch104p-optional-begin
@@ -48504,7 +48504,7 @@ ZH: "炭疽菌伽瑪：&X"
 BP: "Antraz Gama: &A"
 PL: "Wąglik gamma: &A"
 RU: "Сибирская язва Гамма: &X"
-AR: "ﺔﯿﻣﻮﺛﺮﺠﻟا ﺎﻣﺎﻏ ﺔﻠﺒﻨﻗ"
+AR: "&X ﺔﯿﻣﻮﺛﺮﺠﻟا ﺎﻣﺎﻏ ﺔﻠﺒﻨﻗ"
 UK: "Сибірська виразка Гамма: &X"
 //patch104p-optional-end
 END
@@ -48522,7 +48522,7 @@ ZH: "工人工作鞋：&S"
 BP: "Sapatos de Trabalhador: &S"
 PL: "Obuwie robocze: &U"
 RU: "Обувь для Рабочих: &S"
-AR: "لﺎﻤﻌﻟا ﺔﻳﺬﺣأ"
+AR: "&S لﺎﻤﻌﻟا ﺔﻳﺬﺣأ"
 UK: "Черевики робітника: &S"
 END
 
@@ -48537,7 +48537,7 @@ ZH: "中子地雷：&M"
 BP: "Minas de Nêutron: &M"
 PL: "Miny neutronowe: &M"
 RU: "Нейтронные мины: &M"
-AR: "نوﺮﺗﻮﯿﻧ مﺎﻐﻟأ"
+AR: "&M نوﺮﺗﻮﯿﻧ مﺎﻐﻟأ"
 UK: "Нейтронні міни: &M"
 END
 
@@ -48554,7 +48554,7 @@ ZH: "中子地雷：&M"
 BP: "Minas de Nêutron: &M"
 PL: "Miny neutronowe: &M"
 RU: "Нейтронные мины: &M"
-AR: "نوﺮﺗﻮﯿﻧ مﺎﻐﻟأ"
+AR: "&M نوﺮﺗﻮﯿﻧ مﺎﻐﻟأ"
 UK: "Нейтронні міни: &M"
 END
 
@@ -48571,7 +48571,7 @@ ZH: "核子彈殼：&N"
 BP: "Ogiva Nuclear: &N"
 PL: "Głowica nuklearna: &N"
 RU: "Ядерные снаряды: &N"
-AR: "ﺔﻳوﻮﻨﻟا ﺔﻔﻳﺬﻘﻟا"
+AR: "&N ﺔﻳوﻮﻨﻟا ﺔﻔﻳﺬﻘﻟا"
 UK: "Ядерні снаряди: &N"
 END
 
@@ -48588,7 +48588,7 @@ ZH: "中子砲彈：&U"
 BP: "Munições de Nêutron: &U"
 PL: "Pociski neutronowe: &U"
 RU: "Нейтронные снаряды: &U"
-AR: "نوﺮﺘﯿﻨﻟا ﻒﺋاﺬﻗ"
+AR: "&U نوﺮﺘﯿﻨﻟا ﻒﺋاﺬﻗ"
 UK: "Нейтронні снаряди: &U"
 END
 
@@ -48606,7 +48606,7 @@ ZH: "空投傳單：&L"
 BP: "Soltar Folhetos: &L"
 PL: "Zrzut ulotek: &L"
 RU: "Сброс Листовок с пропагандой: &L"
-AR: "ﺶﻳﻮﺸﺘﻟا قاروأ لاﺰﻧأ"
+AR: "&L ﺶﻳﻮﺸﺘﻟا قاروأ لاﺰﻧأ"
 UK: "Скидання листівок: &L"
 END
 
@@ -48625,7 +48625,7 @@ ZH: "手提箱核彈：&N"
 BP: "Maleta de Arma Nuclear: &N"
 PL: "Walizkowa atomówka: &W"
 RU: "Сумка с Ядерным зарядом: &N"
-AR: "ﺔﻳوﻮﻨﻟا ﺔﺒﯿﻘﺤﻟا"
+AR: "&N ﺔﻳوﻮﻨﻟا ﺔﺒﯿﻘﺤﻟا"
 UK: "Ядерна валіза: &N"
 END
 
@@ -48655,7 +48655,7 @@ ZH: "洲際彈道飛彈：&I"
 BP: "ICBM: &I"
 PL: "BRakM: &B"
 RU: "МБР: &I"
-AR: "مإ ﻲﺑ ﻲﺳ يآ"
+AR: "&I مإ ﻲﺑ ﻲﺳ يآ"
 UK: "МБР: &I"
 END
 
@@ -48700,7 +48700,7 @@ ZH: "戰斧風暴：&T"
 BP: "Lançador de Tempestade Tomahawk: &T"
 PL: "Deszcz Tomahawków: &T"
 RU: "Залп ракетами Томагавк: &T"
-AR: "كﻮھﺎﻣﻮﺘﻟا مﻮﺠھ"
+AR: "&T كﻮھﺎﻣﻮﺘﻟا مﻮﺠھ"
 UK: "Томагавк шторм: &T"
 END
 
@@ -48736,7 +48736,7 @@ ZH: "鬼魅炮艇機：&G"
 BP: "Avião de Artilharia Spectre: &N"
 PL: "Szturmowiec Widmo: &W"
 RU: "Боевой самолет Спектр: &G"
-AR: "ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﯿﺣوﺮﻣ"
+AR: "&G ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﯿﺣوﺮﻣ"
 UK: "Штурмовик Спектр: &G"
 END
 
@@ -48753,7 +48753,7 @@ ZH: "鬼魅炮艇機：&G"
 BP: "Avião de Artilharia Spectre: &N"
 PL: "Szturmowiec Widmo: &W"
 RU: "Боевой самолет Спектр: &G"
-AR: "ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﯿﺣوﺮﻣ"
+AR: "&G ﺔﺤﻠﺴﻤﻟا ﺮﺘﻜﺒﺳ ﺔﯿﺣوﺮﻣ"
 UK: "Штурмовик Спектр: &G"
 END
 
@@ -48791,7 +48791,7 @@ ZH: "偷襲：&T"
 BP: "Ataque Sorrateiro: &F"
 PL: "Atak z zaskoczenia: &T"
 RU: "Внезапная атака: &T"
-AR: "ﻲﻔﺨﺘﻤﻟا مﻮﺠﮫﻟا"
+AR: "&T ﻲﻔﺨﺘﻤﻟا مﻮﺠﮫﻟا"
 UK: "Підземна атака: &T"
 END
 
@@ -48809,7 +48809,7 @@ ZH: "偷襲：&S"
 BP: "Ataque Sorrateiro: &T"
 PL: "Atak z zaskoczenia: &T"
 RU: "Внезапная атака: &S"
-AR: "ﻲﻔﺨﺘﻤﻟا مﻮﺠﮫﻟا"
+AR: "&S ﻲﻔﺨﺘﻤﻟا مﻮﺠﮫﻟا"
 UK: "Підземна атака: &S"
 END
 
@@ -48826,7 +48826,7 @@ ZH: "空投坦克：&P"
 BP: "Lançar Tanque: &T"
 PL: "Desant czołgów: &T"
 RU: "Десантирование Танкового звена: &P"
-AR: "تﺎﺑﺎﺑﺪﻟا لاﺰﻧإ"
+AR: "&P تﺎﺑﺎﺑﺪﻟا لاﺰﻧإ"
 UK: "Скидання танків: &P"
 END
 
@@ -48843,7 +48843,7 @@ ZH: "投擲核彈：&U"
 BP: "Lançar Bomba Nuclear: &U"
 PL: "Zrzut atomówki: &U"
 RU: "Сброс Тактической Ядерной бомбы: &U"
-AR: "يوﻮﻨﻟا لاﺰﻧﻹا"
+AR: "&U يوﻮﻨﻟا لاﺰﻧﻹا"
 UK: "Скидання ядерної бомби: &U"
 END
 
@@ -48860,7 +48860,7 @@ ZH: "狂暴：&Y"
 BP: "Ataque Enfurecido: &O"
 PL: "Szał: &Z"
 RU: "Ярость: &Y"
-AR: "ﺔﻘﻋﺎﺼﻟا"
+AR: "&Y ﺔﻘﻋﺎﺼﻟا"
 UK: "Безумство: &Y"
 END
 
@@ -48924,7 +48924,7 @@ ZH: "戰艦砲轟：&F"
 BP: "Bombardeio do Encouraçado: &F"
 PL: "Ostrzał pancerników: &F"
 RU: "Бомбардировка Линкором: &F"
-AR: "ﺔﻴﺑﺮﺤﻟا ﺔﻨﻴﻔﺴﻟا ﻒﺼﻗ"
+AR: "&F ﺔﻴﺑﺮﺤﻟا ﺔﻨﻴﻔﺴﻟا ﻒﺼﻗ"
 UK: "Обстріл з лінкора: &F"
 END
 
@@ -48942,7 +48942,7 @@ ZH: "航艦起飛的猛禽攻擊：&F"
 BP: "Ataque de Raptor de um Porta-Aviões: &F"
 PL: "Atak Raptora z lotniskowca: &F"
 RU: "Атаковать Рапторами с Авианосца: &F"
-AR: "ﺕاﺮﺋﺎﻄﻟا ﺔﻠﻣﺎﺣ ﻦﻣ ﻒﺜﻜﻣ ﻡﻮﺠﻫ"
+AR: "&F ﺕاﺮﺋﺎﻄﻟا ﺔﻠﻣﺎﺣ ﻦﻣ ﻒﺜﻜﻣ ﻡﻮﺠﻫ"
 UK: "Атака Рапторами з авіаносця: &F"
 END
 
@@ -48959,7 +48959,7 @@ ZH: "使載具失效：&D"
 BP: "Veículo Desativado: &D"
 PL: "Unieruchomienie pojazdu: &D"
 RU: "Вывести из строя технику: &D"
-AR: "ﺔﺑﺮﻌﻟا ﻞﻴﻄﻌﺗ"
+AR: "&D ﺔﺑﺮﻌﻟا ﻞﻴﻄﻌﺗ"
 UK: "Відключити техніку: &D"
 END
 
@@ -48979,7 +48979,7 @@ ZH: "詭雷攻擊：&B"
 BP: "Ataque de Armadilha Explosiva: &B"
 PL: "Podłożenie bomby: &B"
 RU: "Установить Растяжку: &B"
-AR: "ﻞﻔﻐﻤﻟا ﻦﯿﻤﻜﻟا مﻮﺠھ"
+AR: "&B ﻞﻔﻐﻤﻟا ﻦﯿﻤﻜﻟا مﻮﺠھ"
 UK: "Закласти міни-пастки: &B"
 END
 
@@ -48994,7 +48994,7 @@ ZH: "GPS干擾器：&G"
 BP: "Desorientador de GPS: &G"
 PL: "Zagłuszacz GPS: &G"
 RU: "Маскировка сигнала GPS: &G"
-AR: "ﻲﻤﻟﺎﻌﻟا ﻲﻔﺨﺘﻟا حﺎﺘﻔﻣ"
+AR: "&G ﻲﻤﻟﺎﻌﻟا ﻲﻔﺨﺘﻟا حﺎﺘﻔﻣ"
 UK: "GPS шифратор: &G"
 END
 
@@ -49522,7 +49522,7 @@ ZH: "同位素穩定化：&I"
 BP: "Estabilidade Isótopo: &I"
 PL: "Odporność izotopowa: &I"
 RU: "Стабилизация изотопов: &I"
-AR: "ﺔﻌﺸﻤﻟا ﺮﺋﺎﻈﻨﻟا راﺮﻘﺘﺳإ"
+AR: "&I ﺔﻌﺸﻤﻟا ﺮﺋﺎﻈﻨﻟا راﺮﻘﺘﺳإ"
 UK: "Стабільність ізотопів: &I"
 END
 
@@ -56411,7 +56411,7 @@ ZH: "投下汽油彈：&D"
 BP: "Lança uma Bomba de Napalm: &L"
 PL: "Użycie bomby napalmowej: &U"
 RU: "Сброс бомбы с Напалмом: &D"
-AR: "ﻢﻟﺎﺑﺎﻨﻟا ﺔﻠﺒﻨﻗ ﻝاﺰﻧإ"
+AR: "&D ﻢﻟﺎﺑﺎﻨﻟا ﺔﻠﺒﻨﻗ ﻝاﺰﻧإ"
 UK: "Скинути напалмову бомбу: &D"
 END
 
@@ -56429,7 +56429,7 @@ ZH: "投下核彈：&D"
 BP: "Lança uma Bomba Nuclear: &L"
 PL: "Użycie bomby atomowej: &U"
 RU: "Сброс Ядерной бомбы: &D"
-AR: "ﺔﻳﻭﻮﻨﻟا ﺔﻠﺒﻨﻘﻟا ﻝاﺰﻧإ"
+AR: "&D ﺔﻳﻭﻮﻨﻟا ﺔﻠﺒﻨﻘﻟا ﻝاﺰﻧإ"
 UK: "Скинути ядерну бомбу: &D"
 END
 
@@ -96906,7 +96906,7 @@ ZH: "電磁脈衝愛國者飛彈系統：&M"
 BP: "Sistema Patriot E.M.: &M"
 PL: "System el-magn Patriot: &T"
 RU: "Ракетный комплекс ЭМИ \"Пэтриот\": &M"
-AR: "EMP تﻮﻳﺮﺗﺎﺑ مﺎﻈﻧ: &M"
+AR: "&M EMP تﻮﻳﺮﺗﺎﺑ مﺎﻈﻧ"
 UK: "Система ЕМІ Патріот: &M"
 END
 
@@ -97590,7 +97590,7 @@ ZH: "戰術核武米格機：&G"
 BP: "MiG Nuclear Tático: &G"
 PL: "MiG z taktyczną atomówką: &G"
 RU: "Тактический Ядерный МиГ: &G"
-AR: "ﺔﯿﻜﯿﺘﻜﺘﻟا ﺔﻳوﻮﻨﻟا MIG ةﺮﺋﺎﻃ"
+AR: "&G ﺔﯿﻜﯿﺘﻜﺘﻟا ﺔﻳوﻮﻨﻟا MIG ةﺮﺋﺎﻃ"
 UK: "Тактичний ядерний винищувач МіГ: &G"
 END
 
@@ -97697,7 +97697,7 @@ ZH: "超級駭客：&A"
 BP: "Super Hacker: &A"
 PL: "Superhaker: &A"
 RU: "Супер Хакер: &A"
-AR: "زﺎﺘﻤﻤﻟا ﺮﺗﻮﯿﺒﻤﻜﻟا ﺺﻟ"
+AR: "&A زﺎﺘﻤﻤﻟا ﺮﺗﻮﯿﺒﻤﻜﻟا ﺺﻟ"
 UK: "Суперхакер: &A"
 END
 
@@ -97729,7 +97729,7 @@ ZH: "超級黑蓮花：&B"
 BP: "Super Lotus: &B"
 PL: "Superlotos: &L"
 RU: "Супер Лотос: &B"
-AR: "ةزﺎﺘﻤﻤﻟا ﺲﺗﻮﻠﻟا ةﺎﺘﻓ"
+AR: "&B ةزﺎﺘﻤﻤﻟا ﺲﺗﻮﻠﻟا ةﺎﺘﻓ"
 UK: "Супер Лотос: &B"
 END
 
@@ -97749,7 +97749,7 @@ ZH: "攻擊前哨車：&S"
 BP: "Postos Avançados de Ataque: &S"
 PL: "Posterunek szturmowy: &S"
 RU: "Боевой Мобильный аванпост: &S"
-AR: "ﻲﻌﯿﻠﻄﻟا مﻮﺠﮫﻟا"
+AR: "&S ﻲﻌﯿﻠﻄﻟا مﻮﺠﮫﻟا"
 UK: "Штурмовий аванпост: &S"
 END
 
@@ -97768,7 +97768,7 @@ ZH: "突擊運輸機：&T"
 BP: "Transporte de Tropa de Assalto: &T"
 PL: "Transporter szturmowy: &T"
 RU: "Штурмовой Бронетранспортёр: &T"
-AR: "مﻮﺠﮫﻟا تاﻮﻗ ﻞﻘﻧ"
+AR: "&T مﻮﺠﮫﻟا تاﻮﻗ ﻞﻘﻧ"
 UK: "Штурмовий БТР: &T"
 END
 
@@ -97786,7 +97786,7 @@ ZH: "攻擊螺旋直昇機：&X"
 BP: "Helix de Assalto: &X"
 PL: "Helisa szturmowa: &I"
 RU: "Штурмовой Хеликс: &X"
-AR: "ﻲﺒﻟﻮﻠﻟا مﻮﺠﮫﻟا"
+AR: "&X ﻲﺒﻟﻮﻠﻟا مﻮﺠﮫﻟا"
 UK: "Штурмовий Хелікс: &X"
 END
 
@@ -97855,7 +97855,7 @@ ZH: "炸藥能力：&D"
 BP: "Habilidade de Demolições: &D"
 PL: "Wyposażenie w materiały wybuchowe: &R"
 RU: "Способность Детонация: &D"
-AR: "ﺮﯿﻣﺪﺘﻟا ﺔﯿﻠﺑﺎﻗ"
+AR: "&D ﺮﯿﻣﺪﺘﻟا ﺔﯿﻠﺑﺎﻗ"
 UK: "Здатність підриву: &D"
 END
 
@@ -97918,7 +97918,7 @@ ZH: "戰鬥運輸機：&T"
 BP: "Chinook de Combate: &T"
 PL: "Chinook bojowy: &B"
 RU: "Боевой Чинук: &T"
-AR: "ﻙﻮﻨﻴﺷ ﺔﻠﺗﺎﻘﻤﻟا"
+AR: "&T ﻙﻮﻨﻴﺷ ﺔﻠﺗﺎﻘﻤﻟا"
 UK: "Бойовий Чінук: &T"
 END
 
@@ -97957,7 +97957,7 @@ ZH: "自殺：&I"
 BP: "Suicídio: &J"
 PL: "Detonuj: &J"
 RU: "Самоубийство: &I"
-AR: "رﺎﺤﺘﻧﻹا"
+AR: "&I رﺎﺤﺘﻧﻹا"
 UK: "Самогубство: &I"
 END
 
@@ -98039,7 +98039,7 @@ ZH: "攻擊前哨監聽車：&S"
 BP: "Posto Avançado de Escuta de Assalto: &S"
 PL: "Szturmowy posterunek nasłuchowy: &S"
 RU: "Боевой Мобильный аванпост: &S"
-AR: "ﻲﺗﻮﺼﻟا مﻮﺠﮫﻟا ﺮﻔﺨﻣ"
+AR: "&S ﻲﺗﻮﺼﻟا مﻮﺠﮫﻟا ﺮﻔﺨﻣ"
 UK: "Штурмовий аванпост прослуховування: &S"
 END
 
@@ -98091,7 +98091,7 @@ ZH: "防禦碉堡：&K"
 BP: "Bunker Fortificado: &K"
 PL: "Wzmocniony bunkier: &B"
 RU: "Укреплённый Бункер: &K"
-AR: "ﻦﺼﺤﻤﻟا ﺄﺒﺨﻤﻟا"
+AR: "&K ﻦﺼﺤﻤﻟا ﺄﺒﺨﻤﻟا"
 UK: "Укріплений бункер: &K"
 END
 
@@ -98153,7 +98153,7 @@ ZH: "毒素解放軍：&B"
 BP: "Rebelde Tóxico: &B"
 PL: "Buntownik z toksyną: &B"
 RU: "Токсиновый Повстанец: &B"
-AR: "ﺔﻣﺎﺴﻟا ﺔﻗﺮﻔﻟا ﺮﺼﻨﻋ"
+AR: "&B ﺔﻣﺎﺴﻟا ﺔﻗﺮﻔﻟا ﺮﺼﻨﻋ"
 UK: "Токсиновий повстанець: &B"
 END
 
@@ -98216,7 +98216,7 @@ ZH: "毒素恐怖份子：&T"
 BP: "Terrorista Tóxico: &T"
 PL: "Terrorysta z toksyną: &T"
 RU: "Токсиновый Террорист: &T"
-AR: "ﺔﻣﺎﺴﻟا ﺔﯿﺑﺎھرﻹا ﺔﻗﺮﻔﻟا ﻮﻀﻋ"
+AR: "&T ﺔﻣﺎﺴﻟا ﺔﯿﺑﺎھرﻹا ﺔﻗﺮﻔﻟا ﻮﻀﻋ"
 UK: "Токсиновий терорист: &T"
 END
 
@@ -98252,7 +98252,7 @@ ZH: "毒素地道網路：&N"
 BP: "Rede de Toxina: &I"
 PL: "Sieć toksyn: &N"
 RU: "Токсиновая Сеть туннелей: &N"
-AR: "ﺔﻣﺎﺴﻟا ﺔﻜﺒﺸﻟا"
+AR: "&N ﺔﻣﺎﺴﻟا ﺔﻜﺒﺸﻟا"
 UK: "Токсинова нора: &N"
 END
 
@@ -98302,7 +98302,7 @@ ZH: "隱形升級：&S"
 BP: "Atualização para Invisibilidade: &S"
 PL: "Niewykrywalność: &S"
 RU: "Улучшение Стелс: &S"
-AR: "ﻞﻠﺴﺘﻟا ﺔﯿﻗﺮﺗ"
+AR: "&S ﻞﻠﺴﺘﻟا ﺔﯿﻗﺮﺗ"
 UK: "Невидимий Команч: &S"
 END
 
@@ -98447,7 +98447,7 @@ ZH: "雷射防禦炮塔：&M"
 BP: "Torres de Defesa com Laser: &M"
 PL: "Wieżyczka laserowa: &T"
 RU: "Лазерная турель: &M"
-AR: "يرﺰﯿﻠﻟا ﻲﻋﺎﻓﺪﻟا جﺮﺒﻟا"
+AR: "&M يرﺰﯿﻠﻟا ﻲﻋﺎﻓﺪﻟا جﺮﺒﻟا"
 UK: "Лазерна турель: &M"
 END
 
@@ -98466,7 +98466,7 @@ ZH: "雷射坦克：&C"
 BP: "Tanque Laser: &C"
 PL: "Czołg laserowy: &K"
 RU: "Лазерный танк: &C"
-AR: "ﺔﻳرﺰﯿﻠﻟا ﺔﺑﺎﺑﺪﻟا"
+AR: "&C ﺔﻳرﺰﯿﻠﻟا ﺔﺑﺎﺑﺪﻟا"
 UK: "Лазерний танк: &C"
 END
 
@@ -99329,7 +99329,7 @@ ZH: "破壞建築：&B"
 BP: "Sabotar Edifício: &B"
 PL: "Sabotuj budynek: &B"
 RU: "Вывести здание из строя: &B"
-AR: "ةﺄﺸﻨﻤﻟا ﺐﻳﺮﺨﺗ"
+AR: "&B ةﺄﺸﻨﻤﻟا ﺐﻳﺮﺨﺗ"
 UK: "Саботувати будівлю: &B"
 END
 
@@ -99378,7 +99378,7 @@ ZH: "先進炸藥陷阱：&D"
 BP: "Armadilha de Demolição Avançada: &R"
 PL: "Unowocześniona pułapka wybuchowa: &W"
 RU: "Усиленная Ловушка со взрывчаткой: &D"
-AR: "مﺪﻘﺘﻤﻟا ﻲﺿرﻷا ﻢﻐﻠﻟا"
+AR: "&D مﺪﻘﺘﻤﻟا ﻲﺿرﻷا ﻢﻐﻠﻟا"
 UK: "Покращена вибухова пастка: &D"
 END
 
@@ -99396,7 +99396,7 @@ ZH: "先進核子反應爐：&R"
 BP: "Reator Nuclear Avançado: &R"
 PL: "Unowocześniony reaktor jądrowy: &R"
 RU: "Улучшенный Ядерный реактор: &R"
-AR: "مﺪﻘﺘﻤﻟا يوﻮﻨﻟا ﻞﻋﺎﻔﻤﻟا"
+AR: "&R مﺪﻘﺘﻤﻟا يوﻮﻨﻟا ﻞﻋﺎﻔﻤﻟا"
 UK: "Покращений ядерний реактор: &R"
 END
 
@@ -99413,7 +99413,7 @@ ZH: "先進控制棒：&C"
 BP: "Barras de Controle Avançadas: &C"
 PL: "Unowocześnione pręty sterujące: &C"
 RU: "Усовершенствованные Стержни управления: &C"
-AR: "ﺔﻣﺪﻘﺘﻤﻟا ﻢﻜﺤﺘﻟا عرذأ"
+AR: "&C ﺔﻣﺪﻘﺘﻤﻟا ﻢﻜﺤﺘﻟا عرذأ"
 UK: "Удосконалені срижні керування: &C"
 END
 
@@ -99431,7 +99431,7 @@ ZH: "核子炸彈：&T"
 BP: "Bombardeiro Nuclear: &G"
 PL: "Bombowiec atomowy: &F"
 RU: "Ядерный бомбардировщик: &T"
-AR: "يوﻮﻨﻟا ﺮﺠﻔﻤﻟا"
+AR: "&T يوﻮﻨﻟا ﺮﺠﻔﻤﻟا"
 UK: "Ядерний бомбардувальник: &T"
 END
 
@@ -99648,7 +99648,7 @@ ZH: "反抗軍隱形：&B"
 BP: "Rebelde Invisível: &B"
 PL: "Zamaskowany buntownik: &B"
 RU: "Замаскированный Повстанец: &B"
-AR: "ﻞﻠﺴﺘﻤﻟا ﺮﺼﻨﻌﻟا"
+AR: "&B ﻞﻠﺴﺘﻤﻟا ﺮﺼﻨﻌﻟا"
 UK: "Невидимий повстанець: &B"
 END
 
@@ -99680,7 +99680,7 @@ ZH: "恐怖份子隱形：&T"
 BP: "Terrorista Invisível: &T"
 PL: "Zamaskowany terrorysta: &T"
 RU: "Замаскированный Террорист: &T"
-AR: "يدﺎﮫﺸﺘﺳﻹا"
+AR: "&T يدﺎﮫﺸﺘﺳﻹا"
 UK: "Невидимий терорист: &T"
 END
 
@@ -99712,7 +99712,7 @@ ZH: "劫持犯隱形：&I"
 BP: "Sequestrador Invisível: &D"
 PL: "Zamaskowany porywacz: &P"
 RU: "Замаскированный Угонщик: &I"
-AR: "ﻒﻄﺘﺨﻤﻟا"
+AR: "&I ﻒﻄﺘﺨﻤﻟا"
 UK: "Невидимий викрадач: &I"
 END
 
@@ -99744,7 +99744,7 @@ ZH: "火箭兵隱形：&G"
 BP: "Rebelde c/ RPG Invisível: &G"
 PL: "Zamaskowany żołnierz z bazuką: &O"
 RU: "Замаскированный Гранатометчик: &G"
-AR: "RPG ـﻟا فذﺎﻗ ﻮﻀﻋ"
+AR: "&G RPG ـﻟا فذﺎﻗ ﻮﻀﻋ"
 UK: "Невидимий захисник тунелів: &G"
 END
 
@@ -99806,7 +99806,7 @@ ZH: "炸彈之母：&B"
 BP: "Mãe de Todas as Bombas: &B"
 PL: "Bomba nad bombami: &B"
 RU: "Мать Всех Бомб: &B"
-AR: "ﻞﺑﺎﻨﻘﻟا ﺔﻓﺎﻛ ةﺪﻟﻮﻣ"
+AR: "&B ﻞﺑﺎﻨﻘﻟا ﺔﻓﺎﻛ ةﺪﻟﻮﻣ"
 UK: "Мати всіх бомб: &B"
 END
 
@@ -101823,4 +101823,41 @@ PL: "milicja"
 RU: "Ополчение"
 AR: "ﺎﯿﺸﯿﻠﯿﻤ"
 UK: "Міліція"
+SV: ""
+END
+
+// Patch104p @fix Polypheides 26/03/2025 added missing 1.05 custom mission menu.
+
+GUI:CustomMission
+US: "CUSTOM MISSION"
+DE: "BENUTZERDEFINIERTE MISSION"
+FR: "MISSION PERSONNALISÉE"
+ES: "MISIÓN PERSONALIZADA"
+IT: "MISSIONE PERSONALIZZATA"
+KO: "맞춤형 미션"
+ZH: "自訂任務"
+BP: "MISSÃO PERSONALIZADA"
+PL: "MISJA NIESTANDARDOWA"
+RU: "ПОЛЬЗОВ. КАРТЫ"
+AR: "مهمة مخصصة"
+UK: "ВЛАСНІ МІСІЇ"
+SV: "Extra Uppdrag"
+END
+
+// Patch104p @fix Polypheides 11/06/2025 added missing 1.05 start custom mission button.
+
+GUI:StartCustomMission
+US: "START GAME"
+DE: "START GAME"
+FR: "START GAME"
+ES: "START GAME"
+IT: "START GAME"
+KO: "START GAME"
+ZH: "START GAME"
+BP: "START GAME"
+PL: "START GAME"
+RU: "START GAME"
+AR: "START GAME"
+UK: "START GAME"
+SV: "Starta Spel"
 END
